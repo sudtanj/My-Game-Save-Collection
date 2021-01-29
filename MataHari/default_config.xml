@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	<Display
+		Fullscreen="1"
+		Width="1366"
+		Height="768"
+		LowRes="1"
+		RefreshRate="60"
+		AutoConfig="0"
+		Window="0"/>
+	<Options>
+		<Gfx display_name="#confi0_100 Gfx">
+			<Gamma
+				display_name="#confi0_144 Gamma"
+				Value="0.5"
+				ImmediateUpdate="1"
+				Type="Slider"/>
+			<ScreenResolution
+				display_name="#confi0_80 Screen Resolution"
+				Value="0"
+				Type="Slider"
+				No_Ingame="1"
+				Needs_Restart="1">
+				<OutputFormat type="Resolution">
+					<Resolution width="1024" height="768"/>
+					<Resolution width="1366" height="768"/>
+					<Resolution width="1280" height="800"/>
+					<Resolution width="1440" height="900"/>
+					<Resolution width="1280" height="960"/>
+					<Resolution width="1280" height="1024"/>
+					<Resolution width="1400" height="1050"/>
+					<Resolution width="1680" height="1050"/>
+					<Resolution width="1920" height="1080"/>
+					<Resolution width="1600" height="1200"/>
+					<Resolution width="1920" height="1200"/>
+				</OutputFormat>
+			</ScreenResolution>
+			<RefreshRate
+				display_name="#confi0_160 Refresh Rate"
+				Value="1"
+				Type="Slider"
+				No_Ingame="1"
+				Needs_Restart="1">
+				<OutputFormat type="RefreshRate"/>
+			</RefreshRate>
+			<GfxQuality
+				display_name="#confi0_192 Graphics Quality"
+				Value="1"
+				Steps="3"
+				Type="Slider"
+				No_Ingame="1">
+				<OutputFormat type="Text">
+					<Text value="#confi0_193 Low"/>
+					<Text value="#confi0_194 Medium"/>
+					<Text value="#confi0_195 High"/>
+				</OutputFormat>
+			</GfxQuality>
+			<ToggleAdvancedGraphics
+				display_name="#confi0_240 Show Advance Graphics Settings"
+				Value="0"
+				Type="CheckBox"/>
+			<SceneLOD
+				display_name="#confi0_164 Scene Quality"
+				Value="1"
+				Steps="3"
+				Type="Slider"
+				No_Ingame="1">
+				<OutputFormat type="Text">
+					<Text value="#confi0_193 Low"/>
+					<Text value="#confi0_194 Medium"/>
+					<Text value="#confi0_195 High"/>
+				</OutputFormat>
+			</SceneLOD>
+			<CharacterLOD
+				display_name="#confi0_184 Character Quality"
+				Value="1"
+				Steps="3"
+				Type="Slider"
+				No_Ingame="1">
+				<OutputFormat type="Text">
+					<Text value="#confi0_193 Low"/>
+					<Text value="#confi0_194 Medium"/>
+					<Text value="#confi0_195 High"/>
+				</OutputFormat>
+			</CharacterLOD>
+			<NPCLOD
+				display_name="#confi0_352 Background Characters"
+				Value="1"
+				Type="CheckBox"
+				No_Ingame="1"/>
+			<Antialiasing
+				display_name="#confi0_208 Use Antialiasing"
+				Value="1"
+				Type="CheckBox"/>
+			<Reflections
+				display_name="#confi0_388 Reflections"
+				Value="1"
+				Type="CheckBox"/>
+		</Gfx>
+		<Sfx display_name="#confi0_101 Sfx">
+			<MasterVolume
+				display_name="#confi0_56 Master Volume"
+				Value="1"
+				ImmediateUpdate="1"
+				Type="Slider">
+				<OutputFormat type="Percent"/>
+			</MasterVolume>
+			<MusicVolume
+				display_name="#confi0_72 Music Volume"
+				Value="0.29"
+				ImmediateUpdate="1"
+				Type="Slider">
+				<OutputFormat type="Percent"/>
+			</MusicVolume>
+			<SpeechVolume
+				display_name="#confi0_88 Speech Volume"
+				Value="0.75"
+				ImmediateUpdate="1"
+				Type="Slider">
+				<OutputFormat type="Percent"/>
+			</SpeechVolume>
+			<SfxVolume
+				display_name="#confi0_104 Sfx Volume"
+				Value="0.7"
+				ImmediateUpdate="1"
+				Type="Slider">
+				<OutputFormat type="Percent"/>
+			</SfxVolume>
+			<AmbientVolume
+				display_name="#confi0_120 Ambient Volume"
+				Value="0.9"
+				ImmediateUpdate="1"
+				Type="Slider">
+				<OutputFormat type="Percent"/>
+			</AmbientVolume>
+		</Sfx>
+		<Game display_name="#confi0_102 Game">
+			<ShowBubbles
+				display_name="#confi0_560 Show Dialog Bubbles"
+				Value="0"
+				Type="CheckBox"/>
+			<AutoFadeInterface
+				display_name="#confi0_576 Automatically hide interface"
+				Value="1"
+				Type="CheckBox"/>
+			<MinigamesPanicButton
+				display_name="#confi0_580 Show Minigame Panicbutton"
+				Value="0"
+				Type="CheckBox"/>
+		</Game>
+	</Options>
+	<Localization Language="english"/>
+	<Tweakables
+		TrainTravel_Panic_Timeout="300"
+		Wiretap_Panic_Timeout="300"
+		Decoder_Panic_Timeout="300"
+		Bookshelf_Panic_Timeout="300"
+		Sabotage_Panic_Timeout="300"
+		Dance_Panic_Timeout="20"
+		Dialog_Auto_Align="1"/>
+</Config>

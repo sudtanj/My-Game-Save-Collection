@@ -1,0 +1,235 @@
+[0:00:00 - 0] mess=REactiveapp=0 
+[0:00:00 - 0] wininit ok 
+[0:00:00 - 0] progpath: D:/Program Files/Power & Revolution/ 
+[0:00:00 - 0] userpath: D:/Users/My Documents/Power & Revolution/ 
+[0:00:00 - 0] SteamAPI_Init() ok. Id=
+467520 
+[0:00:00 - 0] STEAM BOOT OK 
+[0:00:00 - 0] -------------_geolmain----------- 
+[0:00:00 - 0] Game name: PAR 2016 ST /V=PAR ENGLISH DL /P=PAR ENGLISH DL /M=440000 
+[0:00:00 - 0] REG Version: 6.16.0.0 
+[0:00:00 - 0] EXE Version: 6.16.0.0 
+[0:00:00 - 0] Date: 2019/1/12 8:34:46 
+[0:00:00 - 0] GEOL Interface (Thu Mar 24 12:17:26 2016), build (May 21 2016 11:20:57) 
+[0:00:00 - 0] OS version: 6.2 -64b  (USER) 
+[0:00:00 - 0] Nb cores: 4 
+[0:00:00 - 0] VRAM rate=653446038 size=7616614 
+[0:00:00 - 0] gsk=76561201808584930 
+[0:00:00 - 0] reg=0/987654321 
+[0:00:00 - 0] Game ram to allocate (MB) =1400 
+[0:00:00 - 0] Myalloc:     block=350 Mb 
+[0:00:00 - 0] Myalloc:     block=350 Mb 
+[0:00:00 - 0] Myalloc:     block=350 Mb 
+[0:00:00 - 0] Myalloc:     block=350 Mb 
+[0:00:00 - 0] Myalloc: Total (Mb) = 1399 / Nb blocks = 4 
+[0:00:00 - 0] Physic ram (Mb) = 8075 
+[0:00:00 - 0] Error: XVID codecs are not installed! 
+[0:00:00 - 0] init screen... 
+[0:00:00 - 0] init display settings... 
+[0:00:00 - 0] Screenres: 1366x768 c=32 
+[0:00:00 - 0] init display settings done 
+[0:00:00 - 0] init white bitmap... 
+[0:00:00 - 0] init white bitmap done 
+[0:00:00 - 0] init video3d card... 
+[0:00:00 - 0] FirstInit
+ 
+[0:00:00 - 0] resize winddow top=0 
+[0:00:00 - 0] resize winddow h=649 
+[0:00:00 - 0] resize winddow top=0 
+[0:00:00 - 0] resize winddow h=649 
+[0:00:00 - 0] resize winddow top=0 
+[0:00:00 - 0] resize winddow h=649 
+[0:00:00 - 0] --- OpenGL Info 
+[0:00:00 - 0] Renderer: GeForce GTX 650/PCIe/SSE2 / OV:4.6.0 NVIDIA 417.35 / SV:4.60 NVIDIA 
+[0:00:00 - 0] Max combined textures supported = 192 
+[0:00:00 - 0] Max textures supported = 32 
+[0:00:00 - 0] Max textures size = 16384 
+[0:00:00 - 0] Vertex Shader : max attributs = 16 | max uniform components = 4096 
+[0:00:00 - 0] Fragment Shader : max uniform components = 4096 
+[0:00:00 - 0] Texture compression formats: 51 
+[0:00:00 - 0]     Texture compression 1: 83f2 
+[0:00:00 - 0]     Texture compression 2: 83f3 
+[0:00:00 - 0]     Texture compression 3: 8b90 
+[0:00:00 - 0]     Texture compression 4: 8b91 
+[0:00:00 - 0]     Texture compression 5: 8b92 
+[0:00:00 - 0]     Texture compression 6: 8b93 
+[0:00:00 - 0]     Texture compression 7: 8b94 
+[0:00:00 - 0]     Texture compression 8: 8b95 
+[0:00:00 - 0]     Texture compression 9: 8b96 
+[0:00:00 - 0]     Texture compression 10: 8b97 
+[0:00:00 - 0]     Texture compression 11: 8b98 
+[0:00:00 - 0]     Texture compression 12: 8b99 
+[0:00:00 - 0]     Texture compression 13: 9274 
+[0:00:00 - 0]     Texture compression 14: 9275 
+[0:00:00 - 0]     Texture compression 15: 9276 
+[0:00:00 - 0]     Texture compression 16: 9277 
+[0:00:00 - 0]     Texture compression 17: 9278 
+[0:00:00 - 0]     Texture compression 18: 9279 
+[0:00:00 - 0]     Texture compression 19: 9270 
+[0:00:00 - 0]     Texture compression 20: 9271 
+[0:00:00 - 0]     Texture compression 21: 9272 
+[0:00:00 - 0]     Texture compression 22: 9273 
+[0:00:00 - 0]     Texture compression 23: 93b0 
+[0:00:00 - 0]     Texture compression 24: 93b1 
+[0:00:00 - 0]     Texture compression 25: 93b2 
+[0:00:00 - 0]     Texture compression 26: 93b3 
+[0:00:00 - 0]     Texture compression 27: 93b4 
+[0:00:00 - 0]     Texture compression 28: 93b5 
+[0:00:00 - 0]     Texture compression 29: 93b6 
+[0:00:00 - 0]     Texture compression 30: 93b7 
+[0:00:00 - 0]     Texture compression 31: 93b8 
+[0:00:00 - 0]     Texture compression 32: 93b9 
+[0:00:00 - 0]     Texture compression 33: 93ba 
+[0:00:00 - 0]     Texture compression 34: 93bb 
+[0:00:00 - 0]     Texture compression 35: 93bc 
+[0:00:00 - 0]     Texture compression 36: 93bd 
+[0:00:00 - 0]     Texture compression 37: 93d0 
+[0:00:00 - 0]     Texture compression 38: 93d1 
+[0:00:00 - 0]     Texture compression 39: 93d2 
+[0:00:00 - 0]     Texture compression 40: 93d3 
+[0:00:00 - 0]     Texture compression 41: 93d4 
+[0:00:00 - 0]     Texture compression 42: 93d5 
+[0:00:00 - 0]     Texture compression 43: 93d6 
+[0:00:00 - 0]     Texture compression 44: 93d7 
+[0:00:00 - 0]     Texture compression 45: 93d8 
+[0:00:00 - 0]     Texture compression 46: 93d9 
+[0:00:00 - 0]     Texture compression 47: 93da 
+[0:00:00 - 0]     Texture compression 48: 93db 
+[0:00:00 - 0]     Texture compression 49: 93dc 
+[0:00:00 - 0]     Texture compression 50: 93dd 
+[0:00:00 - 0]     Texture compression 51: 12345678 
+[0:00:00 - 0] 3dcard: NVIDIA 
+[0:00:00 - 0] Vram size (Mb)= 2007 / avail= 1988 
+[0:00:00 - 0] --- 
+[0:00:00 - 0] init shaders... 
+[0:00:00 - 0] >>>default shader 
+[0:00:00 - 0] >>>fast shader 
+[0:00:00 - 0] >>>morph shader 
+[0:00:00 - 0] >>>water shader 
+[0:00:00 - 0] >>>normal map shader 
+[0:00:00 - 0] >>>shadow volume shader 
+[0:00:00 - 0] Shaders initialisation done 
+[0:00:00 - 0] ########## setvideo=1 (L=1310 H=649 B=32 WINDOWED) 
+[0:00:00 - 0] init video3d card done 
+[0:00:00 - 0] ====> vrambig=1 
+[0:00:00 - 0] t_indexsmooth_calc_palette() done 
+[0:00:00 - 3] Directsound init ok. Buffer size=16384 
+[0:00:00 - 4] mxd=0 
+[0:00:00 - 5] inivideo done 
+[0:00:00 - 5] ======================== inisys completed ======================== 
+[0:00:00 - 6] >>>>initobj: Nb=65536 Sizeof=1008 Total=63 Mb 
+[0:00:00 - 7] >>>fin initobj=65536 
+[0:00:14 - 888] bootgame 
+[0:00:23 - 1435] Accueil 
+[0:00:24 - 1445] bootgameend 
+[0:00:24 - 1445] resize winddow top=0 
+[0:00:24 - 1445] resize winddow h=649 
+[0:04:05 - 14723] resize winddow top=0 
+[0:04:05 - 14724] resize winddow h=649 
+[0:04:05 - 14725] resize winddow top=0 
+[0:04:05 - 14726] resize winddow h=649 
+[0:04:05 - 14727] resize winddow top=0 
+[0:04:05 - 14727] resize winddow h=649 
+[0:04:05 - 14728] resize winddow top=0 
+[0:04:05 - 14729] resize winddow h=649 
+[0:04:05 - 14729] resize winddow top=0 
+[0:04:05 - 14730] resize winddow h=649 
+[0:04:05 - 14731] resize winddow top=0 
+[0:04:05 - 14731] resize winddow h=649 
+[0:04:05 - 14732] resize winddow top=0 
+[0:04:05 - 14732] resize winddow h=705 
+[0:04:05 - 14733] resize winddow top=0 
+[0:04:05 - 14733] resize winddow h=705 
+[0:04:18 - 15517] _wintobmp: _winbmp11 newmodule.  l=256 h=256 
+[0:04:18 - 15524] _wintobmp out=8847361 
+[0:04:39 - 16768] newgame scenar=4000 joue:ID:P-20, 
+[0:04:39 - 16797] lod=3 
+[0:04:40 - 16805] <<<<<<<<<<<<< CLRALL >>>>>>>>>>>> mode=2 
+[0:04:40 - 16806] <<<<< clrtex(-5) >>>>>  vram avail (mb)=1539 frametime=16797 
+[0:04:40 - 16807]      ->cleared: size=88497010 nb=184 (remaining entries=0 with keep=0 bmpvram=0)  Free entries=511  Vram avail (mb)=1637 
+[0:04:40 - 16808] t_clrwintex=-5 
+[0:04:40 - 16809]      ->clrwintex vram avail (mb)=1637 
+[0:04:40 - 16809] free all vtx=1208 
+[0:04:41 - 16872]      ->freevtx vram avail (mb)=1651 
+[0:04:41 - 16872]      ->free all mshzip=0 
+[0:04:41 - 16872] MALLOC=777M (nb=453 err=0 max=797M) 
+[0:04:41 - 16873] <<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>> 
+[0:04:45 - 17128] 3Dto2D 
+[0:05:00 - 18038] resize winddow top=0 
+[0:05:00 - 18038] resize winddow h=705 
+[0:08:18 - 29884] ERROR [04] = File not found :  D:/Users/My Documents/Power & Revolution/vid/trbl/manif.avi 
+[0:08:18 - 29884] ENTITY     = 567110 
+[0:08:18 - 29884] CLASS      = Cdialog 
+[0:08:18 - 29885] FRAME      = 29876 (497 sec) 
+[0:08:18 - 29885] SOURCE     =  
+[0:08:18 - 29886]    
+[0:09:38 - 34722] ERROR [04] = File not found :  D:/Users/My Documents/Power & Revolution/vid/cata/seisme.avi 
+[0:09:38 - 34722] ENTITY     = 764119 
+[0:09:38 - 34723] CLASS      = Cdialog 
+[0:09:38 - 34723] FRAME      = 34714 (578 sec) 
+[0:09:38 - 34723] SOURCE     =  
+[0:09:38 - 34724]    
+[0:10:47 - 38850] <<<<< clrtex(-1) >>>>>  vram avail (mb)=792 frametime=38840 
+[0:10:47 - 38850]      ->cleared: size=262387072 nb=361 (remaining entries=150 with keep=4 bmpvram=0)  Free entries=361  Vram avail (mb)=1030 
+[0:11:32 - 41575] mess=UNactiveapp 
+[0:11:32 - 41575] mess=UNactiveapp free ok 
+[0:11:32 - 41576] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>unactive 
+[0:12:01 - 43308] mess=REactiveapp=1 
+[0:12:01 - 43309] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>reactive 
+[0:12:10 - 43836] ach: ACH_25 = 1 
+[0:12:53 - 46419] ERROR [04] = File not found :  D:/Users/My Documents/Power & Revolution/vid/trbl/manif.avi 
+[0:12:53 - 46420] ENTITY     = 1218977 
+[0:12:53 - 46420] CLASS      = Cdialog 
+[0:12:53 - 46420] FRAME      = 44678 (744 sec) 
+[0:12:53 - 46421] SOURCE     =  
+[0:12:53 - 46421]    
+[0:15:23 - 55394] <<<<< clrtex(-1) >>>>>  vram avail (mb)=1046 frametime=53651 
+[0:15:23 - 55395]      ->cleared: size=86521384 nb=335 (remaining entries=176 with keep=4 bmpvram=0)  Free entries=335  Vram avail (mb)=1115 
+[0:17:30 - 63005] mess=UNactiveapp 
+[0:17:30 - 63006] mess=UNactiveapp free ok 
+[0:17:30 - 63006] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>unactive 
+[0:17:41 - 63713] mess=REactiveapp=2 
+[0:17:41 - 63713] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>reactive 
+[0:19:23 - 69816] ERROR [04] = File not found :  D:/Users/My Documents/Power & Revolution/vid/tv/tv_jingle.avi 
+[0:19:23 - 69816] ENTITY     = 2125018 
+[0:19:23 - 69817] CLASS      = Ecran_Declarati 
+[0:19:23 - 69817] FRAME      = 67367 (1122 sec) 
+[0:19:23 - 69817] SOURCE     =  
+[0:19:23 - 69818]    
+[0:27:19 - 98392] mess=UNactiveapp 
+[0:27:19 - 98392] mess=UNactiveapp free ok 
+[0:27:19 - 98393] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>unactive 
+[0:28:43 - 103402] mess=REactiveapp=3 
+[0:28:43 - 103403] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>reactive 
+[0:31:38 - 113924] <<<<< clrtex(-1) >>>>>  vram avail (mb)=961 frametime=106465 
+[0:31:38 - 113924]      ->cleared: size=170475344 nb=379 (remaining entries=132 with keep=5 bmpvram=0)  Free entries=379  Vram avail (mb)=1114 
+[0:34:07 - 122874] <<<<< clrtex(-1) >>>>>  vram avail (mb)=1024 frametime=115414 
+[0:34:07 - 122874]      ->cleared: size=73361260 nb=329 (remaining entries=182 with keep=6 bmpvram=0)  Free entries=329  Vram avail (mb)=1088 
+[0:35:03 - 126218] ERROR [04] = File not found :  D:/Users/My Documents/Power & Revolution/vid/trbl/manif.avi 
+[0:35:03 - 126219] ENTITY     = 612294 
+[0:35:03 - 126219] CLASS      = Cdialog 
+[0:35:03 - 126219] FRAME      = 118759 (1979 sec) 
+[0:35:03 - 126220] SOURCE     =  
+[0:35:03 - 126220]    
+[0:40:52 - 147156] ERROR [04] = File not found :  D:/Users/My Documents/Power & Revolution/vid/tv/tv_jingle.avi 
+[0:40:52 - 147157] ENTITY     = 4573586 
+[0:40:52 - 147157] CLASS      = Ecran_Declarati 
+[0:40:52 - 147157] FRAME      = 139697 (2328 sec) 
+[0:40:52 - 147158] SOURCE     =  
+[0:40:52 - 147158]    
+[0:40:59 - 147554] ERROR [04] = File not found :  D:/Users/My Documents/Power & Revolution/886857_f 
+[0:40:59 - 147555] ENTITY     = 4573586 
+[0:40:59 - 147555] CLASS      = Ecran_Declarati 
+[0:40:59 - 147555] FRAME      = 140095 (2334 sec) 
+[0:40:59 - 147556] SOURCE     =  
+[0:40:59 - 147556]    
+[0:42:22 - 152530] <<<<< clrtex(-1) >>>>>  vram avail (mb)=1021 frametime=145071 
+[0:42:22 - 152531]      ->cleared: size=74995304 nb=343 (remaining entries=168 with keep=6 bmpvram=0)  Free entries=343  Vram avail (mb)=1074 
+[0:47:16 - 170172] <<<<< clrtex(-1) >>>>>  vram avail (mb)=976 frametime=162712 
+[0:47:16 - 170172]      ->cleared: size=140837736 nb=343 (remaining entries=168 with keep=6 bmpvram=0)  Free entries=343  Vram avail (mb)=1104 
+[0:47:40 - 171629] mess=UNactiveapp 
+[0:47:40 - 171630] mess=UNactiveapp free ok 
+[0:47:40 - 171631] WM_QUIT 
+[0:47:40 - 171634] ======================== endsys completed ======================== 
+[0:47:40 - 171634] MALLOC=1008M (nb=4504 err=0 max=1030M) / NOBJMAX=57679 (total=65536) 
+[0:47:40 - 171634] EXIT CODE=0     FRAME=164171 (2736 sec) 

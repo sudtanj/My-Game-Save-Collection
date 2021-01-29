@@ -1,0 +1,2100 @@
+Log: Log file open, 11/08/2019 10:39:41
+Log: GPsyonixBuildID 180912.59017.208087
+Log: Command line: 
+Init: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Log:  ... running in INSTALLED mode
+Warning: Warning, Unknown language extension . Defaulting to INT
+Init: Language extension: INT
+Init: Language extension: INT
+DevConfig: GConfig::LoadFile associated file:  ..\..\TAGame\Config\TAUI.ini
+Init: Version: 180912.59017.208087
+Init: Compiled (32-bit): Sep  5 2018 20:40:10
+Init: Command line: 
+Init: Base directory: D:\Program Files\Rocket League Hot Wheels Triple Threat\Binaries\Win32\
+[0000.73] Init: Computer: DESKTOP-P8R093Q
+[0000.73] Init: User: sudon
+[0000.73] Init: CPU Page size=4096, Processors=4
+[0000.73] Init: High frequency timer resolution =10.000000 MHz
+[0000.73] Init: Memory total: Physical=7.9GB (8GB approx) Pagefile=8.8GB Virtual=4.0GB
+[0000.73] Log: Steam Client API initialized 0
+[0001.52] Log: Steam Game Server API initialized 1
+[0001.52] Init: Presizing for 113000 objects not considered by GC, pre-allocating 0 bytes.
+[0001.52] Init: Object subsystem initialized
+[0001.65] Log: Using feature set FeatureUpdate22_1
+[0004.67] Log: Found D3D11 adapter 0: NVIDIA GeForce GTX 650
+[0004.67] Log: Adapter has 2007MB of dedicated video memory, 0MB of dedicated system memory, and 2088MB of shared system memory
+[0004.74] Log: Found D3D11 adapter 1: Intel(R) HD Graphics 4600
+[0004.74] Log: Adapter has 112MB of dedicated video memory, 0MB of dedicated system memory, and 2048MB of shared system memory
+[0004.74] Log: Found D3D11 adapter 2: Microsoft Basic Render Driver
+[0004.74] Log: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 4037MB of shared system memory
+[0004.92] Log: Shader platform (RHI): PC-D3D-SM3
+[0010.50] Log: ProductDatabase_TA::PostLoad  0.11 sec total.
+[0010.65] Log: 112634 objects as part of root set at end of initial load.
+[0010.65] Log: 0 out of 0 bytes used by permanent object pool.
+[0010.65] Log: Initializing Engine...
+[0010.65] Log: BuildID: 708028087 from GPsyonixBuildID
+[0010.67] SystemSettings: Loading PC Settings
+[0010.67] Log: Is physics simulation enabled: 1
+[0010.86] Log: Running hardware survey...
+[0010.86] Log: OS: Microsoft Windows 10 Pro  (17763)
+[0010.86] Log: Wwise(R) SDK Version 2016.2.3 Build 6077. Copyright (c) 2006-2012 Audiokinetic Inc. / All Rights Reserved.
+[0011.03] Log: WinSAT: 7.8 [8.9 CPU, 8.1 2D, 9.9 3D, 8.9 Mem, 7.8 Disk]
+[0011.03] Log: Processor: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz (Intel64 Family 6 Model 60 Stepping 3) 4 Cores, 4 Threads
+[0011.03] Log: Memory: 8.00GB
+[0011.03] Log: VideoController: NVIDIA GeForce GTX 650 (25.21.14.1967)
+[0011.03] Log: VideoController: Intel(R) HD Graphics 4600 (20.19.15.4531)
+[0012.13] Log: Network Adapter: 802.11n USB Wireless LAN Card
+[0012.13] Log: Network Adapter: VMware Virtual Ethernet Adapter for VMnet1
+[0012.13] Log: Network Adapter: VMware Virtual Ethernet Adapter for VMnet8
+[0012.13] Log: Disk C: 65.92GB free of 111.19GB
+[0012.13] Log: Disk D: 208.35GB free of 465.76GB
+[0012.13] Log: Disk E: 2665.72GB free of 3725.90GB
+[0012.13] Log: Sound Device: Realtek High Definition Audio
+[0012.13] Log: Sound Device: NVIDIA Virtual Audio Device (Wave Extensible) (WDM)
+[0012.13] Log: Sound Device: Intel(R) Display Audio
+[0012.13] Log: Sound Device: NVIDIA High Definition Audio
+[0012.13] DevOnline: Created named interface (RecentPlayersList) of type (Engine.OnlineRecentPlayersList)
+[0012.14] Log: Steam Client API is unavailable
+[0012.14] DevNet: This usually means you're not running the Steam client, your Steam client is incompatible, or you don't have a proper steam_appid.txt
+[0012.14] DevNet: We will continue without OnlineSubsystem support.
+[0012.14] DevOnline: Failed to create the voice interface
+[0012.14] DevOnline: Signing into the local profile 
+[0012.14] ScriptLog: PsyNet using environment DBE_Production Prod
+[0012.14] PsyNetStaticData: adding NetworkJitterSettings ConnectionQualityConfig ServerPerformanceConfig PrivateMatch Season OfflineSplitscreen Training Workshop UGCTrainingEditor UGCTraining LanMatch MapPrefsConfig NetworkConfig PhysicsConfig PsyNetConfig MtxConfig WordFilterConfig PartyConfig OnlinePlayerStorageConfig RankedConfig CrossplayConfig RPCConfig MetricsConfig SpecialEventsConfig TournamentConfig PlayerReportConfig ClubsConfig MusicPlayerConfig ServerConfig UrlConfig PlayerTitleConfig RocketPassConfig UIConfig SoccarConfig NetworkNextConfig EulaConfig 
+[0012.14] PsyNetStaticData: HandleCacheExpired
+[0012.22] Auth: SetAuthLoginError {Error Type=OSCS_NotConnected Code=-1 Message=}
+[0012.22] Auth: OnlinePlayerAuthentication_TA_0 Unknown|0|0 LoggedOut
+[0012.22] PsyNet: PsyNetConnection_X_1 disabled OSCS_NotConnected
+[0012.22] Auth: OnlinePlayerAuthentication_TA_0 Unknown|0|0 HandleConnectionChanged
+[0012.22] Auth: OnlinePlayerAuthentication_TA_0 Unknown|0|0 UpdateLoginState
+[0012.22] Auth: SetAuthLoginError {Error Type=OSCS_NotConnected Code=-1 Message=}
+[0012.22] Auth: AuthLoginError={Error Type=OSCS_NotConnected Code=-1 Message=}
+[0012.22] SaveGame: Load Player.ControllerId=0 SaveFileName=..\..\TAGame\SaveData\DBE_Production\SaveData.save
+[0012.27] DevNet: Browse: MENU_Main_p
+[0012.31] Log: LoadMap: MENU_Main_p
+[0012.61] Log: Fully load package: ..\..\TAGame\CookedPCConsole\GameInfo_GFxMenu_SF.upk
+[0013.10] Log: Game class is 'GameInfo_GFxMenu_TA'
+[0013.17] Log: Bringing World MENU_Main_p.TheWorld up for play (0) at 2019.08.11-10.39.54
+[0013.17] Log: Bringing up level for play took: 0.068061
+[0013.18] Warning: Warning, Failed to load 'SwfMovie GFX_Fonts.Fonts_EFIGS': Failed to find object 'SwfMovie GFX_Fonts.Fonts_EFIGS'
+[0013.18] Warning: Warning, Failed to load 'SwfMovie GFX_Fonts.Fonts_EFIGS': Failed to find object 'SwfMovie GFX_Fonts.Fonts_EFIGS'
+[0013.85] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0013.94] DevGFxUI: Error: [CLIK ScrollingList componentList], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[0013.95] DevGFxUI: Error: [CLIK ScrollingList shardList], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[0014.13] DevGFxUI: Error: [CLIK ScrollingList list], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[0014.14] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[0014.14] DevGFxUI: [TAGAME SHELL] onSharedUIStateChanged() - m_oldSharedUIState is  and System.SharedUIState is
+[0014.19] Log: ########### Finished loading level: 1.883413 seconds
+[0014.55] Log: Flushing async loaders.
+[0015.07] Log: Flushed async loaders.
+[0015.07] Log: Initializing Engine Completed
+[0015.07] Log: >>>>>>>>>>>>>> Initial startup: 15.07s <<<<<<<<<<<<<<<
+[0015.11] DevOnline: RPCQueue_X_0 SEND: PsyNetMessage_X_0 [Settings/GetStaticDataURL]
+[0015.11] PsyNet: PsyNetRequestQue_X_0 SendRequest ID=PsyNetMessage_X_0 Message=PsyNetMessage_X_0
+[0015.11] PsyNet: HTTP send ID=PsyNetMessage_X_0 Message=PsyNetMessage_X_0
+[0015.12] Log: RPC Error (failure): Service=Products/GetVanityLoadout, Type=OSCS_NotConnected, Code=-1, Message=
+[0015.12] SaveGame: HandleDataLoaded Result.Code=BasicLoadResult_Success
+[0015.12] OnlinePlayerStorage: (OnlineStorageMetadata_TA_0) OnlineStorageMetadata_TA::None:OnLoad ((Category="TournamentSettingsSave_TA",bPendingCommit=True),(Category="ExhibitionMatchSettingsSave_TA",bPendingCommit=True),(Category="PrivateMatchSettingsSave_TA",bPendingCommit=True),(Category="ServerBrowserSettingsSave_TA",bPendingCommit=True),(Category="ProductsOfflineSave_TA",bPendingCommit=True),(Category="ProfileLoadoutSave_TA",bPendingCommit=True),(Category="PlayerBannerSave_TA",bPendingCommit=True),(Category="ProfileCameraSave_TA",bPendingCommit=True),(Category="ClientXPSave_TA",bPendingCommit=True),(Category="PlayerAvatarBorderSave_TA",bPendingCommit=True),(Category="UISavedValues_TA",bPendingCommit=True),(Category="BlogTileCache_TA",bPendingCommit=True),(Category="MatchmakingSettingsSave_TA",bPendingCommit=True),(Category="SeasonSave_TA",bPendingCommit=True),(Category="ProfileStatsSave_TA",bPendingCommit=True))
+[0015.12] ScriptLog: NetworkSave_TA_0 ApplySettings ReplicationRate=60 NetSpeed=10000 InputRate=60
+[0016.26] SaveData: Profile_TA_0 OnLoaded LocalID=0
+[0016.30] ScriptLog: GetDLCProducts, UnlockedDLCList=
+[0016.30] SaveGame: LocalPlayer_TA_0 HandleSaveDataLoaded 
+[0016.35] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[0016.35] DevGFxUI: [TAGAME SHELL] onSharedUIStateChanged() - m_oldSharedUIState is  and System.SharedUIState is
+[0016.36] Warning: Warning, Failed to load 'SwfMovie GFX_StartMenu.StartMenu': Failed to find object 'SwfMovie GFX_StartMenu.StartMenu'
+[0016.52] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0016.57] NetworkNext: Client disabled
+[0016.57] PsyNet: HTTP recv ID=PsyNetMessage_X_0 Message=PsyNetMessage_X_1
+[0016.57] PsyNet: PsyNetRequestQue_X_0 SetRequestComplete RequestIdx=0 ID=PsyNetMessage_X_0 Response=PsyNetMessage_X_1 Latency=1.4848 
+[0016.57] Log: RPC Error (failure): Service=Products/GetVanityLoadout, Type=OSCS_NotConnected, Code=-1, Message=
+[0016.69] DevOnline: RPCQueue_X_0 RECV: PsyNetMessage_X_0->PsyNetMessage_X_1 PsyTime=1565494797 [Settings/GetStaticDataURL]
+[0016.69] PsyNetStaticData: HandleGetURL RPC.URL=https://rl-cdn.psyonix.com/Static/ze9r3jg438dfj38dfu3/Steam/INT.json
+[0017.88] Vanity: All Vanity Queries Complete
+[0017.90] PsyNetStaticData: HandleDataChanged
+[0017.90] Log: PsyNetStaticData could not find class 'RegionConfig_X'
+[0017.90] Log: FJsonStructReader - cannot find property Regions because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ID because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Label because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ID because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Label because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ID because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Label because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ID because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Label because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ID because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Label because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ID because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Label because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ID because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Label because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ID because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Label because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ID because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Label because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ID because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Label because Struct has not been set.
+[0017.90] Log: FJsonStructReader - attempting to overwrite object property Class.
+[0017.90] Log: FJsonStructReader - attempting to overwrite object property Class.
+[0017.90] Log: FJsonStructReader - attempting to overwrite object property Class.
+[0017.90] Log: PsyNetStaticData could not find class 'PhysicsConfig_TA'
+[0017.90] Log: FJsonStructReader - cannot find property bLegacyInputDelay because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property EventID because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property TabTitle because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property TabIconImageURL because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property StartTime because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property EndTime because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property EventID because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property TabTitle because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property TabIconImageURL because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property StartTime because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property EndTime because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property EventID because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property TabTitle because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property TabIconImageURL because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property StartTime because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property EndTime because Struct has not been set.
+[0017.90] Log: PsyNetStaticData could not find class 'MusicUrlConfig_TA'
+[0017.90] Log: FJsonStructReader - cannot find property Tracks because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.90] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property ExternalUrl because Struct has not been set.
+[0017.91] Log: PsyNetStaticData could not find class 'MusicThemeConfig_TA'
+[0017.91] Log: FJsonStructReader - cannot find property Theme because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property TitleTracks because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property NeverPlayInFirstTracklist because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property DefaultIcon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property KonamiCode because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property bAllPlaylistsDefaultSelected because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Playlists because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property bDefaultSelected because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Tracks because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Tracks because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Tracks because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Tracks because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Tracks because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Tracks because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Tracks because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Tracks because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Tracks because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Name because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Icon because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Tracks because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: FJsonStructReader - cannot find property Track because Struct has not been set.
+[0017.91] Log: PsyNetStaticData could not find class 'PsyNetUrl_X'
+[0017.91] Log: FJsonStructReader - cannot find property URL because Struct has not been set.
+[0017.91] Log: PsyNetStaticData could not find class 'FaceItConfig_TA'
+[0017.91] Log: FJsonStructReader - cannot find property bEnabled because Struct has not been set.
+[0017.91] Log: PsyNetStaticData could not find class 'OSSConfig_X'
+[0017.91] Log: FJsonStructReader - cannot find property bEnablePresence because Struct has not been set.
+[0017.91] PsyNetStaticData: removing ConnectionQualityConfig PrivateMatch Season OfflineSplitscreen Training Workshop UGCTrainingEditor UGCTraining PsyNetConfig CrossplayConfig SpecialEventsConfig PlayerReportConfig UrlConfig PlayerTitleConfig RocketPassConfig UIConfig NetworkNextConfig 
+[0017.91] PsyNetStaticData: adding ConnectionQualityConfig PrivateMatch Season OfflineSplitscreen Training Workshop UGCTrainingEditor UGCTraining PsyNetConfig CrossplayConfig SpecialEventsConfig PlayerReportConfig UrlConfig PlayerTitleConfig RocketPassConfig UIConfig NetworkNextConfig RankedMapSet CasualMapSet RumbleMapSet Standard Doubles Duel Chaos RankedStandard RankedTeamDoubles RankedSoloDuel RankedSoloStandard Breakout Rumble SnowDayPromotion BasketballDoubles Experimental Tournament FaceIt RankedRumble RankedBreakout RankedBasketballDoubles RankedSnowDay HauntedBall Beachball Rugby 
+[0017.92] NetworkNext: Client disabled
+[0017.92] NetworkNext: Client disabled
+[0022.20] Blog: HandleDataChanged
+[0027.19] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[0027.19] Warning: Warning, Failed to load 'SwfMovie GFX_MainMenu.MainMenu': Failed to find object 'SwfMovie GFX_MainMenu.MainMenu'
+[0027.35] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0027.40] RankedReconnect: (LocalPlayer_TA_0) LocalPlayer_TA::None:CheckForRankedReconnect bOpenedStartMenu=True IsMenuLevel=True bLoggedIn=False IsPrimaryPlayer=True RankedReconnectAvailable=False RankedReconnectBeacon=
+[0027.41] DevGFxUI: [TAGAME SHELL] enableItemUnlockPopups()
+[0027.41] DevGFxUI: [TAGAME SHELL] checkForItemDrops() -
+[0027.41] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GroupsRemaining is 0
+[0027.41] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.AnyPlayerHasUnlocks() is false
+[0027.41] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GetUnseenContainerDrops().length is 0
+[0027.45] Log: RPC Error (failure): Service=Events/GetEventCurrency, Type=OSCS_NotConnected, Code=-1, Message=
+[0027.45] Log: RPC Error (failure): Service=Events/GetEventCurrency, Type=OSCS_NotConnected, Code=-1, Message=
+[0037.47] DevGFxUI: [TAGAME SHELL] onSharedUIStateChanged() - m_oldSharedUIState is  and System.SharedUIState is Garage
+[0037.47] Warning: Warning, Failed to load 'SwfMovie GFx_GarageMenu.GarageMenu': Failed to find object 'SwfMovie GFx_GarageMenu.GarageMenu'
+[0037.70] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0037.92] Log: FSaveDataExportTask(0) wrote 164772 bytes to memory
+[0037.92] Log: SaveGameDataAsync game thread time: 3 ms
+[0037.95] Log: Deleting old save file ..\..\TAGame\SaveData\DBE_Production\SaveData_1.save
+[0037.95] Log: SaveDataExport(0): Finished - File:[..\..\TAGame\SaveData\DBE_Production\SaveData.save] Result:[1]
+[0051.63] DevGFxUI: [TAGAME SHELL] onSharedUIStateChanged() - m_oldSharedUIState is Garage and System.SharedUIState is
+[0051.63] DevGFxUI: [TAGAME SHELL] checkForItemDrops() -
+[0051.63] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GroupsRemaining is 0
+[0051.63] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.AnyPlayerHasUnlocks() is false
+[0051.63] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GetUnseenContainerDrops().length is 0
+[0055.08] DevGFxUI: [TAGAME SHELL] enableItemUnlockPopups()
+[0055.08] DevGFxUI: [TAGAME SHELL] checkForItemDrops() -
+[0055.08] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GroupsRemaining is 0
+[0055.08] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.AnyPlayerHasUnlocks() is false
+[0055.08] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GetUnseenContainerDrops().length is 0
+[0055.10] Log: FSaveDataExportTask(0) wrote 164627 bytes to memory
+[0055.10] Log: SaveGameDataAsync game thread time: 3 ms
+[0055.12] Log: Deleting old save file ..\..\TAGame\SaveData\DBE_Production\SaveData_2.save
+[0055.12] Log: SaveDataExport(0): Finished - File:[..\..\TAGame\SaveData\DBE_Production\SaveData_1.save] Result:[1]
+[0070.66] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[0073.33] DevGFxUI: [TAGAME SHELL] checkForItemDrops() -
+[0073.33] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GroupsRemaining is 0
+[0073.33] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.AnyPlayerHasUnlocks() is false
+[0073.33] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GetUnseenContainerDrops().length is 0
+[0074.38] Warning: Warning, Failed to load 'SwfMovie GFX_PrivateMatchMenu.PrivateMatchMenu': Failed to find object 'SwfMovie GFX_PrivateMatchMenu.PrivateMatchMenu'
+[0074.55] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0094.57] DevOnline: Gamepad text: not running in big picture mode.
+[0099.78] Online: TryToPlayOnline ControllerID=-1
+[0099.78] Online: PriviledgeCheck Failed Reason=PsyNet FailedPrivilege=FP_OnlinePlay FailedPrivilege=FP_OnlinePlay
+[0099.78] Online: HandlePrivilegeCheckFinished PrivilegeCheck.bHasRestriction=True
+[0099.78] Online: HandlePrivilegeCheckRestriction PrivilegeCheck.bHasRestriction=True
+[0099.78] Online: HandlePrivilegeCheck PrivilegeCheck.bHasRestriction=True
+[0100.74] DevGFxUI: [TAGAME SHELL] checkForItemDrops() -
+[0100.74] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GroupsRemaining is 0
+[0100.74] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.AnyPlayerHasUnlocks() is false
+[0100.74] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GetUnseenContainerDrops().length is 0
+[0111.72] Warning: Warning, Failed to load 'SwfMovie GFX_ServerBrowserMenu.ServerBrowserMenu': Failed to find object 'SwfMovie GFX_ServerBrowserMenu.ServerBrowserMenu'
+[0111.83] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0111.89] DevOnline: Listening for lan beacon requests on 14001
+[0115.64] DevGFxUI: [TAGAME SHELL] checkForItemDrops() -
+[0115.64] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GroupsRemaining is 0
+[0115.64] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.AnyPlayerHasUnlocks() is false
+[0115.64] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GetUnseenContainerDrops().length is 0
+[0118.65] Warning: Warning, Failed to load 'SwfMovie GFX_SeasonMenu.SeasonMenu': Failed to find object 'SwfMovie GFX_SeasonMenu.SeasonMenu'
+[0118.76] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0127.54] DevNet: Browse: NeoTokyo_Standard_P?Game=TAGame.GameInfo_Season_TA?Playtest
+[0127.57] OnlinePlayerStorage: PartitionStorageRequests ProfileCameraSave_TA Request.Data.Length=124 Request.Checksum=-1991918397 ManifestChecksum=0 bChecksumMatch=False
+[0127.57] OnlinePlayerStorage: PartitionStorageRequests BlogTileCache_TA Request.Data.Length=395 Request.Checksum=242331843 ManifestChecksum=0 bChecksumMatch=False
+[0127.57] OnlinePlayerStorage: PartitionStorageRequests ProfileLoadoutSave_TA Request.Data.Length=1633 Request.Checksum=488050911 ManifestChecksum=0 bChecksumMatch=False
+[0127.57] OnlinePlayerStorage: PartitionStorageRequests PrivateMatchSettingsSave_TA Request.Data.Length=568 Request.Checksum=63790120 ManifestChecksum=0 bChecksumMatch=False
+[0127.57] Log: FSaveDataExportTask(0) wrote 164685 bytes to memory
+[0127.57] Log: SaveGameDataAsync game thread time: 3 ms
+[0127.57] Log: Flushing async loaders.
+[0127.59] Log: Deleting old save file ..\..\TAGame\SaveData\DBE_Production\SaveData.save
+[0127.59] Log: SaveDataExport(0): Finished - File:[..\..\TAGame\SaveData\DBE_Production\SaveData_2.save] Result:[1]
+[0127.59] Log: Flushed async loaders.
+[0127.59] Log: LoadMap: NeoTokyo_Standard_P?Game=TAGame.GameInfo_Season_TA?Playtest
+[0127.59] Warning: Warning, Failed to load 'SwfMovie GFx_LoadingScreen.LoadingScreen': Failed to find object 'SwfMovie GFx_LoadingScreen.LoadingScreen'
+[0127.59] Warning: Warning, Failed to load 'SwfMovie GFx_LoadingScreen.LoadingScreen': Failed to find object 'SwfMovie GFx_LoadingScreen.LoadingScreen'
+[0127.70] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0127.75] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[0130.03] Log: Fully load package: ..\..\TAGame\CookedPCConsole\GameInfo_Season_SF.upk
+[0130.66] Log: Game class is 'GameInfo_Season_TA'
+[0130.66] Warning: Warning, Material Vehicle_Parent_Materials.Test_LightFalloff_Mat missing bUsedWithStaticLighting=True!
+[0130.66] Warning: Warning, Material Vehicle_Parent_Materials.Test_LightFalloff_Mat missing bUsedWithStaticLighting=True!
+[0130.66] Warning: Warning, Material Vehicle_Parent_Materials.Test_LightFalloff_Mat missing bUsedWithStaticLighting=True!
+[0130.66] Warning: Warning, Material Vehicle_Parent_Materials.Test_LightFalloff_Mat missing bUsedWithStaticLighting=True!
+[0130.88] Log: Bringing World NeoTokyo_Standard_P.TheWorld up for play (0) at 2019.08.11-10.41.51
+[0130.89] Log: Bringing up level for play took: 0.221787
+[0130.89] SimTimeScaling: SetUsingSimTimeScaling False
+[0130.89] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0131.02] DevGFxUI: Error: [CLIK ScrollingList componentList], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[0131.02] DevGFxUI: Error: [CLIK ScrollingList shardList], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[0131.08] DevGFxUI: Error: [CLIK ScrollingList list], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[0131.13] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[0131.13] DevGFxUI: [TAGAME SHELL] onSharedUIStateChanged() - m_oldSharedUIState is  and System.SharedUIState is
+[0131.21] MatchBroadcast: Init bBroadcastMatch=False MatchLog=None
+[0131.86] ScriptWarning: ScriptWarning, Trying to add a Persona with an Invalid ID into the Persona Map: Unknown|0|0
+	Personas_TA Transient.GameEngine_TA_0:LocalPlayer_TA_0.OnlinePlayer_TA_0.Personas_TA_0
+	Function TAGame.Personas_TA:AddPersona:00CA
+Script call stack:
+	Function TAGame.GameInfo_Season_TA:PostLogin
+	Function TAGame.GameEvent_TA:Init
+	Function TAGame.GameEvent_TA:AddPlayer
+	Function TAGame.PRI_TA:SetGameEvent
+	Function TAGame.GameEvent_Soccar_TA:AddPRI
+	Function TAGame.GameEvent_TA:AddPRI
+	Function TAGame.GFxData_Friends_TA:HandlePlayerAddedToMatch
+	Function TAGame.GFxData_Friends_TA:GetOrCreatePersona
+	Function TAGame.Personas_TA:GetOrCreateFromOnlineFriend
+	Function TAGame.Personas_TA:AddPersona
+
+[0131.86] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[0131.86] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0131.92] Clubs: GFxData_PRI_TA_0 HandleClubID Unknown|0|0 ClubID=0
+[0131.94] Log: ########### Finished loading level: 4.341410 seconds
+[0131.94] Log: Flushing async loaders.
+[0132.30] Log: Flushed async loaders.
+[0132.30] Warning: Warning, Material Vehicle_Parent_Materials.Test_LightFalloff_Mat missing bUsedWithStaticLighting=True!
+[0132.30] Warning: Warning, Material Vehicle_Parent_Materials.Test_LightFalloff_Mat missing bUsedWithStaticLighting=True!
+[0132.30] Warning: Warning, Material Vehicle_Parent_Materials.Test_LightFalloff_Mat missing bUsedWithStaticLighting=True!
+[0132.30] Warning: Warning, Material Vehicle_Parent_Materials.Test_LightFalloff_Mat missing bUsedWithStaticLighting=True!
+[0132.30] Clubs: GFxData_PRI_TA_1 HandleClubID Unknown|0|0 ClubID=0
+[0132.31] Log: RPC Error (failure): Service=GenericStorage/SetPlayerGenericStorage, Type=OSCS_NotConnected, Code=-1, Message=
+[0132.31] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[0132.53] Clubs: GFxData_PRI_TA_2 HandleClubID Unknown|0|0 ClubID=0
+[0133.06] Clubs: GFxData_PRI_TA_3 HandleClubID Unknown|0|0 ClubID=0
+[0133.06] Vanity: All Vanity Queries Complete
+[0133.07] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[0133.08] Warning: Warning, Failed to load 'SwfMovie GFX_Hud.Hud': Failed to find object 'SwfMovie GFX_Hud.Hud'
+[0133.19] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0133.83] Clubs: GFxData_PRI_TA_4 HandleClubID Unknown|0|0 ClubID=0
+[0133.85] ScriptWarning: ScriptWarning, Trying to add a Persona with an Invalid ID into the Persona Map: Unknown|0|0
+	Personas_TA Transient.GameEngine_TA_0:LocalPlayer_TA_0.OnlinePlayer_TA_0.Personas_TA_0
+	Function TAGame.Personas_TA:AddPersona:00CA
+Script call stack:
+	Function TAGame.GFxData_Personas_TA:OnShellSet
+	Function TAGame.GFxData_Personas_TA:HandleLocalPlayerAdded
+	Function TAGame.Personas_TA:UpdatePersonaFromData
+	Function TAGame.Personas_TA:GetOrCreate
+	Function TAGame.Personas_TA:AddPersona
+
+[0133.95] Clubs: GFxData_PRI_TA_5 HandleClubID Unknown|0|0 ClubID=0
+[0134.08] Clubs: GFxData_PRI_TA_6 HandleClubID Unknown|0|0 ClubID=0
+[0134.19] Clubs: GFxData_PRI_TA_7 HandleClubID Unknown|0|0 ClubID=0
+[0140.81] Achievements: Unlock Achievement AT_Game 14
+[0140.81] DevOnline: Invalid player index (0) specified to UnlockAchievement()
+[0140.81] Achievements: IncrementStat 2 18
+[0140.81] Error: WriteOnlineStats: Ignoring unknown player
+[0140.81] DevOnline: FlushOnlineStats: No stats to flush
+[0149.55] Achievements: Unlock Achievement AT_Game 19
+[0149.55] DevOnline: Invalid player index (0) specified to UnlockAchievement()
+[0187.51] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[0205.07] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[0205.07] DevGFxUI: null
+[0205.07] Log: FUniqueNetId::FromString - could not parse ''
+[0205.07] Log: UImpactEffectsComponent_TA::HandleCollision - HitComponent CarMeshComponent_TA_17 is NULL or not attached
+[0268.58] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[0302.09] Log: UImpactEffectsComponent_TA::HandleCollision - HitComponent CarMeshComponent_TA_40 is NULL or not attached
+[0324.39] PsyNetStaticData: HandleCacheExpired
+[0374.05] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[0386.21] Achievements: IncrementStat 2 19
+[0386.21] Error: WriteOnlineStats: Ignoring unknown player
+[0386.21] DevOnline: FlushOnlineStats: No stats to flush
+[0474.27] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[0528.23] ScriptWarning: ScriptWarning, Accessed array 'ArenaSoundManager_TA_0.CountDownSoundList' out of bounds (11/11)
+	ArenaSoundManager_TA NeoTokyo_Standard_P.TheWorld:PersistentLevel.GameEvent_Season_TA_0.ArenaSoundManager_TA_0
+	Function TAGame.ArenaSoundManager_TA:HandleGameTimeUpdated:015F
+Script call stack:
+	Function TAGame.GameEvent_Soccar_TA:Active.Tick
+	Function TAGame.GameEvent_Soccar_TA:Active.UpdateGameTime
+	Function TAGame.GameEvent_Soccar_TA:OnGameTimeUpdated
+	Function TAGame.ArenaSoundManager_TA:HandleGameTimeUpdated
+
+[0539.54] EndGameDebug: HandleBallHitWorld: Ball_TA_16 1.0000
+[0539.54] Achievements: Unlock Achievement AT_EXP0 1
+[0539.54] DevOnline: Invalid player index (0) specified to UnlockAchievement()
+[0539.54] Achievements: Unlock Achievement AT_Game 23
+[0539.54] DevOnline: Invalid player index (0) specified to UnlockAchievement()
+[0539.54] Achievements: IncrementStat 3 22
+[0539.54] Error: WriteOnlineStats: Ignoring unknown player
+[0539.54] DevOnline: FlushOnlineStats: No stats to flush
+[0539.54] Achievements: Unlock Achievement AT_Game 20
+[0539.54] DevOnline: Invalid player index (0) specified to UnlockAchievement()
+[0539.54] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[0539.54] DevGFxUI: null
+[0539.55] Achievements: Unlock Achievement AT_Game 35
+[0539.55] DevOnline: Invalid player index (0) specified to UnlockAchievement()
+[0539.55] Achievements: Unlock Achievement AT_Game 11
+[0539.55] DevOnline: Invalid player index (0) specified to UnlockAchievement()
+[0539.55] Achievements: IncrementStat 11 20
+[0539.55] Error: WriteOnlineStats: Ignoring unknown player
+[0539.55] DevOnline: FlushOnlineStats: No stats to flush
+[0539.55] Achievements: Unlock Achievement AT_Game 7
+[0539.55] DevOnline: Invalid player index (0) specified to UnlockAchievement()
+[0539.55] Achievements: Unlock Achievement AT_DLC5 2
+[0539.55] DevOnline: Invalid player index (0) specified to UnlockAchievement()
+[0539.55] Achievements: Unlock Achievement AT_Game 18
+[0539.55] DevOnline: Invalid player index (0) specified to UnlockAchievement()
+[0539.55] Achievements: Unlock Achievement AT_Game 8
+[0539.55] DevOnline: Invalid player index (0) specified to UnlockAchievement()
+[0539.55] Achievements: Unlock Achievement AT_Game 1
+[0539.55] DevOnline: Invalid player index (0) specified to UnlockAchievement()
+[0539.55] SpawnPoint: (GameEvent_Season_TA_0) GameEvent_Soccar_TA::PrePodiumSpotlight:BeginState
+[0539.55] SpawnPoint: (SpawnPointsPodium) SpawnPointCluster_TA::None:SetSpawnPoints SpawnTeams.Length=1
+[0539.55] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints MaxSpots=4
+[0539.55] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=0 SpawnPoints[i]=TraceableSpawnPoint_TA_0
+[0539.55] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=1 SpawnPoints[i]=TraceableSpawnPoint_TA_1
+[0539.55] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=2 SpawnPoints[i]=TraceableSpawnPoint_TA_2
+[0539.55] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=3 SpawnPoints[i]=TraceableSpawnPoint_TA_3
+[0539.55] RankedReconnect: (RankedReconnectSave_TA_0) RankedReconnectSave_TA::None:ClearRankedReconnect RankedReconnectBeacon=
+[0539.55] ScriptLog: Script call stack:
+[0539.55] ScriptLog: 	Function TAGame.Ball_TA:OnRigidBodyCollision
+[0539.55] ScriptLog: 	Function TAGame.Ball_TA:OnHitWorld
+[0539.55] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:Active.HandleBallHitGround
+[0539.55] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:StartNewRound
+[0539.55] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:EndGame
+[0539.55] ScriptLog: 	Function TAGame.GameEvent_TA:GotoGameState
+[0539.55] ScriptLog: 	Function TAGame.GameEvent_TA:OnGameStateChanged
+[0539.55] ScriptLog: 	Function TAGame.LocalPlayer_TA:HandleGameStateChanged
+[0539.55] ScriptLog: 	Function TAGame.RankedReconnectSave_TA:ClearRankedReconnect
+[0539.55] Warning: Warning, Failed to load 'SwfMovie GFX_WinnerMenu.WinnerMenu': Failed to find object 'SwfMovie GFX_WinnerMenu.WinnerMenu'
+[0539.66] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0539.71] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[0539.71] DevGFxUI: null
+[0539.71] Log: FUniqueNetId::FromString - could not parse ''
+[0540.54] Achievements: IncrementStat 42 0
+[0540.54] Error: WriteOnlineStats: Ignoring unknown player
+[0540.54] DevOnline: FlushOnlineStats: No stats to flush
+[0540.54] Achievements: IncrementStat 40 0
+[0540.54] Error: WriteOnlineStats: Ignoring unknown player
+[0540.54] DevOnline: FlushOnlineStats: No stats to flush
+[0542.55] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[0542.55] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=0 SpawnPoints[i]=TraceableSpawnPoint_TA_0
+[0542.55] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[0542.55] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=1 SpawnPoints[i]=TraceableSpawnPoint_TA_1
+[0542.55] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[0542.55] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=2 SpawnPoints[i]=TraceableSpawnPoint_TA_2
+[0542.55] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[0542.55] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=3 SpawnPoints[i]=TraceableSpawnPoint_TA_3
+[0542.55] RankedReconnect: (RankedReconnectSave_TA_0) RankedReconnectSave_TA::None:ClearRankedReconnect RankedReconnectBeacon=
+[0542.55] ScriptLog: Script call stack:
+[0542.55] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:PrePodiumSpotlight.GotoPodiumSpotlight
+[0542.55] ScriptLog: 	Function TAGame.GameEvent_TA:GotoGameState
+[0542.55] ScriptLog: 	Function TAGame.GameEvent_TA:OnGameStateChanged
+[0542.55] ScriptLog: 	Function TAGame.LocalPlayer_TA:HandleGameStateChanged
+[0542.55] ScriptLog: 	Function TAGame.RankedReconnectSave_TA:ClearRankedReconnect
+[0547.14] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[0547.56] Error: Can't end an online game that hasn't been created
+[0547.56] RankedReconnect: (RankedReconnectSave_TA_0) RankedReconnectSave_TA::None:ClearRankedReconnect RankedReconnectBeacon=
+[0547.56] ScriptLog: Script call stack:
+[0547.56] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:PodiumSpotlight.FinishEvent
+[0547.56] ScriptLog: 	Function TAGame.GameEvent_TA:GotoGameState
+[0547.56] ScriptLog: 	Function TAGame.GameEvent_TA:OnGameStateChanged
+[0547.56] ScriptLog: 	Function TAGame.LocalPlayer_TA:HandleGameStateChanged
+[0547.56] ScriptLog: 	Function TAGame.RankedReconnectSave_TA:ClearRankedReconnect
+[0547.56] Warning: Warning, Failed to load 'SwfMovie GFX_SeasonMenu.SeasonMenu': Failed to find object 'SwfMovie GFX_SeasonMenu.SeasonMenu'
+[0547.63] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0547.69] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[0547.69] DevGFxUI: null
+[0547.70] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[0547.70] DevGFxUI: null
+[0547.70] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[0547.70] DevGFxUI: null
+[0548.48] Log: FSaveDataExportTask(0) wrote 165218 bytes to memory
+[0548.48] Log: SaveGameDataAsync game thread time: 3 ms
+[0548.49] Log: Deleting old save file ..\..\TAGame\SaveData\DBE_Production\SaveData_1.save
+[0548.49] Log: SaveDataExport(0): Finished - File:[..\..\TAGame\SaveData\DBE_Production\SaveData.save] Result:[1]
+[0550.24] ScriptWarning: ScriptWarning, Accessed None 'Game'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_1
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet:0079
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet
+
+[0550.24] ScriptWarning: ScriptWarning, Accessed None
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_1
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet:008D
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet
+
+[0550.24] ScriptWarning: ScriptWarning, Accessed None 'Actor'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_1
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:0040
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PushMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[0550.24] ScriptWarning: ScriptWarning, Accessed None 'Game'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_1
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:00C3
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PushMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[0550.24] ScriptWarning: ScriptWarning, Accessed None
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_1
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:00D7
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PushMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[0558.25] RankedReconnect: (RankedReconnectSave_TA_0) RankedReconnectSave_TA::None:ClearRankedReconnect RankedReconnectBeacon=
+[0558.25] ScriptLog: Script call stack:
+[0558.25] ScriptLog: 	Function TAGame.GFxShell_TA:ExitToMainMenu
+[0558.25] ScriptLog: 	Function TAGame.RankedReconnectSave_TA:ClearRankedReconnect
+[0558.25] DevGFxUI: [TAGAME SHELL] checkForItemDrops() -
+[0558.25] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - System.UIState is HUDSoccar
+[0558.25] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GroupsRemaining is 0
+[0558.25] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.AnyPlayerHasUnlocks() is false
+[0558.25] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GetUnseenContainerDrops().length is 0
+[0558.25] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - m_bItemDropsDisabled is true
+[0558.25] DevNet: Browse: MENU_Main_p?closed
+[0558.25] Log: Failed; returning to Entry
+[0558.25] OnlinePlayerStorage: PartitionStorageRequests ProfileCameraSave_TA Request.Data.Length=124 Request.Checksum=-1991918397 ManifestChecksum=0 bChecksumMatch=False
+[0558.25] OnlinePlayerStorage: PartitionStorageRequests ProfileStatsSave_TA Request.Data.Length=5370 Request.Checksum=711154563 ManifestChecksum=0 bChecksumMatch=False
+[0558.25] OnlinePlayerStorage: PartitionStorageRequests ProductsOfflineSave_TA Request.Data.Length=150 Request.Checksum=-1536844743 ManifestChecksum=0 bChecksumMatch=False
+[0558.26] Log: LoadMap: MENU_Main_p?closed
+[0558.26] Warning: Warning, Failed to load 'SwfMovie GFx_LoadingScreen.LoadingScreen': Failed to find object 'SwfMovie GFx_LoadingScreen.LoadingScreen'
+[0558.30] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[0558.30] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[0558.30] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[0558.30] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[0558.30] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[0558.30] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[0558.30] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[0558.30] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[0558.30] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[0558.30] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[0558.30] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[0558.30] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[0558.30] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[0558.30] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[0558.30] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[0559.21] Log: Fully load package: ..\..\TAGame\CookedPCConsole\GameInfo_GFxMenu_SF.upk
+[0559.22] Log: Game class is 'GameInfo_GFxMenu_TA'
+[0559.52] Log: Bringing World MENU_Main_p.TheWorld up for play (0) at 2019.08.11-10.49.00
+[0559.52] Log: Bringing up level for play took: 0.300139
+[0559.53] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0559.66] DevGFxUI: Error: [CLIK ScrollingList componentList], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[0559.66] DevGFxUI: Error: [CLIK ScrollingList shardList], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[0559.72] DevGFxUI: Error: [CLIK ScrollingList list], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[0559.73] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[0559.73] DevGFxUI: [TAGAME SHELL] onSharedUIStateChanged() - m_oldSharedUIState is  and System.SharedUIState is
+[0559.80] Log: ########### Finished loading level: 1.542367 seconds
+[0559.80] Log: Flushing async loaders.
+[0560.23] Log: Flushed async loaders.
+[0560.24] Log: RPC Error (failure): Service=GenericStorage/SetPlayerGenericStorage, Type=OSCS_NotConnected, Code=-1, Message=
+[0560.24] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[0561.01] Vanity: All Vanity Queries Complete
+[0561.11] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[0561.11] Warning: Warning, Failed to load 'SwfMovie GFX_StartMenu.StartMenu': Failed to find object 'SwfMovie GFX_StartMenu.StartMenu'
+[0561.18] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0563.09] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[0563.09] Warning: Warning, Failed to load 'SwfMovie GFX_MainMenu.MainMenu': Failed to find object 'SwfMovie GFX_MainMenu.MainMenu'
+[0563.22] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0563.30] DevGFxUI: [TAGAME SHELL] enableItemUnlockPopups()
+[0563.30] DevGFxUI: [TAGAME SHELL] checkForItemDrops() -
+[0563.30] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GroupsRemaining is 0
+[0563.30] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.AnyPlayerHasUnlocks() is false
+[0563.30] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GetUnseenContainerDrops().length is 0
+[0563.32] Warning: Warning, Failed to load 'SwfMovie GFX_SeasonMenu.SeasonMenu': Failed to find object 'SwfMovie GFX_SeasonMenu.SeasonMenu'
+[0563.40] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0563.61] Log: RPC Error (failure): Service=Events/GetEventCurrency, Type=OSCS_NotConnected, Code=-1, Message=
+[0563.61] Log: RPC Error (failure): Service=Events/GetEventCurrency, Type=OSCS_NotConnected, Code=-1, Message=
+[0572.20] Warning: Warning, Failed to load 'SwfMovie GFX_PrivateMatchMenu.PrivateMatchMenu': Failed to find object 'SwfMovie GFX_PrivateMatchMenu.PrivateMatchMenu'
+[0572.31] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0578.74] DevGFxUI: [TAGAME SHELL] enableItemUnlockPopups()
+[0578.74] DevGFxUI: [TAGAME SHELL] checkForItemDrops() -
+[0578.74] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GroupsRemaining is 0
+[0578.74] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.AnyPlayerHasUnlocks() is false
+[0578.74] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GetUnseenContainerDrops().length is 0
+[0584.12] DevGFxUI: [TAGAME SHELL] onSharedUIStateChanged() - m_oldSharedUIState is  and System.SharedUIState is Garage
+[0584.12] Warning: Warning, Failed to load 'SwfMovie GFx_GarageMenu.GarageMenu': Failed to find object 'SwfMovie GFx_GarageMenu.GarageMenu'
+[0584.29] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0584.47] Log: FSaveDataExportTask(0) wrote 166682 bytes to memory
+[0584.47] Log: SaveGameDataAsync game thread time: 3 ms
+[0584.49] Log: Deleting old save file ..\..\TAGame\SaveData\DBE_Production\SaveData_2.save
+[0584.49] Log: SaveDataExport(0): Finished - File:[..\..\TAGame\SaveData\DBE_Production\SaveData_1.save] Result:[1]
+[0620.01] Achievements: Unlock Achievement AT_Game 32
+[0620.01] DevOnline: Invalid player index (0) specified to UnlockAchievement()
+[0620.03] Log: FSaveDataExportTask(0) wrote 166682 bytes to memory
+[0620.03] Log: SaveGameDataAsync game thread time: 3 ms
+[0620.04] Log: Deleting old save file ..\..\TAGame\SaveData\DBE_Production\SaveData.save
+[0620.04] Log: SaveDataExport(0): Finished - File:[..\..\TAGame\SaveData\DBE_Production\SaveData_2.save] Result:[1]
+[0623.30] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[0640.15] PsyNetStaticData: HandleCacheExpired
+[0711.93] Achievements: Unlock Achievement AT_Game 10
+[0711.93] DevOnline: Invalid player index (0) specified to UnlockAchievement()
+[0711.95] Log: FSaveDataExportTask(0) wrote 166702 bytes to memory
+[0711.95] Log: SaveGameDataAsync game thread time: 3 ms
+[0711.96] Log: Deleting old save file ..\..\TAGame\SaveData\DBE_Production\SaveData_1.save
+[0711.96] Log: SaveDataExport(0): Finished - File:[..\..\TAGame\SaveData\DBE_Production\SaveData.save] Result:[1]
+[0813.14] DevGFxUI: [TAGAME SHELL] onSharedUIStateChanged() - m_oldSharedUIState is Garage and System.SharedUIState is
+[0813.14] DevGFxUI: [TAGAME SHELL] checkForItemDrops() -
+[0813.14] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GroupsRemaining is 0
+[0813.14] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.AnyPlayerHasUnlocks() is false
+[0813.14] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GetUnseenContainerDrops().length is 0
+[0816.35] DevGFxUI: [TAGAME SHELL] enableItemUnlockPopups()
+[0816.35] DevGFxUI: [TAGAME SHELL] checkForItemDrops() -
+[0816.35] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GroupsRemaining is 0
+[0816.35] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.AnyPlayerHasUnlocks() is false
+[0816.35] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GetUnseenContainerDrops().length is 0
+[0816.37] Log: FSaveDataExportTask(0) wrote 166755 bytes to memory
+[0816.37] Log: SaveGameDataAsync game thread time: 3 ms
+[0816.39] Log: Deleting old save file ..\..\TAGame\SaveData\DBE_Production\SaveData_2.save
+[0816.39] Log: SaveDataExport(0): Finished - File:[..\..\TAGame\SaveData\DBE_Production\SaveData_1.save] Result:[1]
+[0825.97] Warning: Warning, Failed to load 'SwfMovie GFX_PrivateMatchMenu.PrivateMatchMenu': Failed to find object 'SwfMovie GFX_PrivateMatchMenu.PrivateMatchMenu'
+[0830.28] Warning: Warning, Failed to load 'SwfMovie GFX_SeasonMenu.SeasonMenu': Failed to find object 'SwfMovie GFX_SeasonMenu.SeasonMenu'
+[0832.27] DevNet: Browse: EuroStadium_Night_P?Game=TAGame.GameInfo_Season_TA?Playtest
+[0832.30] OnlinePlayerStorage: PartitionStorageRequests ProfileCameraSave_TA Request.Data.Length=124 Request.Checksum=-1991918397 ManifestChecksum=0 bChecksumMatch=False
+[0832.30] OnlinePlayerStorage: PartitionStorageRequests ProfileLoadoutSave_TA Request.Data.Length=3150 Request.Checksum=-561993996 ManifestChecksum=0 bChecksumMatch=False
+[0832.30] Log: Flushing async loaders.
+[0832.32] Log: Flushed async loaders.
+[0832.32] Log: LoadMap: EuroStadium_Night_P?Game=TAGame.GameInfo_Season_TA?Playtest
+[0832.32] Warning: Warning, Failed to load 'SwfMovie GFx_LoadingScreen.LoadingScreen': Failed to find object 'SwfMovie GFx_LoadingScreen.LoadingScreen'
+[0832.35] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[0833.43] Log: Fully load package: ..\..\TAGame\CookedPCConsole\GameInfo_Season_SF.upk
+[0833.73] Log: Game class is 'GameInfo_Season_TA'
+[0833.73] Log: Octree Warning (AddPrimitive): StaticMeshActor_SMC_18 (Owner: EuroStadium_Night_P.TheWorld:PersistentLevel.MeshCollector2) Outside World.
+[0833.74] Log: Octree Warning (AddPrimitive): StaticMeshActor_SMC_722 (Owner: EuroStadium_Night_P.TheWorld:PersistentLevel.MeshCollector2) Outside World.
+[0833.86] Log: Bringing World EuroStadium_Night_P.TheWorld up for play (0) at 2019.08.11-10.53.34
+[0833.86] Log: Bringing up level for play took: 0.131512
+[0833.87] SimTimeScaling: SetUsingSimTimeScaling False
+[0833.87] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0833.99] DevGFxUI: Error: [CLIK ScrollingList componentList], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[0834.00] DevGFxUI: Error: [CLIK ScrollingList shardList], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[0834.05] DevGFxUI: Error: [CLIK ScrollingList list], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[0834.07] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[0834.07] DevGFxUI: [TAGAME SHELL] onSharedUIStateChanged() - m_oldSharedUIState is  and System.SharedUIState is
+[0834.15] MatchBroadcast: Init bBroadcastMatch=False MatchLog=None
+[0834.77] ScriptWarning: ScriptWarning, Trying to add a Persona with an Invalid ID into the Persona Map: Unknown|0|0
+	Personas_TA Transient.GameEngine_TA_0:LocalPlayer_TA_0.OnlinePlayer_TA_0.Personas_TA_0
+	Function TAGame.Personas_TA:AddPersona:00CA
+Script call stack:
+	Function TAGame.GameInfo_Season_TA:PostLogin
+	Function TAGame.GameEvent_TA:Init
+	Function TAGame.GameEvent_TA:AddPlayer
+	Function TAGame.PRI_TA:SetGameEvent
+	Function TAGame.GameEvent_Soccar_TA:AddPRI
+	Function TAGame.GameEvent_TA:AddPRI
+	Function TAGame.GFxData_Friends_TA:HandlePlayerAddedToMatch
+	Function TAGame.GFxData_Friends_TA:GetOrCreatePersona
+	Function TAGame.Personas_TA:GetOrCreateFromOnlineFriend
+	Function TAGame.Personas_TA:AddPersona
+
+[0834.77] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[0834.77] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0834.83] Clubs: GFxData_PRI_TA_8 HandleClubID Unknown|0|0 ClubID=0
+[0834.84] Log: ########### Finished loading level: 2.524889 seconds
+[0834.84] Log: Flushing async loaders.
+[0834.87] Log: Flushed async loaders.
+[0834.87] Clubs: GFxData_PRI_TA_9 HandleClubID Unknown|0|0 ClubID=0
+[0834.89] Log: RPC Error (failure): Service=GenericStorage/SetPlayerGenericStorage, Type=OSCS_NotConnected, Code=-1, Message=
+[0835.02] Clubs: GFxData_PRI_TA_10 HandleClubID Unknown|0|0 ClubID=0
+[0835.04] Vanity: All Vanity Queries Complete
+[0835.04] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[0835.06] Log: Flushing async loaders.
+[0835.06] Log: Flushed async loaders.
+[0835.06] Warning: Warning, Failed to load 'SwfMovie GFX_Hud.Hud': Failed to find object 'SwfMovie GFX_Hud.Hud'
+[0835.13] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[0835.53] Clubs: GFxData_PRI_TA_11 HandleClubID Unknown|0|0 ClubID=0
+[0835.54] ScriptWarning: ScriptWarning, Trying to add a Persona with an Invalid ID into the Persona Map: Unknown|0|0
+	Personas_TA Transient.GameEngine_TA_0:LocalPlayer_TA_0.OnlinePlayer_TA_0.Personas_TA_0
+	Function TAGame.Personas_TA:AddPersona:00CA
+Script call stack:
+	Function TAGame.GFxData_Personas_TA:OnShellSet
+	Function TAGame.GFxData_Personas_TA:HandleLocalPlayerAdded
+	Function TAGame.Personas_TA:UpdatePersonaFromData
+	Function TAGame.Personas_TA:GetOrCreate
+	Function TAGame.Personas_TA:AddPersona
+
+[0835.70] Clubs: GFxData_PRI_TA_12 HandleClubID Unknown|0|0 ClubID=0
+[0835.82] Clubs: GFxData_PRI_TA_13 HandleClubID Unknown|0|0 ClubID=0
+[0835.93] Clubs: GFxData_PRI_TA_14 HandleClubID Unknown|0|0 ClubID=0
+[0836.04] Clubs: GFxData_PRI_TA_15 HandleClubID Unknown|0|0 ClubID=0
+[0874.62] Log: UImpactEffectsComponent_TA::HandleCollision - HitComponent CarMeshComponent_TA_105 is NULL or not attached
+[0892.24] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[0901.68] Achievements: IncrementStat 69 44
+[0901.68] Error: WriteOnlineStats: Ignoring unknown player
+[0901.68] DevOnline: FlushOnlineStats: No stats to flush
+[0901.68] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[0901.68] DevGFxUI: null
+[0901.68] Log: FUniqueNetId::FromString - could not parse ''
+[0957.74] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[0960.27] PsyNetStaticData: HandleCacheExpired
+[1036.00] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[1045.16] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[1045.16] DevGFxUI: null
+[1045.16] Log: UImpactEffectsComponent_TA::HandleCollision - HitComponent CarMeshComponent_TA_134 is NULL or not attached
+[1074.90] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[1074.90] DevGFxUI: null
+[1134.92] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[1220.80] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[1248.90] Log: UImpactEffectsComponent_TA::HandleCollision - HitComponent CarMeshComponent_TA_184 is NULL or not attached
+[1250.58] EndGameDebug: HandleBallHitWorld: Ball_TA_33 1.0000
+[1250.59] Achievements: IncrementStat 3 23
+[1250.59] Error: WriteOnlineStats: Ignoring unknown player
+[1250.59] DevOnline: FlushOnlineStats: No stats to flush
+[1250.59] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[1250.59] DevGFxUI: null
+[1250.59] Achievements: IncrementStat 11 20
+[1250.59] Error: WriteOnlineStats: Ignoring unknown player
+[1250.59] DevOnline: FlushOnlineStats: No stats to flush
+[1250.59] SpawnPoint: (GameEvent_Season_TA_1) GameEvent_Soccar_TA::PrePodiumSpotlight:BeginState
+[1250.59] SpawnPoint: (SpawnPointsPodium) SpawnPointCluster_TA::None:SetSpawnPoints SpawnTeams.Length=1
+[1250.59] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints MaxSpots=4
+[1250.59] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=0 SpawnPoints[i]=TraceableSpawnPoint_TA_4
+[1250.59] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=1 SpawnPoints[i]=TraceableSpawnPoint_TA_5
+[1250.59] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=2 SpawnPoints[i]=TraceableSpawnPoint_TA_6
+[1250.59] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=3 SpawnPoints[i]=TraceableSpawnPoint_TA_7
+[1250.59] RankedReconnect: (RankedReconnectSave_TA_0) RankedReconnectSave_TA::None:ClearRankedReconnect RankedReconnectBeacon=
+[1250.59] ScriptLog: Script call stack:
+[1250.59] ScriptLog: 	Function TAGame.Ball_TA:OnRigidBodyCollision
+[1250.59] ScriptLog: 	Function TAGame.Ball_TA:OnHitWorld
+[1250.59] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:Active.HandleBallHitGround
+[1250.59] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:StartNewRound
+[1250.59] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:EndGame
+[1250.59] ScriptLog: 	Function TAGame.GameEvent_TA:GotoGameState
+[1250.59] ScriptLog: 	Function TAGame.GameEvent_TA:OnGameStateChanged
+[1250.59] ScriptLog: 	Function TAGame.LocalPlayer_TA:HandleGameStateChanged
+[1250.59] ScriptLog: 	Function TAGame.RankedReconnectSave_TA:ClearRankedReconnect
+[1250.60] Warning: Warning, Failed to load 'SwfMovie GFX_WinnerMenu.WinnerMenu': Failed to find object 'SwfMovie GFX_WinnerMenu.WinnerMenu'
+[1250.66] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[1250.71] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[1250.71] DevGFxUI: null
+[1250.71] Log: FUniqueNetId::FromString - could not parse ''
+[1251.59] Achievements: IncrementStat 42 0
+[1251.59] Error: WriteOnlineStats: Ignoring unknown player
+[1251.59] DevOnline: FlushOnlineStats: No stats to flush
+[1251.59] Achievements: IncrementStat 40 0
+[1251.59] Error: WriteOnlineStats: Ignoring unknown player
+[1251.59] DevOnline: FlushOnlineStats: No stats to flush
+[1253.60] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[1253.60] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=0 SpawnPoints[i]=TraceableSpawnPoint_TA_4
+[1253.60] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[1253.60] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=1 SpawnPoints[i]=TraceableSpawnPoint_TA_5
+[1253.60] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[1253.60] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=2 SpawnPoints[i]=TraceableSpawnPoint_TA_6
+[1253.60] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[1253.60] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=3 SpawnPoints[i]=TraceableSpawnPoint_TA_7
+[1253.60] RankedReconnect: (RankedReconnectSave_TA_0) RankedReconnectSave_TA::None:ClearRankedReconnect RankedReconnectBeacon=
+[1253.60] ScriptLog: Script call stack:
+[1253.60] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:PrePodiumSpotlight.GotoPodiumSpotlight
+[1253.60] ScriptLog: 	Function TAGame.GameEvent_TA:GotoGameState
+[1253.60] ScriptLog: 	Function TAGame.GameEvent_TA:OnGameStateChanged
+[1253.60] ScriptLog: 	Function TAGame.LocalPlayer_TA:HandleGameStateChanged
+[1253.60] ScriptLog: 	Function TAGame.RankedReconnectSave_TA:ClearRankedReconnect
+[1258.60] Error: Can't end an online game that hasn't been created
+[1258.60] RankedReconnect: (RankedReconnectSave_TA_0) RankedReconnectSave_TA::None:ClearRankedReconnect RankedReconnectBeacon=
+[1258.60] ScriptLog: Script call stack:
+[1258.60] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:PodiumSpotlight.FinishEvent
+[1258.60] ScriptLog: 	Function TAGame.GameEvent_TA:GotoGameState
+[1258.60] ScriptLog: 	Function TAGame.GameEvent_TA:OnGameStateChanged
+[1258.60] ScriptLog: 	Function TAGame.LocalPlayer_TA:HandleGameStateChanged
+[1258.60] ScriptLog: 	Function TAGame.RankedReconnectSave_TA:ClearRankedReconnect
+[1258.61] Warning: Warning, Failed to load 'SwfMovie GFX_SeasonMenu.SeasonMenu': Failed to find object 'SwfMovie GFX_SeasonMenu.SeasonMenu'
+[1258.67] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[1258.74] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[1258.74] DevGFxUI: null
+[1258.75] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[1258.75] DevGFxUI: null
+[1258.75] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[1258.75] DevGFxUI: null
+[1259.66] Log: FSaveDataExportTask(0) wrote 168578 bytes to memory
+[1259.66] Log: SaveGameDataAsync game thread time: 3 ms
+[1259.69] Log: Deleting old save file ..\..\TAGame\SaveData\DBE_Production\SaveData.save
+[1259.69] Log: SaveDataExport(0): Finished - File:[..\..\TAGame\SaveData\DBE_Production\SaveData_2.save] Result:[1]
+[1266.81] ScriptWarning: ScriptWarning, Accessed None 'Game'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_3
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet:0079
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet
+
+[1266.81] ScriptWarning: ScriptWarning, Accessed None
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_3
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet:008D
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet
+
+[1266.81] ScriptWarning: ScriptWarning, Accessed None 'Actor'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_3
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:0040
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PushMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[1266.81] ScriptWarning: ScriptWarning, Accessed None 'Game'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_3
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:00C3
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PushMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[1266.81] ScriptWarning: ScriptWarning, Accessed None
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_3
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:00D7
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PushMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[1277.80] RankedReconnect: (RankedReconnectSave_TA_0) RankedReconnectSave_TA::None:ClearRankedReconnect RankedReconnectBeacon=
+[1277.80] ScriptLog: Script call stack:
+[1277.80] ScriptLog: 	Function TAGame.GFxShell_TA:ExitToMainMenu
+[1277.80] ScriptLog: 	Function TAGame.RankedReconnectSave_TA:ClearRankedReconnect
+[1277.80] DevGFxUI: [TAGAME SHELL] checkForItemDrops() -
+[1277.80] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - System.UIState is HUDSoccar
+[1277.80] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GroupsRemaining is 0
+[1277.80] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.AnyPlayerHasUnlocks() is false
+[1277.80] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GetUnseenContainerDrops().length is 0
+[1277.80] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - m_bItemDropsDisabled is true
+[1277.80] DevNet: Browse: MENU_Main_p?closed
+[1277.80] Log: Failed; returning to Entry
+[1277.80] OnlinePlayerStorage: PartitionStorageRequests ProfileCameraSave_TA Request.Data.Length=124 Request.Checksum=-1991918397 ManifestChecksum=0 bChecksumMatch=False
+[1277.80] OnlinePlayerStorage: PartitionStorageRequests ProfileStatsSave_TA Request.Data.Length=5904 Request.Checksum=2049277966 ManifestChecksum=0 bChecksumMatch=False
+[1277.80] OnlinePlayerStorage: PartitionStorageRequests ProductsOfflineSave_TA Request.Data.Length=150 Request.Checksum=-1279873692 ManifestChecksum=0 bChecksumMatch=False
+[1277.82] Log: LoadMap: MENU_Main_p?closed
+[1277.82] Warning: Warning, Failed to load 'SwfMovie GFx_LoadingScreen.LoadingScreen': Failed to find object 'SwfMovie GFx_LoadingScreen.LoadingScreen'
+[1277.87] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1277.87] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1277.87] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1277.87] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1277.87] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1277.87] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1277.87] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1277.87] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1277.87] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1277.87] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1277.87] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1277.87] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1277.87] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1277.87] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1277.87] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1279.73] Log: Fully load package: ..\..\TAGame\CookedPCConsole\GameInfo_GFxMenu_SF.upk
+[1279.75] Log: Game class is 'GameInfo_GFxMenu_TA'
+[1280.03] Log: Bringing World MENU_Main_p.TheWorld up for play (0) at 2019.08.11-11.01.00
+[1280.04] Log: Bringing up level for play took: 0.288532
+[1280.04] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[1280.16] DevGFxUI: Error: [CLIK ScrollingList componentList], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[1280.17] DevGFxUI: Error: [CLIK ScrollingList shardList], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[1280.22] DevGFxUI: Error: [CLIK ScrollingList list], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[1280.23] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[1280.23] DevGFxUI: [TAGAME SHELL] onSharedUIStateChanged() - m_oldSharedUIState is  and System.SharedUIState is
+[1280.30] Log: ########### Finished loading level: 2.481208 seconds
+[1280.30] Log: Flushing async loaders.
+[1280.73] Log: Flushed async loaders.
+[1280.73] Log: RPC Error (failure): Service=GenericStorage/SetPlayerGenericStorage, Type=OSCS_NotConnected, Code=-1, Message=
+[1280.73] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[1280.94] Vanity: All Vanity Queries Complete
+[1280.94] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[1280.94] Log: Flushing async loaders.
+[1280.95] Log: Flushed async loaders.
+[1280.95] Warning: Warning, Failed to load 'SwfMovie GFX_StartMenu.StartMenu': Failed to find object 'SwfMovie GFX_StartMenu.StartMenu'
+[1281.01] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[1283.73] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[1283.73] Warning: Warning, Failed to load 'SwfMovie GFX_MainMenu.MainMenu': Failed to find object 'SwfMovie GFX_MainMenu.MainMenu'
+[1283.86] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[1283.92] DevGFxUI: [TAGAME SHELL] enableItemUnlockPopups()
+[1283.92] DevGFxUI: [TAGAME SHELL] checkForItemDrops() -
+[1283.92] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GroupsRemaining is 0
+[1283.92] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.AnyPlayerHasUnlocks() is false
+[1283.92] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GetUnseenContainerDrops().length is 0
+[1283.94] Warning: Warning, Failed to load 'SwfMovie GFX_SeasonMenu.SeasonMenu': Failed to find object 'SwfMovie GFX_SeasonMenu.SeasonMenu'
+[1284.01] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[1284.21] Log: RPC Error (failure): Service=Events/GetEventCurrency, Type=OSCS_NotConnected, Code=-1, Message=
+[1284.21] Log: RPC Error (failure): Service=Events/GetEventCurrency, Type=OSCS_NotConnected, Code=-1, Message=
+[1285.07] PsyNetStaticData: HandleCacheExpired
+[1286.92] DevGFxUI: [TAGAME SHELL] enableItemUnlockPopups()
+[1286.92] DevGFxUI: [TAGAME SHELL] checkForItemDrops() -
+[1286.92] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GroupsRemaining is 0
+[1286.92] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.AnyPlayerHasUnlocks() is false
+[1286.92] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GetUnseenContainerDrops().length is 0
+[1290.15] DevGFxUI: [TAGAME SHELL] onSharedUIStateChanged() - m_oldSharedUIState is  and System.SharedUIState is Garage
+[1290.15] Warning: Warning, Failed to load 'SwfMovie GFx_GarageMenu.GarageMenu': Failed to find object 'SwfMovie GFx_GarageMenu.GarageMenu'
+[1290.32] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[1290.53] Log: FSaveDataExportTask(0) wrote 168578 bytes to memory
+[1290.53] Log: SaveGameDataAsync game thread time: 3 ms
+[1290.56] Log: Deleting old save file ..\..\TAGame\SaveData\DBE_Production\SaveData_1.save
+[1290.56] Log: SaveDataExport(0): Finished - File:[..\..\TAGame\SaveData\DBE_Production\SaveData.save] Result:[1]
+[1314.18] DevGFxUI: [TAGAME SHELL] onSharedUIStateChanged() - m_oldSharedUIState is Garage and System.SharedUIState is
+[1314.18] DevGFxUI: [TAGAME SHELL] checkForItemDrops() -
+[1314.18] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GroupsRemaining is 0
+[1314.18] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.AnyPlayerHasUnlocks() is false
+[1314.18] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GetUnseenContainerDrops().length is 0
+[1316.69] DevGFxUI: [TAGAME SHELL] enableItemUnlockPopups()
+[1316.69] DevGFxUI: [TAGAME SHELL] checkForItemDrops() -
+[1316.69] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GroupsRemaining is 0
+[1316.69] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.AnyPlayerHasUnlocks() is false
+[1316.69] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GetUnseenContainerDrops().length is 0
+[1316.71] Log: FSaveDataExportTask(0) wrote 168578 bytes to memory
+[1316.71] Log: SaveGameDataAsync game thread time: 3 ms
+[1316.72] Log: Deleting old save file ..\..\TAGame\SaveData\DBE_Production\SaveData_2.save
+[1316.72] Log: SaveDataExport(0): Finished - File:[..\..\TAGame\SaveData\DBE_Production\SaveData_1.save] Result:[1]
+[1321.68] Warning: Warning, Failed to load 'SwfMovie GFX_PrivateMatchMenu.PrivateMatchMenu': Failed to find object 'SwfMovie GFX_PrivateMatchMenu.PrivateMatchMenu'
+[1321.78] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[1324.84] Warning: Warning, Failed to load 'SwfMovie GFX_SeasonMenu.SeasonMenu': Failed to find object 'SwfMovie GFX_SeasonMenu.SeasonMenu'
+[1326.04] DevNet: Browse: cs_p?Game=TAGame.GameInfo_Season_TA?Playtest
+[1326.07] OnlinePlayerStorage: PartitionStorageRequests ProfileCameraSave_TA Request.Data.Length=124 Request.Checksum=-1991918397 ManifestChecksum=0 bChecksumMatch=False
+[1326.07] OnlinePlayerStorage: PartitionStorageRequests ProfileLoadoutSave_TA Request.Data.Length=3150 Request.Checksum=142022173 ManifestChecksum=0 bChecksumMatch=False
+[1326.07] Log: Flushing async loaders.
+[1326.09] Log: Flushed async loaders.
+[1326.09] Log: LoadMap: cs_p?Game=TAGame.GameInfo_Season_TA?Playtest
+[1326.09] Warning: Warning, Failed to load 'SwfMovie GFx_LoadingScreen.LoadingScreen': Failed to find object 'SwfMovie GFx_LoadingScreen.LoadingScreen'
+[1326.13] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1327.67] Log: Fully load package: ..\..\TAGame\CookedPCConsole\GameInfo_Season_SF.upk
+[1327.98] Log: Game class is 'GameInfo_Season_TA'
+[1328.57] Log: Bringing World cs_p.TheWorld up for play (0) at 2019.08.11-11.01.49
+[1328.58] Log: Bringing up level for play took: 0.595574
+[1328.58] SimTimeScaling: SetUsingSimTimeScaling False
+[1328.58] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[1328.71] DevGFxUI: Error: [CLIK ScrollingList componentList], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[1328.71] DevGFxUI: Error: [CLIK ScrollingList shardList], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[1328.76] DevGFxUI: Error: [CLIK ScrollingList list], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[1328.78] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[1328.78] DevGFxUI: [TAGAME SHELL] onSharedUIStateChanged() - m_oldSharedUIState is  and System.SharedUIState is
+[1328.85] MatchBroadcast: Init bBroadcastMatch=False MatchLog=None
+[1329.31] ScriptWarning: ScriptWarning, Trying to add a Persona with an Invalid ID into the Persona Map: Unknown|0|0
+	Personas_TA Transient.GameEngine_TA_0:LocalPlayer_TA_0.OnlinePlayer_TA_0.Personas_TA_0
+	Function TAGame.Personas_TA:AddPersona:00CA
+Script call stack:
+	Function TAGame.GameInfo_Season_TA:PostLogin
+	Function TAGame.GameEvent_TA:Init
+	Function TAGame.GameEvent_TA:AddPlayer
+	Function TAGame.PRI_TA:SetGameEvent
+	Function TAGame.GameEvent_Soccar_TA:AddPRI
+	Function TAGame.GameEvent_TA:AddPRI
+	Function TAGame.GFxData_Friends_TA:HandlePlayerAddedToMatch
+	Function TAGame.GFxData_Friends_TA:GetOrCreatePersona
+	Function TAGame.Personas_TA:GetOrCreateFromOnlineFriend
+	Function TAGame.Personas_TA:AddPersona
+
+[1329.31] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1329.31] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[1329.38] Clubs: GFxData_PRI_TA_16 HandleClubID Unknown|0|0 ClubID=0
+[1329.40] Log: ########### Finished loading level: 3.305447 seconds
+[1329.40] Log: Flushing async loaders.
+[1329.99] Log: Flushed async loaders.
+[1329.99] Clubs: GFxData_PRI_TA_17 HandleClubID Unknown|0|0 ClubID=0
+[1330.00] Log: RPC Error (failure): Service=GenericStorage/SetPlayerGenericStorage, Type=OSCS_NotConnected, Code=-1, Message=
+[1330.00] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[1330.21] Clubs: GFxData_PRI_TA_18 HandleClubID Unknown|0|0 ClubID=0
+[1330.22] Vanity: All Vanity Queries Complete
+[1330.22] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[1330.24] Log: Flushing async loaders.
+[1330.24] Log: Flushed async loaders.
+[1330.24] Warning: Warning, Failed to load 'SwfMovie GFX_Hud.Hud': Failed to find object 'SwfMovie GFX_Hud.Hud'
+[1330.31] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[1330.77] Clubs: GFxData_PRI_TA_19 HandleClubID Unknown|0|0 ClubID=0
+[1330.79] ScriptWarning: ScriptWarning, Trying to add a Persona with an Invalid ID into the Persona Map: Unknown|0|0
+	Personas_TA Transient.GameEngine_TA_0:LocalPlayer_TA_0.OnlinePlayer_TA_0.Personas_TA_0
+	Function TAGame.Personas_TA:AddPersona:00CA
+Script call stack:
+	Function TAGame.GFxData_Personas_TA:OnShellSet
+	Function TAGame.GFxData_Personas_TA:HandleLocalPlayerAdded
+	Function TAGame.Personas_TA:UpdatePersonaFromData
+	Function TAGame.Personas_TA:GetOrCreate
+	Function TAGame.Personas_TA:AddPersona
+
+[1330.89] Clubs: GFxData_PRI_TA_20 HandleClubID Unknown|0|0 ClubID=0
+[1330.99] Clubs: GFxData_PRI_TA_21 HandleClubID Unknown|0|0 ClubID=0
+[1331.11] Clubs: GFxData_PRI_TA_22 HandleClubID Unknown|0|0 ClubID=0
+[1331.22] Clubs: GFxData_PRI_TA_23 HandleClubID Unknown|0|0 ClubID=0
+[1385.99] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[1471.15] Log: UImpactEffectsComponent_TA::HandleCollision - HitComponent CarMeshComponent_TA_232 is NULL or not attached
+[1474.22] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[1601.58] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[1614.81] PsyNetStaticData: HandleCacheExpired
+[1679.03] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[1764.99] EndGameDebug: HandleBallHitWorld: Ball_TA_53 1.0000
+[1775.82] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[1836.14] Achievements: IncrementStat 3 24
+[1836.14] Error: WriteOnlineStats: Ignoring unknown player
+[1836.14] DevOnline: FlushOnlineStats: No stats to flush
+[1836.14] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[1836.14] DevGFxUI: null
+[1836.14] Log: FUniqueNetId::FromString - could not parse ''
+[1836.15] Achievements: IncrementStat 11 20
+[1836.15] Error: WriteOnlineStats: Ignoring unknown player
+[1836.15] DevOnline: FlushOnlineStats: No stats to flush
+[1836.15] SpawnPoint: (GameEvent_Season_TA_2) GameEvent_Soccar_TA::PrePodiumSpotlight:BeginState
+[1836.15] SpawnPoint: (SpawnPointsPodium) SpawnPointCluster_TA::None:SetSpawnPoints SpawnTeams.Length=1
+[1836.15] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints MaxSpots=4
+[1836.15] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=0 SpawnPoints[i]=TraceableSpawnPoint_TA_8
+[1836.15] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=1 SpawnPoints[i]=TraceableSpawnPoint_TA_9
+[1836.15] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=2 SpawnPoints[i]=TraceableSpawnPoint_TA_10
+[1836.15] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=3 SpawnPoints[i]=TraceableSpawnPoint_TA_11
+[1836.15] RankedReconnect: (RankedReconnectSave_TA_0) RankedReconnectSave_TA::None:ClearRankedReconnect RankedReconnectBeacon=
+[1836.15] ScriptLog: Script call stack:
+[1836.15] ScriptLog: 	Function TAGame.ReplayDirector_TA:Playing.HandleReplayFinished
+[1836.15] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:ReplayPlayback.HandleReplayFinished
+[1836.15] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:StartNewRound
+[1836.15] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:EndGame
+[1836.15] ScriptLog: 	Function TAGame.GameEvent_TA:GotoGameState
+[1836.15] ScriptLog: 	Function TAGame.GameEvent_TA:OnGameStateChanged
+[1836.15] ScriptLog: 	Function TAGame.LocalPlayer_TA:HandleGameStateChanged
+[1836.15] ScriptLog: 	Function TAGame.RankedReconnectSave_TA:ClearRankedReconnect
+[1836.15] Warning: Warning, Failed to load 'SwfMovie GFX_WinnerMenu.WinnerMenu': Failed to find object 'SwfMovie GFX_WinnerMenu.WinnerMenu'
+[1836.24] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[1836.28] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[1836.28] DevGFxUI: null
+[1836.28] Log: FUniqueNetId::FromString - could not parse ''
+[1837.14] Achievements: IncrementStat 42 0
+[1837.14] Error: WriteOnlineStats: Ignoring unknown player
+[1837.14] DevOnline: FlushOnlineStats: No stats to flush
+[1837.14] Achievements: IncrementStat 40 0
+[1837.14] Error: WriteOnlineStats: Ignoring unknown player
+[1837.14] DevOnline: FlushOnlineStats: No stats to flush
+[1839.14] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[1839.14] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=0 SpawnPoints[i]=TraceableSpawnPoint_TA_8
+[1839.14] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[1839.14] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=1 SpawnPoints[i]=TraceableSpawnPoint_TA_9
+[1839.14] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[1839.14] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=2 SpawnPoints[i]=TraceableSpawnPoint_TA_10
+[1839.14] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[1839.14] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=3 SpawnPoints[i]=TraceableSpawnPoint_TA_11
+[1839.14] RankedReconnect: (RankedReconnectSave_TA_0) RankedReconnectSave_TA::None:ClearRankedReconnect RankedReconnectBeacon=
+[1839.14] ScriptLog: Script call stack:
+[1839.14] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:PrePodiumSpotlight.GotoPodiumSpotlight
+[1839.14] ScriptLog: 	Function TAGame.GameEvent_TA:GotoGameState
+[1839.14] ScriptLog: 	Function TAGame.GameEvent_TA:OnGameStateChanged
+[1839.14] ScriptLog: 	Function TAGame.LocalPlayer_TA:HandleGameStateChanged
+[1839.14] ScriptLog: 	Function TAGame.RankedReconnectSave_TA:ClearRankedReconnect
+[1844.14] Error: Can't end an online game that hasn't been created
+[1844.14] RankedReconnect: (RankedReconnectSave_TA_0) RankedReconnectSave_TA::None:ClearRankedReconnect RankedReconnectBeacon=
+[1844.14] ScriptLog: Script call stack:
+[1844.14] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:PodiumSpotlight.FinishEvent
+[1844.14] ScriptLog: 	Function TAGame.GameEvent_TA:GotoGameState
+[1844.14] ScriptLog: 	Function TAGame.GameEvent_TA:OnGameStateChanged
+[1844.14] ScriptLog: 	Function TAGame.LocalPlayer_TA:HandleGameStateChanged
+[1844.14] ScriptLog: 	Function TAGame.RankedReconnectSave_TA:ClearRankedReconnect
+[1844.14] Warning: Warning, Failed to load 'SwfMovie GFX_SeasonMenu.SeasonMenu': Failed to find object 'SwfMovie GFX_SeasonMenu.SeasonMenu'
+[1844.23] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[1844.29] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[1844.29] DevGFxUI: null
+[1844.29] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[1844.29] DevGFxUI: null
+[1844.30] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[1844.30] DevGFxUI: null
+[1845.05] Log: FSaveDataExportTask(0) wrote 170977 bytes to memory
+[1845.05] Log: SaveGameDataAsync game thread time: 3 ms
+[1845.18] Log: Deleting old save file ..\..\TAGame\SaveData\DBE_Production\SaveData.save
+[1845.18] Log: SaveDataExport(0): Finished - File:[..\..\TAGame\SaveData\DBE_Production\SaveData_2.save] Result:[1]
+[1845.88] ScriptWarning: ScriptWarning, Accessed None 'Game'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_5
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet:0079
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet
+
+[1845.88] ScriptWarning: ScriptWarning, Accessed None
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_5
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet:008D
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet
+
+[1845.88] ScriptWarning: ScriptWarning, Accessed None 'Actor'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_5
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:0040
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PushMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[1845.88] ScriptWarning: ScriptWarning, Accessed None 'Game'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_5
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:00C3
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PushMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[1845.88] ScriptWarning: ScriptWarning, Accessed None
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_5
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:00D7
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PushMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[1846.02] DevGFxUI: EndRoundSounds.playSound() called before load()
+[1851.01] DevNet: Browse: stadium_day_p?Game=TAGame.GameInfo_Season_TA?Playtest
+[1851.04] OnlinePlayerStorage: PartitionStorageRequests ProfileCameraSave_TA Request.Data.Length=124 Request.Checksum=-1991918397 ManifestChecksum=0 bChecksumMatch=False
+[1851.04] OnlinePlayerStorage: PartitionStorageRequests ProfileStatsSave_TA Request.Data.Length=5993 Request.Checksum=-1902159415 ManifestChecksum=0 bChecksumMatch=False
+[1851.04] OnlinePlayerStorage: PartitionStorageRequests ProductsOfflineSave_TA Request.Data.Length=150 Request.Checksum=-1950089597 ManifestChecksum=0 bChecksumMatch=False
+[1851.05] Log: Flushing async loaders.
+[1851.07] Log: Flushed async loaders.
+[1851.07] Log: LoadMap: stadium_day_p?Game=TAGame.GameInfo_Season_TA?Playtest
+[1851.07] Warning: Warning, Failed to load 'SwfMovie GFx_LoadingScreen.LoadingScreen': Failed to find object 'SwfMovie GFx_LoadingScreen.LoadingScreen'
+[1851.11] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1851.11] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1851.11] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1851.11] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1851.11] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1851.11] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1851.11] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1851.11] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1851.11] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1851.11] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1851.11] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1851.11] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1851.11] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1851.11] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1851.11] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1852.30] Log: Fully load package: ..\..\TAGame\CookedPCConsole\GameInfo_Season_SF.upk
+[1853.30] Log: Game class is 'GameInfo_Season_TA'
+[1853.31] Log: Octree Warning (AddPrimitive): StaticMeshActor_SMC_408 (Owner: stadium_day_p.TheWorld:PersistentLevel.MeshCollector3) Outside World.
+[1853.93] Log: Bringing World stadium_day_p.TheWorld up for play (0) at 2019.08.11-11.10.34
+[1853.93] Log: Bringing up level for play took: 0.627421
+[1853.93] SimTimeScaling: SetUsingSimTimeScaling False
+[1853.93] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[1854.06] DevGFxUI: Error: [CLIK ScrollingList componentList], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[1854.06] DevGFxUI: Error: [CLIK ScrollingList shardList], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[1854.11] DevGFxUI: Error: [CLIK ScrollingList list], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[1854.29] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[1854.29] DevGFxUI: [TAGAME SHELL] onSharedUIStateChanged() - m_oldSharedUIState is  and System.SharedUIState is
+[1854.37] MatchBroadcast: Init bBroadcastMatch=False MatchLog=None
+[1854.91] ScriptWarning: ScriptWarning, Trying to add a Persona with an Invalid ID into the Persona Map: Unknown|0|0
+	Personas_TA Transient.GameEngine_TA_0:LocalPlayer_TA_0.OnlinePlayer_TA_0.Personas_TA_0
+	Function TAGame.Personas_TA:AddPersona:00CA
+Script call stack:
+	Function TAGame.GameInfo_Season_TA:PostLogin
+	Function TAGame.GameEvent_TA:Init
+	Function TAGame.GameEvent_TA:AddPlayer
+	Function TAGame.PRI_TA:SetGameEvent
+	Function TAGame.GameEvent_Soccar_TA:AddPRI
+	Function TAGame.GameEvent_TA:AddPRI
+	Function TAGame.GFxData_Friends_TA:HandlePlayerAddedToMatch
+	Function TAGame.GFxData_Friends_TA:GetOrCreatePersona
+	Function TAGame.Personas_TA:GetOrCreateFromOnlineFriend
+	Function TAGame.Personas_TA:AddPersona
+
+[1854.91] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[1854.92] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[1854.98] Clubs: GFxData_PRI_TA_24 HandleClubID Unknown|0|0 ClubID=0
+[1855.00] Log: ########### Finished loading level: 3.928337 seconds
+[1855.00] Log: Flushing async loaders.
+[1855.10] Log: Flushed async loaders.
+[1855.10] Clubs: GFxData_PRI_TA_25 HandleClubID Unknown|0|0 ClubID=0
+[1855.11] Log: RPC Error (failure): Service=GenericStorage/SetPlayerGenericStorage, Type=OSCS_NotConnected, Code=-1, Message=
+[1855.11] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[1855.56] Clubs: GFxData_PRI_TA_26 HandleClubID Unknown|0|0 ClubID=0
+[1855.58] Vanity: All Vanity Queries Complete
+[1855.59] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[1855.60] Log: Flushing async loaders.
+[1855.66] Log: Flushed async loaders.
+[1855.66] Warning: Warning, Failed to load 'SwfMovie GFX_Hud.Hud': Failed to find object 'SwfMovie GFX_Hud.Hud'
+[1855.75] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[1856.06] Clubs: GFxData_PRI_TA_27 HandleClubID Unknown|0|0 ClubID=0
+[1856.07] ScriptWarning: ScriptWarning, Trying to add a Persona with an Invalid ID into the Persona Map: Unknown|0|0
+	Personas_TA Transient.GameEngine_TA_0:LocalPlayer_TA_0.OnlinePlayer_TA_0.Personas_TA_0
+	Function TAGame.Personas_TA:AddPersona:00CA
+Script call stack:
+	Function TAGame.GFxData_Personas_TA:OnShellSet
+	Function TAGame.GFxData_Personas_TA:HandleLocalPlayerAdded
+	Function TAGame.Personas_TA:UpdatePersonaFromData
+	Function TAGame.Personas_TA:GetOrCreate
+	Function TAGame.Personas_TA:AddPersona
+
+[1856.18] Clubs: GFxData_PRI_TA_28 HandleClubID Unknown|0|0 ClubID=0
+[1856.28] Clubs: GFxData_PRI_TA_29 HandleClubID Unknown|0|0 ClubID=0
+[1856.40] Clubs: GFxData_PRI_TA_30 HandleClubID Unknown|0|0 ClubID=0
+[1856.50] Clubs: GFxData_PRI_TA_31 HandleClubID Unknown|0|0 ClubID=0
+[1910.98] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[1938.26] PsyNetStaticData: HandleCacheExpired
+[2028.00] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[2057.35] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[2057.35] DevGFxUI: null
+[2057.35] Log: FUniqueNetId::FromString - could not parse ''
+[2057.35] Log: UImpactEffectsComponent_TA::HandleCollision - HitComponent CarMeshComponent_TA_353 is NULL or not attached
+[2093.21] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[2110.00] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[2110.00] DevGFxUI: null
+[2110.00] Log: UImpactEffectsComponent_TA::HandleCollision - HitComponent CarMeshComponent_TA_358 is NULL or not attached
+[2149.70] Achievements: IncrementStat 2 20
+[2149.70] Error: WriteOnlineStats: Ignoring unknown player
+[2149.70] DevOnline: FlushOnlineStats: No stats to flush
+[2159.20] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[2159.20] DevGFxUI: null
+[2159.20] Log: UImpactEffectsComponent_TA::HandleCollision - HitComponent CarMeshComponent_TA_376 is NULL or not attached
+[2159.49] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[2159.49] DevGFxUI: null
+[2159.49] Log: UImpactEffectsComponent_TA::HandleCollision - HitComponent CarMeshComponent_TA_374 is NULL or not attached
+[2159.49] Log: UImpactEffectsComponent_TA::HandleCollision - HitComponent CarMeshComponent_TA_374 is NULL or not attached
+[2185.65] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[2195.59] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[2195.59] DevGFxUI: null
+[2195.59] Log: UImpactEffectsComponent_TA::HandleCollision - HitComponent CarMeshComponent_TA_371 is NULL or not attached
+[2232.27] EndGameDebug: HandleBallHitWorld: Ball_TA_67 0.9949
+[2232.28] Achievements: IncrementStat 11 20
+[2232.28] Error: WriteOnlineStats: Ignoring unknown player
+[2232.28] DevOnline: FlushOnlineStats: No stats to flush
+[2232.28] SpawnPoint: (GameEvent_Season_TA_3) GameEvent_Soccar_TA::PrePodiumSpotlight:BeginState
+[2232.28] SpawnPoint: (SpawnPointsPodium) SpawnPointCluster_TA::None:SetSpawnPoints SpawnTeams.Length=1
+[2232.28] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints MaxSpots=4
+[2232.28] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=0 SpawnPoints[i]=TraceableSpawnPoint_TA_12
+[2232.28] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=1 SpawnPoints[i]=TraceableSpawnPoint_TA_13
+[2232.28] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=2 SpawnPoints[i]=TraceableSpawnPoint_TA_14
+[2232.28] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=3 SpawnPoints[i]=TraceableSpawnPoint_TA_15
+[2232.28] RankedReconnect: (RankedReconnectSave_TA_0) RankedReconnectSave_TA::None:ClearRankedReconnect RankedReconnectBeacon=
+[2232.28] ScriptLog: Script call stack:
+[2232.28] ScriptLog: 	Function TAGame.Ball_TA:OnRigidBodyCollision
+[2232.28] ScriptLog: 	Function TAGame.Ball_TA:OnHitWorld
+[2232.28] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:Active.HandleBallHitGround
+[2232.28] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:StartNewRound
+[2232.28] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:EndGame
+[2232.28] ScriptLog: 	Function TAGame.GameEvent_TA:GotoGameState
+[2232.28] ScriptLog: 	Function TAGame.GameEvent_TA:OnGameStateChanged
+[2232.28] ScriptLog: 	Function TAGame.LocalPlayer_TA:HandleGameStateChanged
+[2232.28] ScriptLog: 	Function TAGame.RankedReconnectSave_TA:ClearRankedReconnect
+[2232.28] Warning: Warning, Failed to load 'SwfMovie GFX_WinnerMenu.WinnerMenu': Failed to find object 'SwfMovie GFX_WinnerMenu.WinnerMenu'
+[2232.34] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[2233.28] Achievements: IncrementStat 42 0
+[2233.28] Error: WriteOnlineStats: Ignoring unknown player
+[2233.28] DevOnline: FlushOnlineStats: No stats to flush
+[2233.28] Achievements: IncrementStat 40 0
+[2233.28] Error: WriteOnlineStats: Ignoring unknown player
+[2233.28] DevOnline: FlushOnlineStats: No stats to flush
+[2235.28] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[2235.28] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=0 SpawnPoints[i]=TraceableSpawnPoint_TA_12
+[2235.28] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[2235.28] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=1 SpawnPoints[i]=TraceableSpawnPoint_TA_13
+[2235.28] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[2235.28] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=2 SpawnPoints[i]=TraceableSpawnPoint_TA_14
+[2235.28] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[2235.28] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=3 SpawnPoints[i]=TraceableSpawnPoint_TA_15
+[2235.28] RankedReconnect: (RankedReconnectSave_TA_0) RankedReconnectSave_TA::None:ClearRankedReconnect RankedReconnectBeacon=
+[2235.29] ScriptLog: Script call stack:
+[2235.29] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:PrePodiumSpotlight.GotoPodiumSpotlight
+[2235.29] ScriptLog: 	Function TAGame.GameEvent_TA:GotoGameState
+[2235.29] ScriptLog: 	Function TAGame.GameEvent_TA:OnGameStateChanged
+[2235.29] ScriptLog: 	Function TAGame.LocalPlayer_TA:HandleGameStateChanged
+[2235.29] ScriptLog: 	Function TAGame.RankedReconnectSave_TA:ClearRankedReconnect
+[2240.28] Error: Can't end an online game that hasn't been created
+[2240.28] RankedReconnect: (RankedReconnectSave_TA_0) RankedReconnectSave_TA::None:ClearRankedReconnect RankedReconnectBeacon=
+[2240.28] ScriptLog: Script call stack:
+[2240.28] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:PodiumSpotlight.FinishEvent
+[2240.28] ScriptLog: 	Function TAGame.GameEvent_TA:GotoGameState
+[2240.28] ScriptLog: 	Function TAGame.GameEvent_TA:OnGameStateChanged
+[2240.28] ScriptLog: 	Function TAGame.LocalPlayer_TA:HandleGameStateChanged
+[2240.28] ScriptLog: 	Function TAGame.RankedReconnectSave_TA:ClearRankedReconnect
+[2240.28] Warning: Warning, Failed to load 'SwfMovie GFX_SeasonMenu.SeasonMenu': Failed to find object 'SwfMovie GFX_SeasonMenu.SeasonMenu'
+[2240.35] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[2240.43] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[2240.43] DevGFxUI: null
+[2240.43] Log: FUniqueNetId::FromString - could not parse ''
+[2240.43] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[2240.43] DevGFxUI: null
+[2240.44] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[2240.44] DevGFxUI: null
+[2241.48] Log: FSaveDataExportTask(0) wrote 171653 bytes to memory
+[2241.48] Log: SaveGameDataAsync game thread time: 3 ms
+[2241.54] Log: Deleting old save file ..\..\TAGame\SaveData\DBE_Production\SaveData_1.save
+[2241.54] Log: SaveDataExport(0): Finished - File:[..\..\TAGame\SaveData\DBE_Production\SaveData.save] Result:[1]
+[2242.27] ScriptWarning: ScriptWarning, Accessed None 'Game'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_6
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet:0079
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet
+
+[2242.27] ScriptWarning: ScriptWarning, Accessed None
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_6
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet:008D
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet
+
+[2242.27] ScriptWarning: ScriptWarning, Accessed None 'Actor'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_6
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:0040
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PushMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[2242.27] ScriptWarning: ScriptWarning, Accessed None 'Game'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_6
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:00C3
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PushMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[2242.27] ScriptWarning: ScriptWarning, Accessed None
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_6
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:00D7
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PushMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[2253.58] DevGFxUI: [TAGAME SHELL] checkForItemDrops() -
+[2253.58] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - System.UIState is HUDSoccar
+[2253.58] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GroupsRemaining is 0
+[2253.58] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.AnyPlayerHasUnlocks() is false
+[2253.58] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GetUnseenContainerDrops().length is 0
+[2253.58] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - m_bItemDropsDisabled is true
+[2255.55] PsyNetStaticData: HandleCacheExpired
+[2259.24] RankedReconnect: (RankedReconnectSave_TA_0) RankedReconnectSave_TA::None:ClearRankedReconnect RankedReconnectBeacon=
+[2259.24] ScriptLog: Script call stack:
+[2259.24] ScriptLog: 	Function TAGame.GFxShell_TA:ExitToMainMenu
+[2259.24] ScriptLog: 	Function TAGame.RankedReconnectSave_TA:ClearRankedReconnect
+[2259.24] DevGFxUI: [TAGAME SHELL] checkForItemDrops() -
+[2259.24] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - System.UIState is HUDSoccar
+[2259.24] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GroupsRemaining is 0
+[2259.24] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.AnyPlayerHasUnlocks() is false
+[2259.24] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GetUnseenContainerDrops().length is 0
+[2259.24] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - m_bItemDropsDisabled is true
+[2259.24] DevNet: Browse: MENU_Main_p?closed
+[2259.24] Log: Failed; returning to Entry
+[2259.24] OnlinePlayerStorage: PartitionStorageRequests ProfileCameraSave_TA Request.Data.Length=124 Request.Checksum=-1991918397 ManifestChecksum=0 bChecksumMatch=False
+[2259.24] OnlinePlayerStorage: PartitionStorageRequests ProfileStatsSave_TA Request.Data.Length=5993 Request.Checksum=1804434421 ManifestChecksum=0 bChecksumMatch=False
+[2259.24] OnlinePlayerStorage: PartitionStorageRequests ProductsOfflineSave_TA Request.Data.Length=150 Request.Checksum=-1676619810 ManifestChecksum=0 bChecksumMatch=False
+[2259.25] Log: LoadMap: MENU_Main_p?closed
+[2259.25] Warning: Warning, Failed to load 'SwfMovie GFx_LoadingScreen.LoadingScreen': Failed to find object 'SwfMovie GFx_LoadingScreen.LoadingScreen'
+[2259.28] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2259.28] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2259.28] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2259.28] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2259.28] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2259.28] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2259.28] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2259.28] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2259.28] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2259.28] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2259.28] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2259.28] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2259.28] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2259.28] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2259.28] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2259.74] Log: Fully load package: ..\..\TAGame\CookedPCConsole\GameInfo_GFxMenu_SF.upk
+[2259.76] Log: Game class is 'GameInfo_GFxMenu_TA'
+[2260.04] Log: Bringing World MENU_Main_p.TheWorld up for play (0) at 2019.08.11-11.17.20
+[2260.04] Log: Bringing up level for play took: 0.282644
+[2260.04] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[2260.17] DevGFxUI: Error: [CLIK ScrollingList componentList], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[2260.17] DevGFxUI: Error: [CLIK ScrollingList shardList], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[2260.23] DevGFxUI: Error: [CLIK ScrollingList list], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[2260.24] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[2260.24] DevGFxUI: [TAGAME SHELL] onSharedUIStateChanged() - m_oldSharedUIState is  and System.SharedUIState is
+[2260.31] Log: ########### Finished loading level: 1.062678 seconds
+[2260.31] Log: Flushing async loaders.
+[2260.80] Log: Flushed async loaders.
+[2260.80] Log: RPC Error (failure): Service=GenericStorage/SetPlayerGenericStorage, Type=OSCS_NotConnected, Code=-1, Message=
+[2260.80] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[2261.89] Vanity: All Vanity Queries Complete
+[2261.95] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[2261.95] Log: Flushing async loaders.
+[2261.95] Log: Flushed async loaders.
+[2261.95] Warning: Warning, Failed to load 'SwfMovie GFX_StartMenu.StartMenu': Failed to find object 'SwfMovie GFX_StartMenu.StartMenu'
+[2262.03] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[2290.96] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[2290.96] Warning: Warning, Failed to load 'SwfMovie GFX_MainMenu.MainMenu': Failed to find object 'SwfMovie GFX_MainMenu.MainMenu'
+[2291.11] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[2291.16] DevGFxUI: [TAGAME SHELL] enableItemUnlockPopups()
+[2291.16] DevGFxUI: [TAGAME SHELL] checkForItemDrops() -
+[2291.16] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GroupsRemaining is 0
+[2291.16] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.AnyPlayerHasUnlocks() is false
+[2291.16] DevGFxUI: [TAGAME SHELL] checkForItemDrops() - MultiItemDrops.GetUnseenContainerDrops().length is 0
+[2291.19] Warning: Warning, Failed to load 'SwfMovie GFX_SeasonMenu.SeasonMenu': Failed to find object 'SwfMovie GFX_SeasonMenu.SeasonMenu'
+[2291.26] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[2291.46] Log: RPC Error (failure): Service=Events/GetEventCurrency, Type=OSCS_NotConnected, Code=-1, Message=
+[2291.46] Log: RPC Error (failure): Service=Events/GetEventCurrency, Type=OSCS_NotConnected, Code=-1, Message=
+[2333.31] DevNet: Browse: UtopiaStadium_Dusk_P?Game=TAGame.GameInfo_Season_TA?Playtest
+[2333.34] OnlinePlayerStorage: PartitionStorageRequests ProfileCameraSave_TA Request.Data.Length=124 Request.Checksum=-1991918397 ManifestChecksum=0 bChecksumMatch=False
+[2333.34] Log: FSaveDataExportTask(0) wrote 171653 bytes to memory
+[2333.34] Log: SaveGameDataAsync game thread time: 3 ms
+[2333.35] Log: Flushing async loaders.
+[2333.37] Log: Deleting old save file ..\..\TAGame\SaveData\DBE_Production\SaveData_2.save
+[2333.37] Log: SaveDataExport(0): Finished - File:[..\..\TAGame\SaveData\DBE_Production\SaveData_1.save] Result:[1]
+[2333.37] Log: Flushed async loaders.
+[2333.37] Log: LoadMap: UtopiaStadium_Dusk_P?Game=TAGame.GameInfo_Season_TA?Playtest
+[2333.37] Warning: Warning, Failed to load 'SwfMovie GFx_LoadingScreen.LoadingScreen': Failed to find object 'SwfMovie GFx_LoadingScreen.LoadingScreen'
+[2333.40] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2334.35] Log: Fully load package: ..\..\TAGame\CookedPCConsole\GameInfo_Season_SF.upk
+[2334.65] Log: Game class is 'GameInfo_Season_TA'
+[2335.15] Log: Bringing World UtopiaStadium_Dusk_P.TheWorld up for play (0) at 2019.08.11-11.18.35
+[2335.15] Log: Bringing up level for play took: 0.502745
+[2335.15] SimTimeScaling: SetUsingSimTimeScaling False
+[2335.16] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[2335.29] DevGFxUI: Error: [CLIK ScrollingList componentList], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[2335.29] DevGFxUI: Error: [CLIK ScrollingList shardList], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[2335.35] DevGFxUI: Error: [CLIK ScrollingList list], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[2335.36] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[2335.37] DevGFxUI: [TAGAME SHELL] onSharedUIStateChanged() - m_oldSharedUIState is  and System.SharedUIState is
+[2335.45] MatchBroadcast: Init bBroadcastMatch=False MatchLog=None
+[2335.97] ScriptWarning: ScriptWarning, Trying to add a Persona with an Invalid ID into the Persona Map: Unknown|0|0
+	Personas_TA Transient.GameEngine_TA_0:LocalPlayer_TA_0.OnlinePlayer_TA_0.Personas_TA_0
+	Function TAGame.Personas_TA:AddPersona:00CA
+Script call stack:
+	Function TAGame.GameInfo_Season_TA:PostLogin
+	Function TAGame.GameEvent_TA:Init
+	Function TAGame.GameEvent_TA:AddPlayer
+	Function TAGame.PRI_TA:SetGameEvent
+	Function TAGame.GameEvent_Soccar_TA:AddPRI
+	Function TAGame.GameEvent_TA:AddPRI
+	Function TAGame.GFxData_Friends_TA:HandlePlayerAddedToMatch
+	Function TAGame.GFxData_Friends_TA:GetOrCreatePersona
+	Function TAGame.Personas_TA:GetOrCreateFromOnlineFriend
+	Function TAGame.Personas_TA:AddPersona
+
+[2335.97] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2335.97] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[2336.04] Clubs: GFxData_PRI_TA_32 HandleClubID Unknown|0|0 ClubID=0
+[2336.05] Log: ########### Finished loading level: 2.685845 seconds
+[2336.05] Log: Flushing async loaders.
+[2336.22] Log: Flushed async loaders.
+[2336.23] Clubs: GFxData_PRI_TA_33 HandleClubID Unknown|0|0 ClubID=0
+[2336.23] ScriptWarning: ScriptWarning, Accessed None 'JumpComponent'
+	Car_Season_TA UtopiaStadium_Dusk_P.TheWorld:PersistentLevel.Car_Season_TA_386
+	Function TAGame.Car_TA:OnJumpReleased:000E
+Script call stack:
+	Function TAGame.Car_TA:SetVehicleInput
+	Function TAGame.Car_TA:OnJumpReleased
+
+[2336.25] Log: RPC Error (failure): Service=GenericStorage/SetPlayerGenericStorage, Type=OSCS_NotConnected, Code=-1, Message=
+[2336.25] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[2336.63] Clubs: GFxData_PRI_TA_34 HandleClubID Unknown|0|0 ClubID=0
+[2337.46] Clubs: GFxData_PRI_TA_35 HandleClubID Unknown|0|0 ClubID=0
+[2337.47] Vanity: All Vanity Queries Complete
+[2337.47] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[2337.49] Warning: Warning, Failed to load 'SwfMovie GFX_Hud.Hud': Failed to find object 'SwfMovie GFX_Hud.Hud'
+[2337.56] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[2337.96] Clubs: GFxData_PRI_TA_36 HandleClubID Unknown|0|0 ClubID=0
+[2337.99] ScriptWarning: ScriptWarning, Trying to add a Persona with an Invalid ID into the Persona Map: Unknown|0|0
+	Personas_TA Transient.GameEngine_TA_0:LocalPlayer_TA_0.OnlinePlayer_TA_0.Personas_TA_0
+	Function TAGame.Personas_TA:AddPersona:00CA
+Script call stack:
+	Function TAGame.GFxData_Personas_TA:OnShellSet
+	Function TAGame.GFxData_Personas_TA:HandleLocalPlayerAdded
+	Function TAGame.Personas_TA:UpdatePersonaFromData
+	Function TAGame.Personas_TA:GetOrCreate
+	Function TAGame.Personas_TA:AddPersona
+
+[2338.08] Clubs: GFxData_PRI_TA_37 HandleClubID Unknown|0|0 ClubID=0
+[2338.21] Clubs: GFxData_PRI_TA_38 HandleClubID Unknown|0|0 ClubID=0
+[2338.32] Clubs: GFxData_PRI_TA_39 HandleClubID Unknown|0|0 ClubID=0
+[2393.27] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[2398.93] Log: UImpactEffectsComponent_TA::HandleCollision - HitComponent CarMeshComponent_TA_387 is NULL or not attached
+[2429.67] Log: UImpactEffectsComponent_TA::HandleCollision - HitComponent CarMeshComponent_TA_392 is NULL or not attached
+[2429.97] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[2429.97] DevGFxUI: null
+[2429.97] Log: FUniqueNetId::FromString - could not parse ''
+[2429.97] Log: UImpactEffectsComponent_TA::HandleCollision - HitComponent CarMeshComponent_TA_394 is NULL or not attached
+[2492.97] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[2565.02] PsyNetStaticData: HandleCacheExpired
+[2566.45] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[2620.21] Log: UImpactEffectsComponent_TA::HandleCollision - HitComponent CarMeshComponent_TA_421 is NULL or not attached
+[2672.25] EndGameDebug: HandleBallHitWorld: Ball_TA_75 0.9972
+[2672.25] Achievements: Unlock Achievement AT_Game 24
+[2672.25] DevOnline: Invalid player index (0) specified to UnlockAchievement()
+[2672.25] Achievements: IncrementStat 3 25
+[2672.25] Error: WriteOnlineStats: Ignoring unknown player
+[2672.25] DevOnline: FlushOnlineStats: No stats to flush
+[2672.25] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[2672.25] DevGFxUI: null
+[2672.25] Achievements: IncrementStat 11 20
+[2672.25] Error: WriteOnlineStats: Ignoring unknown player
+[2672.25] DevOnline: FlushOnlineStats: No stats to flush
+[2672.25] SpawnPoint: (GameEvent_Season_TA_4) GameEvent_Soccar_TA::PrePodiumSpotlight:BeginState
+[2672.25] SpawnPoint: (SpawnPointsPodium) SpawnPointCluster_TA::None:SetSpawnPoints SpawnTeams.Length=1
+[2672.25] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints MaxSpots=4
+[2672.25] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=0 SpawnPoints[i]=TraceableSpawnPoint_TA_16
+[2672.25] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=1 SpawnPoints[i]=TraceableSpawnPoint_TA_17
+[2672.25] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=2 SpawnPoints[i]=TraceableSpawnPoint_TA_18
+[2672.25] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=3 SpawnPoints[i]=TraceableSpawnPoint_TA_19
+[2672.25] RankedReconnect: (RankedReconnectSave_TA_0) RankedReconnectSave_TA::None:ClearRankedReconnect RankedReconnectBeacon=
+[2672.25] ScriptLog: Script call stack:
+[2672.25] ScriptLog: 	Function TAGame.Ball_TA:OnRigidBodyCollision
+[2672.25] ScriptLog: 	Function TAGame.Ball_TA:OnHitWorld
+[2672.25] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:Active.HandleBallHitGround
+[2672.25] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:StartNewRound
+[2672.25] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:EndGame
+[2672.25] ScriptLog: 	Function TAGame.GameEvent_TA:GotoGameState
+[2672.25] ScriptLog: 	Function TAGame.GameEvent_TA:OnGameStateChanged
+[2672.25] ScriptLog: 	Function TAGame.LocalPlayer_TA:HandleGameStateChanged
+[2672.25] ScriptLog: 	Function TAGame.RankedReconnectSave_TA:ClearRankedReconnect
+[2672.26] Warning: Warning, Failed to load 'SwfMovie GFX_WinnerMenu.WinnerMenu': Failed to find object 'SwfMovie GFX_WinnerMenu.WinnerMenu'
+[2672.32] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[2672.37] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[2672.37] DevGFxUI: null
+[2672.37] Log: FUniqueNetId::FromString - could not parse ''
+[2673.25] Achievements: IncrementStat 42 0
+[2673.25] Error: WriteOnlineStats: Ignoring unknown player
+[2673.25] DevOnline: FlushOnlineStats: No stats to flush
+[2673.25] Achievements: IncrementStat 40 0
+[2673.25] Error: WriteOnlineStats: Ignoring unknown player
+[2673.25] DevOnline: FlushOnlineStats: No stats to flush
+[2675.25] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[2675.25] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=0 SpawnPoints[i]=TraceableSpawnPoint_TA_16
+[2675.26] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[2675.26] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=1 SpawnPoints[i]=TraceableSpawnPoint_TA_17
+[2675.26] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[2675.26] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=2 SpawnPoints[i]=TraceableSpawnPoint_TA_18
+[2675.26] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[2675.26] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=3 SpawnPoints[i]=TraceableSpawnPoint_TA_19
+[2675.26] RankedReconnect: (RankedReconnectSave_TA_0) RankedReconnectSave_TA::None:ClearRankedReconnect RankedReconnectBeacon=
+[2675.26] ScriptLog: Script call stack:
+[2675.26] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:PrePodiumSpotlight.GotoPodiumSpotlight
+[2675.26] ScriptLog: 	Function TAGame.GameEvent_TA:GotoGameState
+[2675.26] ScriptLog: 	Function TAGame.GameEvent_TA:OnGameStateChanged
+[2675.26] ScriptLog: 	Function TAGame.LocalPlayer_TA:HandleGameStateChanged
+[2675.26] ScriptLog: 	Function TAGame.RankedReconnectSave_TA:ClearRankedReconnect
+[2680.26] Error: Can't end an online game that hasn't been created
+[2680.26] RankedReconnect: (RankedReconnectSave_TA_0) RankedReconnectSave_TA::None:ClearRankedReconnect RankedReconnectBeacon=
+[2680.26] ScriptLog: Script call stack:
+[2680.26] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:PodiumSpotlight.FinishEvent
+[2680.26] ScriptLog: 	Function TAGame.GameEvent_TA:GotoGameState
+[2680.26] ScriptLog: 	Function TAGame.GameEvent_TA:OnGameStateChanged
+[2680.26] ScriptLog: 	Function TAGame.LocalPlayer_TA:HandleGameStateChanged
+[2680.26] ScriptLog: 	Function TAGame.RankedReconnectSave_TA:ClearRankedReconnect
+[2680.26] Warning: Warning, Failed to load 'SwfMovie GFX_SeasonMenu.SeasonMenu': Failed to find object 'SwfMovie GFX_SeasonMenu.SeasonMenu'
+[2680.32] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[2680.38] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[2680.38] DevGFxUI: null
+[2680.39] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[2680.39] DevGFxUI: null
+[2680.39] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[2680.39] DevGFxUI: null
+[2681.71] Log: FSaveDataExportTask(0) wrote 171932 bytes to memory
+[2681.71] Log: SaveGameDataAsync game thread time: 3 ms
+[2681.72] Log: Deleting old save file ..\..\TAGame\SaveData\DBE_Production\SaveData.save
+[2681.72] Log: SaveDataExport(0): Finished - File:[..\..\TAGame\SaveData\DBE_Production\SaveData_2.save] Result:[1]
+[2685.23] ScriptWarning: ScriptWarning, Accessed None 'Game'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_8
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet:0079
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet
+
+[2685.23] ScriptWarning: ScriptWarning, Accessed None
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_8
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet:008D
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet
+
+[2685.23] ScriptWarning: ScriptWarning, Accessed None 'Actor'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_8
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:0040
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PushMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[2685.23] ScriptWarning: ScriptWarning, Accessed None 'Game'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_8
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:00C3
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PushMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[2685.23] ScriptWarning: ScriptWarning, Accessed None
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_8
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:00D7
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PushMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[2699.22] ScriptWarning: ScriptWarning, Accessed None 'Actor'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_8
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:0040
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PushMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[2699.22] ScriptWarning: ScriptWarning, Accessed None 'Game'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_8
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:00C3
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PushMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[2699.22] ScriptWarning: ScriptWarning, Accessed None
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_8
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:00D7
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PushMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[2713.55] ScriptWarning: ScriptWarning, Accessed None 'Actor'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_8
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:0040
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PopMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[2713.55] ScriptWarning: ScriptWarning, Accessed None 'Game'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_8
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:00C3
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PopMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[2713.55] ScriptWarning: ScriptWarning, Accessed None
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_8
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:00D7
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PopMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[2716.13] DevNet: Browse: wasteland_s_p?Game=TAGame.GameInfo_Season_TA?Playtest
+[2716.16] OnlinePlayerStorage: PartitionStorageRequests ProfileCameraSave_TA Request.Data.Length=70 Request.Checksum=62502384 ManifestChecksum=0 bChecksumMatch=False
+[2716.16] OnlinePlayerStorage: PartitionStorageRequests ProfileStatsSave_TA Request.Data.Length=5993 Request.Checksum=636850074 ManifestChecksum=0 bChecksumMatch=False
+[2716.16] OnlinePlayerStorage: PartitionStorageRequests ProductsOfflineSave_TA Request.Data.Length=150 Request.Checksum=-81176243 ManifestChecksum=0 bChecksumMatch=False
+[2716.17] Log: Flushing async loaders.
+[2716.18] Log: Flushed async loaders.
+[2716.18] Log: LoadMap: wasteland_s_p?Game=TAGame.GameInfo_Season_TA?Playtest
+[2716.18] Warning: Warning, Failed to load 'SwfMovie GFx_LoadingScreen.LoadingScreen': Failed to find object 'SwfMovie GFx_LoadingScreen.LoadingScreen'
+[2716.21] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2716.21] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2716.21] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2716.22] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2716.22] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2716.22] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2716.22] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2716.22] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2716.22] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2716.22] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2716.22] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2716.22] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2716.22] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2716.22] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2716.22] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2718.21] Log: Fully load package: ..\..\TAGame\CookedPCConsole\GameInfo_Season_SF.upk
+[2718.49] Log: Game class is 'GameInfo_Season_TA'
+[2718.82] Log: Bringing World wasteland_s_p.TheWorld up for play (0) at 2019.08.11-11.24.59
+[2718.82] Log: Bringing up level for play took: 0.327713
+[2718.82] SimTimeScaling: SetUsingSimTimeScaling False
+[2718.83] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[2718.95] DevGFxUI: Error: [CLIK ScrollingList componentList], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[2718.95] DevGFxUI: Error: [CLIK ScrollingList shardList], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[2719.00] DevGFxUI: Error: [CLIK ScrollingList list], The class DefaultListItemRenderer cannot be found in your library. Please ensure it is there.
+[2719.01] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[2719.02] DevGFxUI: [TAGAME SHELL] onSharedUIStateChanged() - m_oldSharedUIState is  and System.SharedUIState is
+[2719.09] MatchBroadcast: Init bBroadcastMatch=False MatchLog=None
+[2719.56] ScriptWarning: ScriptWarning, Trying to add a Persona with an Invalid ID into the Persona Map: Unknown|0|0
+	Personas_TA Transient.GameEngine_TA_0:LocalPlayer_TA_0.OnlinePlayer_TA_0.Personas_TA_0
+	Function TAGame.Personas_TA:AddPersona:00CA
+Script call stack:
+	Function TAGame.GameInfo_Season_TA:PostLogin
+	Function TAGame.GameEvent_TA:Init
+	Function TAGame.GameEvent_TA:AddPlayer
+	Function TAGame.PRI_TA:SetGameEvent
+	Function TAGame.GameEvent_Soccar_TA:AddPRI
+	Function TAGame.GameEvent_TA:AddPRI
+	Function TAGame.GFxData_Friends_TA:HandlePlayerAddedToMatch
+	Function TAGame.GFxData_Friends_TA:GetOrCreatePersona
+	Function TAGame.Personas_TA:GetOrCreateFromOnlineFriend
+	Function TAGame.Personas_TA:AddPersona
+
+[2719.56] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[2719.56] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[2719.62] Clubs: GFxData_PRI_TA_40 HandleClubID Unknown|0|0 ClubID=0
+[2719.64] Log: ########### Finished loading level: 3.458084 seconds
+[2719.64] Log: Flushing async loaders.
+[2720.01] Log: Flushed async loaders.
+[2720.01] Clubs: GFxData_PRI_TA_41 HandleClubID Unknown|0|0 ClubID=0
+[2720.02] Log: RPC Error (failure): Service=GenericStorage/SetPlayerGenericStorage, Type=OSCS_NotConnected, Code=-1, Message=
+[2720.02] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[2720.24] Clubs: GFxData_PRI_TA_42 HandleClubID Unknown|0|0 ClubID=0
+[2720.25] Vanity: All Vanity Queries Complete
+[2720.26] DevGFxUI: [TAGAME SHELL] disableItemUnlockPopups()
+[2720.26] Log: Flushing async loaders.
+[2720.28] Log: Flushed async loaders.
+[2720.28] Warning: Warning, Failed to load 'SwfMovie GFX_Hud.Hud': Failed to find object 'SwfMovie GFX_Hud.Hud'
+[2720.35] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[2720.44] Log: FMaterialUniformExpressionTexture had invalid TextureIndex! (1/1)
+[2720.79] Clubs: GFxData_PRI_TA_43 HandleClubID Unknown|0|0 ClubID=0
+[2720.80] ScriptWarning: ScriptWarning, Trying to add a Persona with an Invalid ID into the Persona Map: Unknown|0|0
+	Personas_TA Transient.GameEngine_TA_0:LocalPlayer_TA_0.OnlinePlayer_TA_0.Personas_TA_0
+	Function TAGame.Personas_TA:AddPersona:00CA
+Script call stack:
+	Function TAGame.GFxData_Personas_TA:OnShellSet
+	Function TAGame.GFxData_Personas_TA:HandleLocalPlayerAdded
+	Function TAGame.Personas_TA:UpdatePersonaFromData
+	Function TAGame.Personas_TA:GetOrCreate
+	Function TAGame.Personas_TA:AddPersona
+
+[2720.89] Clubs: GFxData_PRI_TA_44 HandleClubID Unknown|0|0 ClubID=0
+[2721.01] Clubs: GFxData_PRI_TA_45 HandleClubID Unknown|0|0 ClubID=0
+[2721.12] Clubs: GFxData_PRI_TA_46 HandleClubID Unknown|0|0 ClubID=0
+[2721.23] Clubs: GFxData_PRI_TA_47 HandleClubID Unknown|0|0 ClubID=0
+[2776.10] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[2869.53] PsyNetStaticData: HandleCacheExpired
+[2880.49] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[2947.91] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[3046.45] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[3128.70] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[3133.47] Achievements: IncrementStat 11 20
+[3133.47] Error: WriteOnlineStats: Ignoring unknown player
+[3133.47] DevOnline: FlushOnlineStats: No stats to flush
+[3133.47] SpawnPoint: (GameEvent_Season_TA_5) GameEvent_Soccar_TA::PrePodiumSpotlight:BeginState
+[3133.47] SpawnPoint: (SpawnPointsPodium) SpawnPointCluster_TA::None:SetSpawnPoints SpawnTeams.Length=1
+[3133.47] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints MaxSpots=4
+[3133.47] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=0 SpawnPoints[i]=TraceableSpawnPoint_TA_20
+[3133.47] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=1 SpawnPoints[i]=TraceableSpawnPoint_TA_21
+[3133.47] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=2 SpawnPoints[i]=TraceableSpawnPoint_TA_22
+[3133.47] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:SetupPoints i=3 SpawnPoints[i]=TraceableSpawnPoint_TA_23
+[3133.47] RankedReconnect: (RankedReconnectSave_TA_0) RankedReconnectSave_TA::None:ClearRankedReconnect RankedReconnectBeacon=
+[3133.47] ScriptLog: Script call stack:
+[3133.47] ScriptLog: 	Function TAGame.ReplayDirector_TA:Playing.HandleReplayFinished
+[3133.47] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:ReplayPlayback.HandleReplayFinished
+[3133.47] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:StartNewRound
+[3133.47] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:EndGame
+[3133.47] ScriptLog: 	Function TAGame.GameEvent_TA:GotoGameState
+[3133.47] ScriptLog: 	Function TAGame.GameEvent_TA:OnGameStateChanged
+[3133.47] ScriptLog: 	Function TAGame.LocalPlayer_TA:HandleGameStateChanged
+[3133.47] ScriptLog: 	Function TAGame.RankedReconnectSave_TA:ClearRankedReconnect
+[3133.47] Warning: Warning, Failed to load 'SwfMovie GFX_WinnerMenu.WinnerMenu': Failed to find object 'SwfMovie GFX_WinnerMenu.WinnerMenu'
+[3133.53] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[3134.47] Achievements: IncrementStat 42 0
+[3134.47] Error: WriteOnlineStats: Ignoring unknown player
+[3134.47] DevOnline: FlushOnlineStats: No stats to flush
+[3134.47] Achievements: IncrementStat 40 0
+[3134.47] Error: WriteOnlineStats: Ignoring unknown player
+[3134.47] DevOnline: FlushOnlineStats: No stats to flush
+[3136.47] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[3136.47] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=0 SpawnPoints[i]=TraceableSpawnPoint_TA_20
+[3136.47] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[3136.47] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=1 SpawnPoints[i]=TraceableSpawnPoint_TA_21
+[3136.47] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[3136.47] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=2 SpawnPoints[i]=TraceableSpawnPoint_TA_22
+[3136.47] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation SpotPRI.Length=4 SpawnPoints.Length=4
+[3136.47] SpawnPoint: (TeamA) SpawnPointGroup_TA::None:GetSpawnOrientation i=3 SpawnPoints[i]=TraceableSpawnPoint_TA_23
+[3136.47] RankedReconnect: (RankedReconnectSave_TA_0) RankedReconnectSave_TA::None:ClearRankedReconnect RankedReconnectBeacon=
+[3136.47] ScriptLog: Script call stack:
+[3136.47] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:PrePodiumSpotlight.GotoPodiumSpotlight
+[3136.47] ScriptLog: 	Function TAGame.GameEvent_TA:GotoGameState
+[3136.47] ScriptLog: 	Function TAGame.GameEvent_TA:OnGameStateChanged
+[3136.47] ScriptLog: 	Function TAGame.LocalPlayer_TA:HandleGameStateChanged
+[3136.47] ScriptLog: 	Function TAGame.RankedReconnectSave_TA:ClearRankedReconnect
+[3141.47] Error: Can't end an online game that hasn't been created
+[3141.47] RankedReconnect: (RankedReconnectSave_TA_0) RankedReconnectSave_TA::None:ClearRankedReconnect RankedReconnectBeacon=
+[3141.47] ScriptLog: Script call stack:
+[3141.47] ScriptLog: 	Function TAGame.GameEvent_Soccar_TA:PodiumSpotlight.FinishEvent
+[3141.47] ScriptLog: 	Function TAGame.GameEvent_TA:GotoGameState
+[3141.47] ScriptLog: 	Function TAGame.GameEvent_TA:OnGameStateChanged
+[3141.47] ScriptLog: 	Function TAGame.LocalPlayer_TA:HandleGameStateChanged
+[3141.47] ScriptLog: 	Function TAGame.RankedReconnectSave_TA:ClearRankedReconnect
+[3141.47] Warning: Warning, Failed to load 'SwfMovie GFX_SeasonMenu.SeasonMenu': Failed to find object 'SwfMovie GFX_SeasonMenu.SeasonMenu'
+[3141.55] DevGFxUI: Scale9Grid for resource=266 has negative width -2.050000
+[3141.62] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[3141.62] DevGFxUI: null
+[3141.62] Log: FUniqueNetId::FromString - could not parse ''
+[3141.62] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[3141.62] DevGFxUI: null
+[3141.63] DevGFxUI: ======PersonaManager: Attempted to get persona with empty id========
+[3141.63] DevGFxUI: null
+[3142.11] Log: FSaveDataExportTask(0) wrote 172812 bytes to memory
+[3142.12] Log: SaveGameDataAsync game thread time: 3 ms
+[3142.16] Log: Deleting old save file ..\..\TAGame\SaveData\DBE_Production\SaveData_1.save
+[3142.16] Log: SaveDataExport(0): Finished - File:[..\..\TAGame\SaveData\DBE_Production\SaveData.save] Result:[1]
+[3143.28] ScriptWarning: ScriptWarning, Accessed None 'Game'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_9
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet:0079
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet
+
+[3143.28] ScriptWarning: ScriptWarning, Accessed None
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_9
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet:008D
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:OnShellSet
+
+[3143.28] ScriptWarning: ScriptWarning, Accessed None 'Actor'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_9
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:0040
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PushMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[3143.28] ScriptWarning: ScriptWarning, Accessed None 'Game'
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_9
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:00C3
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PushMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[3143.28] ScriptWarning: ScriptWarning, Accessed None
+	GFxData_MenuSequence_TA Transient.GFxData_MenuSequence_TA_9
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence:00D7
+Script call stack:
+	Function TAGame.GFxData_MenuSequence_TA:PushMenuSequence
+	Function TAGame.GFxData_MenuSequence_TA:SetMenuSequence
+
+[3143.35] DevGFxUI: EndRoundSounds.playSound() called before load()
+[3185.78] PsyNetStaticData: HandleCacheExpired
+[3193.47] Log: RPC Error (failure): Service=Metrics/RecordMetrics, Type=OSCS_NotConnected, Code=-1, Message=
+[3512.82] PsyNetStaticData: HandleCacheExpired
+[3793.79] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[3793.79] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[3793.79] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[3793.79] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[3793.79] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[3793.79] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[3793.79] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[3793.79] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[3793.79] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[3793.79] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[3793.79] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[3793.79] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[3793.79] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[3793.79] Log: UGFxDataStore_X::RemoveObject - object is NULL
+[3793.80] Log: FSaveDataExportTask(0) wrote 172812 bytes to memory
+[3793.80] Log: SaveGameDataAsync game thread time: 3 ms
+[3793.84] Log: Deleting old save file ..\..\TAGame\SaveData\DBE_Production\SaveData_2.save
+[3793.84] Log: SaveDataExport(0): Finished - File:[..\..\TAGame\SaveData\DBE_Production\SaveData_1.save] Result:[1]
+[3793.95] Log: All Windows Closed
+[3793.95] Log: appRequestExit(0)
+[3794.03] OnlinePlayerStorage: PartitionStorageRequests ProfileCameraSave_TA Request.Data.Length=124 Request.Checksum=-1991918397 ManifestChecksum=0 bChecksumMatch=False
+[3794.03] OnlinePlayerStorage: PartitionStorageRequests ProfileStatsSave_TA Request.Data.Length=5993 Request.Checksum=-755659454 ManifestChecksum=0 bChecksumMatch=False
+[3794.03] OnlinePlayerStorage: PartitionStorageRequests ProductsOfflineSave_TA Request.Data.Length=150 Request.Checksum=-319133680 ManifestChecksum=0 bChecksumMatch=False
+[3794.03] DevOnline: RPCQueue_X_1 SEND: PsyNetMessage_X_2 [GenericStorage/SetPlayerGenericStorage]
+[3794.03] PsyNet: PsyNetRequestQue_X_1 SendRequest ID=PsyNetMessage_X_2 Message=PsyNetMessage_X_2
+[3794.03] PsyNet: HTTP send ID=PsyNetMessage_X_2 Message=PsyNetMessage_X_2
+[3794.46] PsyNet: HTTP recv ID=PsyNetMessage_X_2 Message=PsyNetMessage_X_3
+[3794.46] PsyNet: PsyNetRequestQue_X_1 SetRequestComplete RequestIdx=0 ID=PsyNetMessage_X_2 Response=PsyNetMessage_X_3 Latency=0.0000 
+[3794.49] DevOnline: RPCQueue_X_1 RECV: PsyNetMessage_X_2->PsyNetMessage_X_3 PsyTime=1565498576 [GenericStorage/SetPlayerGenericStorage]
+[3794.49] Log: RPC Error (failure): Service=GenericStorage/SetPlayerGenericStorage, Type=AccessDenied, Code=-1, Message=
+[3794.54] Exit: Preparing to exit.
+[3794.81] Exit: Game engine shut down
+[3794.82] Exit: Windows client shut down
+[3794.84] Exit: XAudio2 Device shut down.
+[3794.86] Exit: AK Audio shut down.
+[3797.11] Exit: Object subsystem successfully closed.
+[3797.87] Exit: Exiting.
+[3797.87] Log: Log file closed, 11/08/2019 11:42:58

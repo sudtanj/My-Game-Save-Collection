@@ -1,0 +1,248 @@
+[0] mess=REactiveapp=0 
+[0] wininit ok 
+[0] progpath: D:/Program Files (x86)/1-click run/Masters Of The World - Geopolitical Simulator 3 v5.14/ 
+[0] userpath: D:/User/My Documents/Masters Of The World - Geopolitical Simulator 3 v5.14/ 
+[0] Game name: MOW 2013 ENGLISH DL /M=8000 
+[0] REG Version: 0.0.0.0 
+[0] EXE Version: 0.0.0.0 
+[0] Date: 2016/7/31 13:55:58 
+[0] GEOL Interface (Wed Mar  6 16:59:42 2013), build (Apr 30 2013 14:38:47) 
+[0] OS version: 6.2 -64b  (USER) 
+[0] VRAM rate=317276074 size=13210710 
+[0] Myalloc:     block=300 Mb 
+[0] Myalloc:     block=300 Mb 
+[0] Myalloc:     block=300 Mb 
+[0] Myalloc:     block=300 Mb 
+[0] Myalloc: Total (Mb) = 1200 / Nb blocks = 4 
+[0] Physic ram (Mb) = 8079 
+[0] Error: XVID codecs are not installed! 
+[0] init screen... 
+[0] init display settings... 
+[0] Screenres: 1366x768 c= 
+[0] init display settings done 
+[0] init white bitmap... 
+[0] init white bitmap done 
+[0] init video3d card... 
+[0] --- OpenGL Info 
+[0] Renderer: GeForce GTX 650/PCIe/SSE2 / OV:4.5.0 NVIDIA 368.69 / SV:4.50 NVIDIA 
+[0] Max combined textures supported = 192 
+[0] Max textures supported = 32 
+[0] Max textures size = 16384 
+[0] Vertex Shader : max attributs = 16 | max uniform components = 4096 
+[0] Fragment Shader : max uniform components = 4096 
+[0] Texture compression formats: 51 
+[0]     Texture compression 1: 83f2 
+[0]     Texture compression 2: 83f3 
+[0]     Texture compression 3: 8b90 
+[0]     Texture compression 4: 8b91 
+[0]     Texture compression 5: 8b92 
+[0]     Texture compression 6: 8b93 
+[0]     Texture compression 7: 8b94 
+[0]     Texture compression 8: 8b95 
+[0]     Texture compression 9: 8b96 
+[0]     Texture compression 10: 8b97 
+[0]     Texture compression 11: 8b98 
+[0]     Texture compression 12: 8b99 
+[0]     Texture compression 13: 9274 
+[0]     Texture compression 14: 9275 
+[0]     Texture compression 15: 9276 
+[0]     Texture compression 16: 9277 
+[0]     Texture compression 17: 9278 
+[0]     Texture compression 18: 9279 
+[0]     Texture compression 19: 9270 
+[0]     Texture compression 20: 9271 
+[0]     Texture compression 21: 9272 
+[0]     Texture compression 22: 9273 
+[0]     Texture compression 23: 93b0 
+[0]     Texture compression 24: 93b1 
+[0]     Texture compression 25: 93b2 
+[0]     Texture compression 26: 93b3 
+[0]     Texture compression 27: 93b4 
+[0]     Texture compression 28: 93b5 
+[0]     Texture compression 29: 93b6 
+[0]     Texture compression 30: 93b7 
+[0]     Texture compression 31: 93b8 
+[0]     Texture compression 32: 93b9 
+[0]     Texture compression 33: 93ba 
+[0]     Texture compression 34: 93bb 
+[0]     Texture compression 35: 93bc 
+[0]     Texture compression 36: 93bd 
+[0]     Texture compression 37: 93d0 
+[0]     Texture compression 38: 93d1 
+[0]     Texture compression 39: 93d2 
+[0]     Texture compression 40: 93d3 
+[0]     Texture compression 41: 93d4 
+[0]     Texture compression 42: 93d5 
+[0]     Texture compression 43: 93d6 
+[0]     Texture compression 44: 93d7 
+[0]     Texture compression 45: 93d8 
+[0]     Texture compression 46: 93d9 
+[0]     Texture compression 47: 93da 
+[0]     Texture compression 48: 93db 
+[0]     Texture compression 49: 93dc 
+[0]     Texture compression 50: 93dd 
+[0]     Texture compression 51: 12345678 
+[0] 3dcard: NVIDIA 
+[0] Vram size (Mb)= 2048 / avail= 1958 
+[0] --- 
+[0] init shaders... 
+[0] >>>default shader 
+[0] >>>fast shader 
+[0] >>>water shader 
+[0] >>>normal map shader 
+[0] >>>shadow volume shader 
+[0] Shaders initialisation done 
+[0] ########## setvideo=0 (L=1366 H=768 B=32 FULLSCREEN) 
+[0] init video3d card done 
+[0] ====> vrambig=1 
+[0] init buffers... 
+[0] init buffers done 
+[0] Directsound init ok. Buffer size=16384 
+[1] mxd=0 
+[1] inivideo done 
+[1] ======================== inisys completed ======================== 
+[2] >>>>initobj: Nb=65536 Sizeof=968 Total=60 Mb 
+[3] >>>fin initobj=65536 
+[6] FirstInit
+ 
+[7] ########## setvideo=1 (L=1074 H=649 B=32 WINDOWED) 
+[61] g_playfilm: vid/eversim.avi 
+[65] ds_openfilm: Could not add CLSID filer  hr=-2147221120 
+[66] ds_openfilm: sortie_failed 
+[66] ds_closefilm out 
+[68] g_playfilm stop=1 
+[69] g_playfilm: vid/intro.AVI 
+[71] ds_openfilm: Could not add CLSID filer  hr=-2147221120 
+[71] ds_openfilm: sortie_failed 
+[71] ds_closefilm out 
+[72] g_playfilm stop=1 
+[422] bootgame 
+[734] Accueil 
+[738] bootgameend 
+[1614] contgame scenar=4000 date=02/07/2019 durée=2373jours 
+[1677] Client: n_canredirect: UPNP_GetValidIGD succeeded: A valid connected IGD has been found 
+[1677] Client: n_canredirect: UPNP_GetExternalIPAddress success 
+[1765] <<<<clrall>>>> 
+[1765] clrtex=-5 
+[1766] ->clrtex vram avail (mb)=1886 
+[1766] t_clrwintex=-5 
+[1766] ->clrwintex vram avail (mb)=1886 
+[1766] free all vtx=17 
+[1767] ->freevtx vram avail (mb)=1886 
+[1862] _wintobmp: _winbmp11 newmodule.  l=256 h=256 
+[10399] _wintobmp: _winbmp12 newmodule.  l=256 h=256 
+[12847] clrtex=-4 
+[12849] ->vram avail (mb)=1877 
+[19388] mess=UNactiveapp 
+[19388] mess=UNactiveapp free ok 
+[19395] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>unactive 
+[19402] mess=REactiveapp=1 
+[19403] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>reactive 
+[26221] mess=UNactiveapp 
+[26222] mess=UNactiveapp free ok 
+[26230] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>unactive 
+[26335] mess=REactiveapp=2 
+[26335] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>reactive 
+[26405] mess=UNactiveapp 
+[26405] mess=UNactiveapp free ok 
+[26411] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>unactive 
+[26550] mess=REactiveapp=3 
+[26556] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>reactive 
+[31822] mess=UNactiveapp 
+[31822] mess=UNactiveapp free ok 
+[31834] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>unactive 
+[32154] mess=REactiveapp=4 
+[32160] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>reactive 
+[37939] clrtex=-4 
+[37940] ->vram avail (mb)=1844 
+[41855] clrtex=-4 
+[41856] ->vram avail (mb)=1841 
+[47414] Curseur construction : On a un curseur de construction sans le builder :Tentative de récupération effectuer 
+[48032] Curseur construction : On a un curseur de construction sans le builder :Tentative de récupération effectuer 
+[61636] clrtex=-4 
+[61638] ->vram avail (mb)=1838 
+[95330] clrtex=-4 
+[95332] ->vram avail (mb)=1832 
+[106835] clrtex=-4 
+[106837] ->vram avail (mb)=1827 
+[131117] clrtex=-4 
+[131117] ->vram avail (mb)=1824 
+[160505] ds_openfilm: Could not add CLSID filer  hr=-2147221120 
+[160505] ds_openfilm: sortie_failed 
+[160506] ds_closefilm out 
+[173620] clrtex=-4 
+[173622] ->vram avail (mb)=1825 
+[184870] clrtex=-4 
+[184872] ->vram avail (mb)=1814 
+[202517] Fnetsafe=0 
+[208067] clrtex=-4 
+[208068] ->vram avail (mb)=1813 
+[248593] clrtex=-4 
+[248594] ->vram avail (mb)=1816 
+[286366] clrtex=-4 
+[286368] ->vram avail (mb)=1820 
+[315420] mess=UNactiveapp 
+[315420] mess=UNactiveapp free ok 
+[315427] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>unactive 
+[319940] mess=REactiveapp=5 
+[319947] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>reactive 
+[321594] clrtex=-4 
+[321596] ->vram avail (mb)=1800 
+[336163] clrtex=-4 
+[336164] ->vram avail (mb)=1804 
+[358692] clrtex=-4 
+[358693] ->vram avail (mb)=1804 
+[360251] Curseur construction : On a un curseur de construction sans le builder :Tentative de récupération effectuer 
+[361760] Curseur construction : On a un curseur de construction sans le builder :Tentative de récupération effectuer 
+[373200] clrtex=-4 
+[373201] ->vram avail (mb)=1802 
+[393120] clrtex=-4 
+[393121] ->vram avail (mb)=1804 
+[404151] clrtex=-4 
+[404152] ->vram avail (mb)=1799 
+[421356] clrtex=-4 
+[421358] ->vram avail (mb)=1801 
+[424562] mess=UNactiveapp 
+[424563] mess=UNactiveapp free ok 
+[424569] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>unactive 
+[424742] mess=REactiveapp=6 
+[424749] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>reactive 
+[425644] mess=UNactiveapp 
+[425644] mess=UNactiveapp free ok 
+[425650] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>unactive 
+[425755] mess=REactiveapp=7 
+[425762] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>reactive 
+[426256] mess=UNactiveapp 
+[426256] mess=UNactiveapp free ok 
+[426265] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>unactive 
+[427042] mess=REactiveapp=8 
+[427048] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>reactive 
+[427357] CHEAT CODE ------------------------> Whereismyslushfund! 
+[436883] clrtex=-4 
+[436885] ->vram avail (mb)=1799 
+[462157] Curseur construction : On a un curseur de construction sans le builder :Tentative de récupération effectuer 
+[462301] Curseur construction : On a un curseur de construction sans le builder :Tentative de récupération effectuer 
+[463066] clrtex=-4 
+[463068] ->vram avail (mb)=1805 
+[467727] Curseur construction : On a un curseur de construction sans le builder :Tentative de récupération effectuer 
+[468593] Curseur construction : On a un curseur de construction sans le builder :Tentative de récupération effectuer 
+[468875] Curseur construction : On a un curseur de construction sans le builder :Tentative de récupération effectuer 
+[469141] Curseur construction : On a un curseur de construction sans le builder :Tentative de récupération effectuer 
+[472948] clrtex=-4 
+[472950] ->vram avail (mb)=1795 
+[481039] Curseur construction : On a un curseur de construction sans le builder :Tentative de récupération effectuer 
+[483067] Curseur construction : On a un curseur de construction sans le builder :Tentative de récupération effectuer 
+[484726] clrtex=-4 
+[484727] ->vram avail (mb)=1803 
+[503957] ds_openfilm: Could not add CLSID filer  hr=-2147221120 
+[503957] ds_openfilm: sortie_failed 
+[503958] ds_closefilm out 
+[504613] clrtex=-4 
+[504614] ->vram avail (mb)=1805 
+[518897] Curseur construction : On a un curseur de construction sans le builder :Tentative de récupération effectuer 
+[519186] Curseur construction : On a un curseur de construction sans le builder :Tentative de récupération effectuer 
+[522131] clrtex=-4 
+[522132] ->vram avail (mb)=1803 
+[525448] ds_openfilm: Could not add CLSID filer  hr=-2147221120 
+[525448] ds_openfilm: sortie_failed 
+[525448] ds_closefilm out 

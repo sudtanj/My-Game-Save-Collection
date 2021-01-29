@@ -1,0 +1,165 @@
+[0] mess=REactiveapp=0 
+[0] wininit ok 
+[0] progpath: D:/Program Files/Master Of The World/ 
+[0] userpath: D:/User/My Documents/Master Of The World/ 
+[0] Game name: MOW 2013 ENGLISH DL /M=8000 
+[0] REG Version: 5.32.0.0 
+[0] EXE Version: 0.0.0.0 
+[0] Date: 2015/9/19 8:4:29 
+[0] GEOL Interface (Wed Mar  6 16:59:42 2013), build (Apr 30 2013 14:38:47) 
+[0] OS version: 6.2 -64b  (USER) 
+[0] VRAM rate=317276074 size=13210710 
+[0] Myalloc:     block=300 Mb 
+[0] Myalloc:     block=300 Mb 
+[0] Myalloc:     block=300 Mb 
+[0] Myalloc:     block=300 Mb 
+[0] Myalloc: Total (Mb) = 1200 / Nb blocks = 4 
+[0] Physic ram (Mb) = 8079 
+[0] init screen... 
+[0] init display settings... 
+[0] Screenres: 1366x768 c= 
+[0] init display settings done 
+[0] init white bitmap... 
+[0] init white bitmap done 
+[0] init video3d card... 
+[0] --- OpenGL Info 
+[0] Renderer: GeForce GTX 650/PCIe/SSE2 / OV:4.5.0 NVIDIA 355.82 / SV:4.50 NVIDIA 
+[0] Max combined textures supported = 192 
+[0] Max textures supported = 32 
+[0] Max textures size = 16384 
+[0] Vertex Shader : max attributs = 16 | max uniform components = 4096 
+[0] Fragment Shader : max uniform components = 4096 
+[0] Texture compression formats: 51 
+[0]     Texture compression 1: 83f2 
+[0]     Texture compression 2: 83f3 
+[0]     Texture compression 3: 8b90 
+[0]     Texture compression 4: 8b91 
+[0]     Texture compression 5: 8b92 
+[0]     Texture compression 6: 8b93 
+[0]     Texture compression 7: 8b94 
+[0]     Texture compression 8: 8b95 
+[0]     Texture compression 9: 8b96 
+[0]     Texture compression 10: 8b97 
+[0]     Texture compression 11: 8b98 
+[0]     Texture compression 12: 8b99 
+[0]     Texture compression 13: 9274 
+[0]     Texture compression 14: 9275 
+[0]     Texture compression 15: 9276 
+[0]     Texture compression 16: 9277 
+[0]     Texture compression 17: 9278 
+[0]     Texture compression 18: 9279 
+[0]     Texture compression 19: 9270 
+[0]     Texture compression 20: 9271 
+[0]     Texture compression 21: 9272 
+[0]     Texture compression 22: 9273 
+[0]     Texture compression 23: 93b0 
+[0]     Texture compression 24: 93b1 
+[0]     Texture compression 25: 93b2 
+[0]     Texture compression 26: 93b3 
+[0]     Texture compression 27: 93b4 
+[0]     Texture compression 28: 93b5 
+[0]     Texture compression 29: 93b6 
+[0]     Texture compression 30: 93b7 
+[0]     Texture compression 31: 93b8 
+[0]     Texture compression 32: 93b9 
+[0]     Texture compression 33: 93ba 
+[0]     Texture compression 34: 93bb 
+[0]     Texture compression 35: 93bc 
+[0]     Texture compression 36: 93bd 
+[0]     Texture compression 37: 93d0 
+[0]     Texture compression 38: 93d1 
+[0]     Texture compression 39: 93d2 
+[0]     Texture compression 40: 93d3 
+[0]     Texture compression 41: 93d4 
+[0]     Texture compression 42: 93d5 
+[0]     Texture compression 43: 93d6 
+[0]     Texture compression 44: 93d7 
+[0]     Texture compression 45: 93d8 
+[0]     Texture compression 46: 93d9 
+[0]     Texture compression 47: 93da 
+[0]     Texture compression 48: 93db 
+[0]     Texture compression 49: 93dc 
+[0]     Texture compression 50: 93dd 
+[0]     Texture compression 51: 12345678 
+[0] 3dcard: NVIDIA 
+[0] Vram size (Mb)= 2048 / avail= 1780 
+[0] --- 
+[0] init shaders... 
+[0] >>>default shader 
+[0] >>>fast shader 
+[0] >>>water shader 
+[0] >>>normal map shader 
+[0] >>>shadow volume shader 
+[0] Shaders initialisation done 
+[0] ########## setvideo=0 (L=1366 H=768 B=32 FULLSCREEN) 
+[0] init video3d card done 
+[0] ====> vrambig=1 
+[0] init buffers... 
+[0] init buffers done 
+[2] Directsound init ok. Buffer size=16384 
+[2] mxd=0 
+[3] inivideo done 
+[3] ======================== inisys completed ======================== 
+[4] >>>>initobj: Nb=65536 Sizeof=968 Total=60 Mb 
+[6] >>>fin initobj=65536 
+[69] g_playfilm: vid/eversim.avi 
+[428] ds_closefilm out 
+[429] g_playfilm stop=1 
+[431] g_playfilm: vid/intro.AVI 
+[491] g_playfilm stop=2 
+[493] ds_closefilm out 
+[575] bootgame 
+[844] Accueil 
+[854] bootgameend 
+[3413] contgame scenar=4000 date=01/03/2013 durée=59jours 
+[3425] Client: n_canredirect: UPNP_GetValidIGD succeeded: A valid connected IGD has been found 
+[3426] Client: n_canredirect: UPNP_GetExternalIPAddress success 
+[3617] <<<<clrall>>>> 
+[3618] clrtex=-5 
+[3618] ->clrtex vram avail (mb)=1748 
+[3619] t_clrwintex=-5 
+[3619] ->clrwintex vram avail (mb)=1748 
+[3620] free all vtx=17 
+[3620] ->freevtx vram avail (mb)=1748 
+[6090] _wintobmp: _winbmp11 newmodule.  l=256 h=256 
+[6247] ERROR [08] = Incorrect item number:   ( module=fenetre item=615 ) 
+[6247] ENTITY     = 77901 
+[6248] CLASS      = Cphotodrapeau 
+[6248] FRAME      = 6240 (104 sec) 
+[6248] SOURCE     =  
+[6249]    
+[6263] ERROR [08] = Incorrect item number:   ( module=fenetre item=615 ) 
+[6264] ENTITY     = 77925 
+[6264] CLASS      = Cphotodrapeau 
+[6265] FRAME      = 6256 (104 sec) 
+[6265] SOURCE     =  
+[6266]    
+[6299] ERROR [08] = Incorrect item number:   ( module=fenetre item=615 ) 
+[6300] ENTITY     = 77953 
+[6300] CLASS      = Cphotodrapeau 
+[6300] FRAME      = 6292 (104 sec) 
+[6301] SOURCE     =  
+[6301]    
+[6317] mess=UNactiveapp 
+[6317] mess=UNactiveapp free ok 
+[6324] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>unactive 
+[7971] mess=REactiveapp=1 
+[7971] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>reactive 
+[7973] ERROR [08] = Incorrect item number:   ( module=fenetre item=615 ) 
+[7974] ENTITY     = 77977 
+[7974] CLASS      = Cphotodrapeau 
+[7975] FRAME      = 6312 (105 sec) 
+[7975] SOURCE     =  
+[7976]    
+[8543] ERROR [08] = Incorrect item number:   ( module=fenetre item=615 ) 
+[8543] ENTITY     = 79251 
+[8543] CLASS      = Cbouton 
+[8543] FRAME      = 6882 (114 sec) 
+[8544] SOURCE     =  
+[8544]    
+[8601] ERROR [08] = Incorrect item number:   ( module=fenetre item=615 ) 
+[8601] ENTITY     = 79383 
+[8602] CLASS      = Cdrapeau3D 
+[8602] FRAME      = 6940 (115 sec) 
+[8603] SOURCE     =  
+[8603]    

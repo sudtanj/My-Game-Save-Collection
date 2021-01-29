@@ -1,0 +1,146 @@
+4/10/2014 - 4::49 - D3DERR_DEVICELOST
+4/10/2014 - 4::49 - Flip
+5/10/2014 - 11::5 - D3DERR_INVALIDCALL
+5/10/2014 - 11::5 - Begin Scene
+5/10/2014 - 11::5 - D3DERR_INVALIDCALL
+5/10/2014 - 11::5 - End Scene
+22/4/2015 - 10::38 - D3DERR_INVALIDCALL
+22/4/2015 - 10::38 - Begin Scene
+22/4/2015 - 10::38 - D3DERR_INVALIDCALL
+22/4/2015 - 10::38 - End Scene
+22/4/2015 - 13::47 - D3DERR_INVALIDCALL
+22/4/2015 - 13::47 - Begin Scene
+22/4/2015 - 13::47 - D3DERR_INVALIDCALL
+22/4/2015 - 13::47 - End Scene
+22/4/2015 - 14::0 - D3DERR_INVALIDCALL
+22/4/2015 - 14::0 - Begin Scene
+22/4/2015 - 14::0 - D3DERR_INVALIDCALL
+22/4/2015 - 14::0 - End Scene
+23/4/2015 - 9::30 - D3DERR_INVALIDCALL
+23/4/2015 - 9::30 - Begin Scene
+23/4/2015 - 9::30 - D3DERR_INVALIDCALL
+23/4/2015 - 9::30 - End Scene
+3/5/2015 - 14::1 - D3DERR_INVALIDCALL
+3/5/2015 - 14::1 - Begin Scene
+3/5/2015 - 14::1 - D3DERR_INVALIDCALL
+3/5/2015 - 14::1 - End Scene
+3/5/2015 - 14::31 - D3DERR_INVALIDCALL
+3/5/2015 - 14::31 - Begin Scene
+3/5/2015 - 14::31 - D3DERR_INVALIDCALL
+3/5/2015 - 14::31 - End Scene
+4/5/2015 - 0::47 - D3DERR_INVALIDCALL
+4/5/2015 - 0::47 - Begin Scene
+4/5/2015 - 0::47 - D3DERR_INVALIDCALL
+4/5/2015 - 0::47 - End Scene
+7/5/2015 - 10::41 - D3DERR_INVALIDCALL
+7/5/2015 - 10::41 - Begin Scene
+7/5/2015 - 10::41 - D3DERR_INVALIDCALL
+7/5/2015 - 10::41 - End Scene
+7/5/2015 - 11::3 - D3DERR_INVALIDCALL
+7/5/2015 - 11::3 - Begin Scene
+7/5/2015 - 11::3 - D3DERR_INVALIDCALL
+7/5/2015 - 11::3 - End Scene
+7/5/2015 - 12::45 - D3DERR_INVALIDCALL
+7/5/2015 - 12::45 - Begin Scene
+7/5/2015 - 12::45 - D3DERR_INVALIDCALL
+7/5/2015 - 12::45 - End Scene
+8/5/2015 - 8::6 - D3DERR_INVALIDCALL
+8/5/2015 - 8::6 - Begin Scene
+8/5/2015 - 8::6 - D3DERR_INVALIDCALL
+8/5/2015 - 8::6 - End Scene
+8/5/2015 - 8::54 - D3DERR_INVALIDCALL
+8/5/2015 - 8::54 - Begin Scene
+8/5/2015 - 8::54 - D3DERR_INVALIDCALL
+8/5/2015 - 8::54 - End Scene
+8/5/2015 - 8::55 - D3DERR_INVALIDCALL
+8/5/2015 - 8::55 - Begin Scene
+8/5/2015 - 8::55 - D3DERR_INVALIDCALL
+8/5/2015 - 8::55 - End Scene
+8/5/2015 - 8::55 - D3DERR_INVALIDCALL
+8/5/2015 - 8::55 - Begin Scene
+8/5/2015 - 8::55 - D3DERR_INVALIDCALL
+8/5/2015 - 8::55 - End Scene
+28/6/2015 - 9::33 - D3DERR_INVALIDCALL
+28/6/2015 - 9::33 - Begin Scene
+28/6/2015 - 9::33 - D3DERR_INVALIDCALL
+28/6/2015 - 9::33 - End Scene
+28/6/2015 - 9::47 - D3DERR_INVALIDCALL
+28/6/2015 - 9::47 - Begin Scene
+28/6/2015 - 9::47 - D3DERR_INVALIDCALL
+28/6/2015 - 9::47 - End Scene
+28/6/2015 - 9::48 - D3DERR_INVALIDCALL
+28/6/2015 - 9::48 - Begin Scene
+28/6/2015 - 9::48 - D3DERR_INVALIDCALL
+28/6/2015 - 9::48 - End Scene
+29/6/2015 - 4::13 - D3DERR_INVALIDCALL
+29/6/2015 - 4::13 - Begin Scene
+29/6/2015 - 4::13 - D3DERR_INVALIDCALL
+29/6/2015 - 4::13 - End Scene
+29/6/2015 - 4::13 - D3DERR_INVALIDCALL
+29/6/2015 - 4::13 - Begin Scene
+29/6/2015 - 4::13 - D3DERR_INVALIDCALL
+29/6/2015 - 4::13 - End Scene
+29/6/2015 - 7::42 - D3DERR_INVALIDCALL
+29/6/2015 - 7::42 - Begin Scene
+29/6/2015 - 7::42 - D3DERR_INVALIDCALL
+29/6/2015 - 7::42 - End Scene
+29/6/2015 - 7::42 - D3DERR_INVALIDCALL
+29/6/2015 - 7::42 - Begin Scene
+29/6/2015 - 7::42 - D3DERR_INVALIDCALL
+29/6/2015 - 7::42 - End Scene
+29/6/2015 - 7::42 - D3DERR_INVALIDCALL
+29/6/2015 - 7::42 - Begin Scene
+29/6/2015 - 7::42 - D3DERR_INVALIDCALL
+29/6/2015 - 7::42 - End Scene
+30/10/2015 - 12::50 - D3DERR_INVALIDCALL
+30/10/2015 - 12::50 - Begin Scene
+30/10/2015 - 12::50 - D3DERR_INVALIDCALL
+30/10/2015 - 12::50 - End Scene
+30/10/2015 - 12::51 - D3DERR_INVALIDCALL
+30/10/2015 - 12::51 - Begin Scene
+30/10/2015 - 12::51 - D3DERR_INVALIDCALL
+30/10/2015 - 12::51 - End Scene
+30/10/2015 - 13::32 - D3DERR_INVALIDCALL
+30/10/2015 - 13::32 - Begin Scene
+30/10/2015 - 13::32 - D3DERR_INVALIDCALL
+30/10/2015 - 13::32 - End Scene
+30/10/2015 - 13::34 - D3DERR_INVALIDCALL
+30/10/2015 - 13::34 - Begin Scene
+30/10/2015 - 13::34 - D3DERR_INVALIDCALL
+30/10/2015 - 13::34 - End Scene
+30/10/2015 - 13::52 - D3DERR_INVALIDCALL
+30/10/2015 - 13::52 - Begin Scene
+30/10/2015 - 13::52 - D3DERR_INVALIDCALL
+30/10/2015 - 13::52 - End Scene
+30/10/2015 - 13::55 - D3DERR_INVALIDCALL
+30/10/2015 - 13::55 - Begin Scene
+30/10/2015 - 13::55 - D3DERR_INVALIDCALL
+30/10/2015 - 13::55 - End Scene
+29/10/2016 - 2::9 - D3DERR_INVALIDCALL
+29/10/2016 - 2::9 - Begin Scene
+29/10/2016 - 2::9 - D3DERR_INVALIDCALL
+29/10/2016 - 2::9 - End Scene
+29/10/2016 - 2::10 - D3DERR_INVALIDCALL
+29/10/2016 - 2::10 - Begin Scene
+29/10/2016 - 2::10 - D3DERR_INVALIDCALL
+29/10/2016 - 2::10 - End Scene
+8/4/2020 - 8::7 - TEXTENGINE 1st sequential TEXTURE atlas key miss.
+8/4/2020 - 8::7 - TEXTENGINE 1st sequential SYSTEM atlas key miss.
+8/4/2020 - 8::7 - TEXTENGINE 1st sequential PANGOCAIRO render call with same atlas key.
+8/4/2020 - 8::7 - TEXTENGINE 100th sequential TEXTURE atlas key miss, stopping counting.
+8/4/2020 - 8::7 - TEXTENGINE 100th sequential SYSTEM atlas key miss counted, stopping counting.
+8/4/2020 - 8::7 - TEXTENGINE 100th sequential PANGOCAIRO render call with same atlas key counted, stopping counting.
+8/4/2020 - 8::9 - TEXTENGINE 1st sequential TEXTURE atlas key miss.
+8/4/2020 - 8::9 - TEXTENGINE 1st sequential SYSTEM atlas key miss.
+8/4/2020 - 8::9 - TEXTENGINE 1st sequential PANGOCAIRO render call with same atlas key.
+8/4/2020 - 8::9 - TEXTENGINE 100th sequential TEXTURE atlas key miss, stopping counting.
+8/4/2020 - 8::9 - TEXTENGINE 100th sequential SYSTEM atlas key miss counted, stopping counting.
+8/4/2020 - 8::9 - TEXTENGINE 100th sequential PANGOCAIRO render call with same atlas key counted, stopping counting.
+8/4/2020 - 10::18 - TEXTENGINE 1st sequential TEXTURE atlas key miss.
+8/4/2020 - 10::18 - TEXTENGINE 1st sequential SYSTEM atlas key miss.
+8/4/2020 - 10::18 - TEXTENGINE 100th sequential TEXTURE atlas key miss, stopping counting.
+8/4/2020 - 10::18 - TEXTENGINE 100th sequential SYSTEM atlas key miss counted, stopping counting.
+9/4/2020 - 13::12 - TEXTENGINE 1st sequential TEXTURE atlas key miss.
+9/4/2020 - 13::12 - TEXTENGINE 1st sequential SYSTEM atlas key miss.
+9/4/2020 - 13::12 - TEXTENGINE 100th sequential TEXTURE atlas key miss, stopping counting.
+9/4/2020 - 13::12 - TEXTENGINE 100th sequential SYSTEM atlas key miss counted, stopping counting.

@@ -1,0 +1,2169 @@
+[13:5:49:712]- ----DEBUG FILE----
+[13:5:49:713]- Windows 7 or later detected
+[13:5:49:713]- Game version: 1.34
+[13:5:49:713]- Command Line: "D:\Program Files\Democracy 3\Democracy3.exe" 
+[13:5:49:713]- Command Line argument:[]
+[13:5:49:714]- Desktop resolution is 1366 x 768
+[13:5:49:723]- Initialising Sound Engine
+[13:5:49:763]- Finished Initialising Sound Engine
+[13:5:49:773]- Initialising Direct3D
+[13:5:50:346]- Initialising global vertex buffer
+[13:5:58:855]- PANGO context font map font families:
+[13:5:58:855]- Noto Sans CJK SC
+[13:5:58:855]- Noto Sans
+[13:5:58:855]- Sans
+[13:5:58:855]- Serif
+[13:5:58:855]- Monospace
+[13:5:59:329]- CTD DEBUG: Setting volume via irrklang...:..\..\..\src\GUI_Sounds.cpp 270
+
+[13:5:59:329]- CTD DEBUG: ...set volume success:..\..\..\src\GUI_Sounds.cpp 272
+
+[13:6:27:379]- Starting new game...
+[13:6:29:603]- Starting PreCalcCoreSimulation...
+[13:6:36:388]- 
+
+PreCalcCoreSimulation time: 6.78 seconds
+
+
+[13:6:37:185]- 
+
+**CALCULATING SIM FINANCE
+[13:6:37:185]- 
+
+**CALCULATING SIM FINANCE
+[13:6:37:365]- Waiting for render thread [..\..\..\src\SIM_PortraitManager.cpp,134]]
+[13:6:37:372]- Pre-caching minister portraits
+[13:6:37:372]- Waiting for render thread [..\..\..\src\app_game.cpp,586]]
+[13:6:44:747]- Finished pre-caching minister portraits
+[13:6:44:747]- Thread finish detected by loading screen
+[13:6:44:747]- Setting loading screen ready
+[13:6:47:934]- CTD DEBUG: Setting volume via irrklang...:..\..\..\src\GUI_Sounds.cpp 270
+
+[13:6:47:934]- CTD DEBUG: ...set volume success:..\..\..\src\GUI_Sounds.cpp 272
+
+[13:6:58:781]- 
+
+**CALCULATING SIM FINANCE
+[13:7:4:970]- 
+
+**CALCULATING SIM FINANCE
+[13:8:14:97]- 
+
+**CALCULATING SIM FINANCE
+[13:8:20:268]- 
+
+**CALCULATING SIM FINANCE
+[13:10:9:354]- 
+
+**CALCULATING SIM FINANCE
+[13:10:34:423]- 
+
+**CALCULATING SIM FINANCE
+[13:11:10:953]- 
+
+**CALCULATING SIM FINANCE
+[13:12:26:886]- Debug::MultithreadNextTurn Start
+[13:12:26:887]- Debug::Loading Screen Initialised
+[13:12:26:887]- Debug::IssueManager initialising
+[13:12:26:887]- Debug::Ministers next turn...
+[13:12:26:887]- Debug::eventmanager next turn...
+[13:12:26:887]- Debug::Pressure Groups next turn...
+[13:12:26:887]- Debug::policy manager next turn...
+[13:12:26:887]- Debug::global economy next turn...
+[13:12:26:887]- Debug::situations manager next turn...
+[13:12:26:887]- Debug::finance manager next turn...
+[13:12:26:888]- Debug::neural processing begins...
+[13:12:26:993]- Debug::neural processing complete
+[13:12:26:993]- Debug::dilemma next turn...
+[13:12:26:994]- Debug::party manager next turn...
+[13:12:26:994]- Debug::voter manager next turn...
+[13:12:27:860]- Debug::polls manager next turn...
+[13:12:27:860]- Debug::grudge manager next turn...
+[13:12:27:860]- Debug::finance manager next turn...
+[13:12:27:860]- 
+
+**CALCULATING SIM FINANCE
+[13:12:27:860]- Debug::simulation processed
+[13:12:27:860]- Debug::Political capital processed
+[13:12:27:860]- Debug::Elections processed
+[13:12:27:860]- Debug::Autobal processed
+[13:12:27:861]- Debug::Achievements checked
+[13:12:27:861]- Debug::Compass progress checked
+[13:12:27:874]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:12:28:39]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:12:28:61]- Debug::Autosave complete
+[13:12:28:62]- Debug::ProcessGameLoad
+[13:12:28:62]- Debug::Releasing gameplay...
+[13:12:28:191]- Debug::preloading gameplay...
+[13:12:28:203]- Debug:Policy Group Initialise...
+[13:12:28:203]- Debug:Event Manager Initialise...
+[13:12:28:235]- Debug:Policy Manager Initialise...
+[13:12:28:249]- Debug:Sim Value Initialise...
+[13:12:28:252]- Debug:Situation Manager Initialise...
+[13:12:28:257]- Debug:Ministers PreLoad...
+[13:12:28:257]- Debug:GrudgeManager Initialise..
+[13:12:28:257]- Debug:Dilemma Manager ResolveConnections...
+[13:12:28:257]- Debug:Policy Manager ResolveConnections...
+[13:12:28:284]- Debug:Event Manager ResolveConnections...
+[13:12:28:288]- Debug:Sim Value ResolveConnections...
+[13:12:28:298]- Debug:Situations ResolveConnections...
+[13:12:28:320]- Debug:Simulation pre-load completed
+[13:12:28:320]- Debug::LoadingGameData
+[13:12:28:320]- LoadMission
+[13:12:28:322]- LoadHashes
+[13:12:28:322]- LoadParties
+[13:12:28:322]- LoadVoters
+[13:12:29:382]- LoadPolicies
+[13:12:29:396]- LoadSituations
+[13:12:29:399]- LoadDilemmas
+[13:12:29:446]- LoadSimValues
+[13:12:29:448]- LoadVoterTypes
+[13:12:29:498]- LoadGrudges
+[13:12:29:499]- LoadEvents
+[13:12:29:499]- LoadFinances
+[13:12:29:500]- LoadMinisters
+[13:12:29:501]- LoadElection
+[13:12:29:506]- LoadPolls
+[13:12:29:506]- LoadPressureGroups
+[13:12:29:506]- LoadSimulation
+[13:12:29:507]- LoadGlobalEconomy
+[13:12:29:507]- LoadGameplay
+[13:12:29:507]- LoadEffects
+[13:12:29:581]- LoadIssues
+[13:12:29:581]- LoadChangelog
+[13:12:29:582]- LoadCompassProgress
+[13:12:29:582]- LoadStats
+[13:12:29:585]- LoadManifestos
+[13:12:29:585]- LoadFundraising
+[13:12:29:585]- LoadPerceptions
+[13:12:29:585]- Finishing Load
+[13:12:29:887]- Debug::Autoload complete
+[13:12:29:887]- Thread finish detected by loading screen
+[13:12:29:887]- Setting loading screen ready
+[13:12:29:887]- Debug::MultithreadNextTurn complete
+[13:12:29:887]- Thread finish detected by loading screen
+[13:12:29:887]- Setting loading screen ready
+[13:13:52:304]- 
+
+**CALCULATING SIM FINANCE
+[13:14:22:193]- 
+
+**CALCULATING SIM FINANCE
+[13:14:26:308]- 
+
+**CALCULATING SIM FINANCE
+[13:14:38:868]- 
+
+**CALCULATING SIM FINANCE
+[13:14:45:926]- Debug::MultithreadNextTurn Start
+[13:14:45:926]- Debug::Loading Screen Initialised
+[13:14:45:926]- Debug::IssueManager initialising
+[13:14:45:926]- Debug::Ministers next turn...
+[13:14:45:927]- Debug::eventmanager next turn...
+[13:14:45:927]- Debug::Pressure Groups next turn...
+[13:14:45:927]- Debug::policy manager next turn...
+[13:14:45:927]- Debug::global economy next turn...
+[13:14:45:927]- Debug::situations manager next turn...
+[13:14:45:927]- Debug::finance manager next turn...
+[13:14:45:927]- Debug::neural processing begins...
+[13:14:46:29]- Debug::neural processing complete
+[13:14:46:30]- Debug::dilemma next turn...
+[13:14:46:30]- Debug::party manager next turn...
+[13:14:46:30]- Debug::voter manager next turn...
+[13:14:46:740]- Debug::polls manager next turn...
+[13:14:46:740]- Debug::grudge manager next turn...
+[13:14:46:740]- Debug::finance manager next turn...
+[13:14:46:740]- 
+
+**CALCULATING SIM FINANCE
+[13:14:46:740]- Debug::simulation processed
+[13:14:46:740]- Debug::Political capital processed
+[13:14:46:740]- Debug::Elections processed
+[13:14:46:740]- Debug::Autobal processed
+[13:14:46:741]- Debug::Achievements checked
+[13:14:46:741]- Debug::Compass progress checked
+[13:14:46:741]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:14:46:908]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:14:46:921]- Debug::Autosave complete
+[13:14:46:922]- Debug::ProcessGameLoad
+[13:14:46:922]- Debug::Releasing gameplay...
+[13:14:47:49]- Debug::preloading gameplay...
+[13:14:47:61]- Debug:Policy Group Initialise...
+[13:14:47:61]- Debug:Event Manager Initialise...
+[13:14:47:92]- Debug:Policy Manager Initialise...
+[13:14:47:107]- Debug:Sim Value Initialise...
+[13:14:47:110]- Debug:Situation Manager Initialise...
+[13:14:47:115]- Debug:Ministers PreLoad...
+[13:14:47:115]- Debug:GrudgeManager Initialise..
+[13:14:47:115]- Debug:Dilemma Manager ResolveConnections...
+[13:14:47:115]- Debug:Policy Manager ResolveConnections...
+[13:14:47:142]- Debug:Event Manager ResolveConnections...
+[13:14:47:147]- Debug:Sim Value ResolveConnections...
+[13:14:47:157]- Debug:Situations ResolveConnections...
+[13:14:47:172]- Debug:Simulation pre-load completed
+[13:14:47:172]- Debug::LoadingGameData
+[13:14:47:172]- LoadMission
+[13:14:47:174]- LoadHashes
+[13:14:47:174]- LoadParties
+[13:14:47:174]- LoadVoters
+[13:14:48:218]- LoadPolicies
+[13:14:48:232]- LoadSituations
+[13:14:48:234]- LoadDilemmas
+[13:14:48:278]- LoadSimValues
+[13:14:48:280]- LoadVoterTypes
+[13:14:48:328]- LoadGrudges
+[13:14:48:329]- LoadEvents
+[13:14:48:329]- LoadFinances
+[13:14:48:330]- LoadMinisters
+[13:14:48:331]- LoadElection
+[13:14:48:336]- LoadPolls
+[13:14:48:336]- LoadPressureGroups
+[13:14:48:336]- LoadSimulation
+[13:14:48:337]- LoadGlobalEconomy
+[13:14:48:337]- LoadGameplay
+[13:14:48:337]- LoadEffects
+[13:14:48:411]- LoadIssues
+[13:14:48:411]- LoadChangelog
+[13:14:48:412]- LoadCompassProgress
+[13:14:48:412]- LoadStats
+[13:14:48:416]- LoadManifestos
+[13:14:48:416]- LoadFundraising
+[13:14:48:416]- LoadPerceptions
+[13:14:48:416]- Finishing Load
+[13:14:48:714]- Debug::Autoload complete
+[13:14:48:714]- Thread finish detected by loading screen
+[13:14:48:714]- Setting loading screen ready
+[13:14:48:714]- Debug::MultithreadNextTurn complete
+[13:14:48:714]- Thread finish detected by loading screen
+[13:14:48:714]- Setting loading screen ready
+[13:16:5:21]- 
+
+**CALCULATING SIM FINANCE
+[13:16:38:171]- Debug::MultithreadNextTurn Start
+[13:16:38:171]- Debug::Loading Screen Initialised
+[13:16:38:171]- Debug::IssueManager initialising
+[13:16:38:171]- Debug::Ministers next turn...
+[13:16:38:171]- Debug::eventmanager next turn...
+[13:16:38:172]- Debug::Pressure Groups next turn...
+[13:16:38:173]- Debug::policy manager next turn...
+[13:16:38:173]- Debug::global economy next turn...
+[13:16:38:173]- Debug::situations manager next turn...
+[13:16:38:173]- Debug::finance manager next turn...
+[13:16:38:173]- Debug::neural processing begins...
+[13:16:38:277]- Debug::neural processing complete
+[13:16:38:277]- Debug::dilemma next turn...
+[13:16:38:277]- Debug::party manager next turn...
+[13:16:38:277]- Debug::voter manager next turn...
+[13:16:38:991]- Debug::polls manager next turn...
+[13:16:38:991]- Debug::grudge manager next turn...
+[13:16:38:991]- Debug::finance manager next turn...
+[13:16:38:991]- 
+
+**CALCULATING SIM FINANCE
+[13:16:38:991]- Debug::simulation processed
+[13:16:38:991]- Debug::Political capital processed
+[13:16:38:991]- Debug::Elections processed
+[13:16:38:991]- Debug::Autobal processed
+[13:16:38:992]- Debug::Achievements checked
+[13:16:38:992]- Debug::Compass progress checked
+[13:16:38:993]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:16:39:159]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:16:39:174]- Debug::Autosave complete
+[13:16:39:174]- Debug::ProcessGameLoad
+[13:16:39:174]- Debug::Releasing gameplay...
+[13:16:39:307]- Debug::preloading gameplay...
+[13:16:39:320]- Debug:Policy Group Initialise...
+[13:16:39:320]- Debug:Event Manager Initialise...
+[13:16:39:351]- Debug:Policy Manager Initialise...
+[13:16:39:366]- Debug:Sim Value Initialise...
+[13:16:39:369]- Debug:Situation Manager Initialise...
+[13:16:39:374]- Debug:Ministers PreLoad...
+[13:16:39:374]- Debug:GrudgeManager Initialise..
+[13:16:39:374]- Debug:Dilemma Manager ResolveConnections...
+[13:16:39:375]- Debug:Policy Manager ResolveConnections...
+[13:16:39:402]- Debug:Event Manager ResolveConnections...
+[13:16:39:407]- Debug:Sim Value ResolveConnections...
+[13:16:39:416]- Debug:Situations ResolveConnections...
+[13:16:39:430]- Debug:Simulation pre-load completed
+[13:16:39:430]- Debug::LoadingGameData
+[13:16:39:430]- LoadMission
+[13:16:39:432]- LoadHashes
+[13:16:39:432]- LoadParties
+[13:16:39:432]- LoadVoters
+[13:16:40:471]- LoadPolicies
+[13:16:40:485]- LoadSituations
+[13:16:40:487]- LoadDilemmas
+[13:16:40:534]- LoadSimValues
+[13:16:40:536]- LoadVoterTypes
+[13:16:40:584]- LoadGrudges
+[13:16:40:586]- LoadEvents
+[13:16:40:586]- LoadFinances
+[13:16:40:586]- LoadMinisters
+[13:16:40:588]- LoadElection
+[13:16:40:593]- LoadPolls
+[13:16:40:593]- LoadPressureGroups
+[13:16:40:593]- LoadSimulation
+[13:16:40:593]- LoadGlobalEconomy
+[13:16:40:593]- LoadGameplay
+[13:16:40:593]- LoadEffects
+[13:16:40:667]- LoadIssues
+[13:16:40:667]- LoadChangelog
+[13:16:40:667]- LoadCompassProgress
+[13:16:40:667]- LoadStats
+[13:16:40:671]- LoadManifestos
+[13:16:40:671]- LoadFundraising
+[13:16:40:671]- LoadPerceptions
+[13:16:40:671]- Finishing Load
+[13:16:40:968]- Debug::Autoload complete
+[13:16:40:968]- Thread finish detected by loading screen
+[13:16:40:968]- Setting loading screen ready
+[13:16:40:969]- Debug::MultithreadNextTurn complete
+[13:16:40:969]- Thread finish detected by loading screen
+[13:16:40:969]- Setting loading screen ready
+[13:17:51:613]- 
+
+**CALCULATING SIM FINANCE
+[13:17:58:35]- Debug::MultithreadNextTurn Start
+[13:17:58:36]- Debug::Loading Screen Initialised
+[13:17:58:36]- Debug::IssueManager initialising
+[13:17:58:36]- Debug::Ministers next turn...
+[13:17:58:36]- Debug::eventmanager next turn...
+[13:17:58:36]- Debug::Pressure Groups next turn...
+[13:17:58:36]- Debug::policy manager next turn...
+[13:17:58:36]- Debug::global economy next turn...
+[13:17:58:36]- Debug::situations manager next turn...
+[13:17:58:36]- Debug::finance manager next turn...
+[13:17:58:36]- Debug::neural processing begins...
+[13:17:58:137]- Debug::neural processing complete
+[13:17:58:137]- Debug::dilemma next turn...
+[13:17:58:137]- Debug::party manager next turn...
+[13:17:58:137]- Debug::voter manager next turn...
+[13:17:58:837]- Debug::polls manager next turn...
+[13:17:58:837]- Debug::grudge manager next turn...
+[13:17:58:838]- Debug::finance manager next turn...
+[13:17:58:838]- 
+
+**CALCULATING SIM FINANCE
+[13:17:58:838]- Debug::simulation processed
+[13:17:58:838]- Debug::Political capital processed
+[13:17:58:838]- Debug::Elections processed
+[13:17:58:838]- Debug::Autobal processed
+[13:17:58:839]- Debug::Achievements checked
+[13:17:58:839]- Debug::Compass progress checked
+[13:17:58:839]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:17:59:6]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:17:59:26]- Debug::Autosave complete
+[13:17:59:27]- Debug::ProcessGameLoad
+[13:17:59:27]- Debug::Releasing gameplay...
+[13:17:59:159]- Debug::preloading gameplay...
+[13:17:59:171]- Debug:Policy Group Initialise...
+[13:17:59:172]- Debug:Event Manager Initialise...
+[13:17:59:202]- Debug:Policy Manager Initialise...
+[13:17:59:218]- Debug:Sim Value Initialise...
+[13:17:59:221]- Debug:Situation Manager Initialise...
+[13:17:59:226]- Debug:Ministers PreLoad...
+[13:17:59:226]- Debug:GrudgeManager Initialise..
+[13:17:59:226]- Debug:Dilemma Manager ResolveConnections...
+[13:17:59:226]- Debug:Policy Manager ResolveConnections...
+[13:17:59:253]- Debug:Event Manager ResolveConnections...
+[13:17:59:258]- Debug:Sim Value ResolveConnections...
+[13:17:59:267]- Debug:Situations ResolveConnections...
+[13:17:59:281]- Debug:Simulation pre-load completed
+[13:17:59:281]- Debug::LoadingGameData
+[13:17:59:281]- LoadMission
+[13:17:59:283]- LoadHashes
+[13:17:59:283]- LoadParties
+[13:17:59:283]- LoadVoters
+[13:18:0:329]- LoadPolicies
+[13:18:0:343]- LoadSituations
+[13:18:0:346]- LoadDilemmas
+[13:18:0:391]- LoadSimValues
+[13:18:0:392]- LoadVoterTypes
+[13:18:0:440]- LoadGrudges
+[13:18:0:441]- LoadEvents
+[13:18:0:442]- LoadFinances
+[13:18:0:442]- LoadMinisters
+[13:18:0:444]- LoadElection
+[13:18:0:449]- LoadPolls
+[13:18:0:449]- LoadPressureGroups
+[13:18:0:449]- LoadSimulation
+[13:18:0:450]- LoadGlobalEconomy
+[13:18:0:450]- LoadGameplay
+[13:18:0:450]- LoadEffects
+[13:18:0:522]- LoadIssues
+[13:18:0:522]- LoadChangelog
+[13:18:0:523]- LoadCompassProgress
+[13:18:0:523]- LoadStats
+[13:18:0:527]- LoadManifestos
+[13:18:0:527]- LoadFundraising
+[13:18:0:527]- LoadPerceptions
+[13:18:0:527]- Finishing Load
+[13:18:0:825]- Debug::Autoload complete
+[13:18:0:825]- Thread finish detected by loading screen
+[13:18:0:825]- Setting loading screen ready
+[13:18:0:825]- Debug::MultithreadNextTurn complete
+[13:18:0:825]- Thread finish detected by loading screen
+[13:18:0:825]- Setting loading screen ready
+[13:18:46:824]- Debug::MultithreadNextTurn Start
+[13:18:46:824]- Debug::Loading Screen Initialised
+[13:18:46:824]- Debug::IssueManager initialising
+[13:18:46:824]- Debug::Ministers next turn...
+[13:18:46:824]- Debug::eventmanager next turn...
+[13:18:46:824]- Debug::Pressure Groups next turn...
+[13:18:46:824]- Debug::policy manager next turn...
+[13:18:46:824]- Debug::global economy next turn...
+[13:18:46:825]- Debug::situations manager next turn...
+[13:18:46:825]- Debug::finance manager next turn...
+[13:18:46:825]- Debug::neural processing begins...
+[13:18:46:928]- Debug::neural processing complete
+[13:18:46:928]- Debug::dilemma next turn...
+[13:18:46:928]- Debug::party manager next turn...
+[13:18:46:928]- Debug::voter manager next turn...
+[13:18:47:631]- Debug::polls manager next turn...
+[13:18:47:631]- Debug::grudge manager next turn...
+[13:18:47:632]- Debug::finance manager next turn...
+[13:18:47:632]- 
+
+**CALCULATING SIM FINANCE
+[13:18:47:632]- Debug::simulation processed
+[13:18:47:632]- Debug::Political capital processed
+[13:18:47:632]- Debug::Elections processed
+[13:18:47:632]- Debug::Autobal processed
+[13:18:47:633]- Debug::Achievements checked
+[13:18:47:633]- Debug::Compass progress checked
+[13:18:47:633]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:18:47:798]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:18:47:810]- Debug::Autosave complete
+[13:18:47:812]- Debug::ProcessGameLoad
+[13:18:47:812]- Debug::Releasing gameplay...
+[13:18:47:943]- Debug::preloading gameplay...
+[13:18:47:955]- Debug:Policy Group Initialise...
+[13:18:47:955]- Debug:Event Manager Initialise...
+[13:18:47:986]- Debug:Policy Manager Initialise...
+[13:18:48:1]- Debug:Sim Value Initialise...
+[13:18:48:4]- Debug:Situation Manager Initialise...
+[13:18:48:10]- Debug:Ministers PreLoad...
+[13:18:48:10]- Debug:GrudgeManager Initialise..
+[13:18:48:10]- Debug:Dilemma Manager ResolveConnections...
+[13:18:48:10]- Debug:Policy Manager ResolveConnections...
+[13:18:48:36]- Debug:Event Manager ResolveConnections...
+[13:18:48:42]- Debug:Sim Value ResolveConnections...
+[13:18:48:51]- Debug:Situations ResolveConnections...
+[13:18:48:65]- Debug:Simulation pre-load completed
+[13:18:48:65]- Debug::LoadingGameData
+[13:18:48:65]- LoadMission
+[13:18:48:67]- LoadHashes
+[13:18:48:67]- LoadParties
+[13:18:48:67]- LoadVoters
+[13:18:49:115]- LoadPolicies
+[13:18:49:130]- LoadSituations
+[13:18:49:132]- LoadDilemmas
+[13:18:49:179]- LoadSimValues
+[13:18:49:181]- LoadVoterTypes
+[13:18:49:228]- LoadGrudges
+[13:18:49:230]- LoadEvents
+[13:18:49:230]- LoadFinances
+[13:18:49:231]- LoadMinisters
+[13:18:49:233]- LoadElection
+[13:18:49:237]- LoadPolls
+[13:18:49:237]- LoadPressureGroups
+[13:18:49:237]- LoadSimulation
+[13:18:49:237]- LoadGlobalEconomy
+[13:18:49:238]- LoadGameplay
+[13:18:49:238]- LoadEffects
+[13:18:49:310]- LoadIssues
+[13:18:49:310]- LoadChangelog
+[13:18:49:310]- LoadCompassProgress
+[13:18:49:310]- LoadStats
+[13:18:49:314]- LoadManifestos
+[13:18:49:314]- LoadFundraising
+[13:18:49:314]- LoadPerceptions
+[13:18:49:314]- Finishing Load
+[13:18:49:606]- Debug::Autoload complete
+[13:18:49:606]- Thread finish detected by loading screen
+[13:18:49:606]- Setting loading screen ready
+[13:18:49:606]- Debug::MultithreadNextTurn complete
+[13:18:49:606]- Thread finish detected by loading screen
+[13:18:49:606]- Setting loading screen ready
+[13:19:34:90]- Debug::MultithreadNextTurn Start
+[13:19:34:91]- Debug::Loading Screen Initialised
+[13:19:34:91]- Debug::IssueManager initialising
+[13:19:34:91]- Debug::Ministers next turn...
+[13:19:34:91]- Debug::eventmanager next turn...
+[13:19:34:91]- Debug::Pressure Groups next turn...
+[13:19:34:92]- Debug::policy manager next turn...
+[13:19:34:92]- Debug::global economy next turn...
+[13:19:34:92]- Debug::situations manager next turn...
+[13:19:34:92]- Debug::finance manager next turn...
+[13:19:34:92]- Debug::neural processing begins...
+[13:19:34:194]- Debug::neural processing complete
+[13:19:34:194]- Debug::dilemma next turn...
+[13:19:34:194]- Debug::party manager next turn...
+[13:19:34:194]- Debug::voter manager next turn...
+[13:19:34:890]- Debug::polls manager next turn...
+[13:19:34:890]- Debug::grudge manager next turn...
+[13:19:34:891]- Debug::finance manager next turn...
+[13:19:34:891]- 
+
+**CALCULATING SIM FINANCE
+[13:19:34:891]- Debug::simulation processed
+[13:19:34:891]- Debug::Political capital processed
+[13:19:34:891]- Debug::Elections processed
+[13:19:34:891]- Debug::Autobal processed
+[13:19:34:891]- Debug::Achievements checked
+[13:19:34:892]- Debug::Compass progress checked
+[13:19:34:892]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:19:35:58]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:19:35:71]- Debug::Autosave complete
+[13:19:35:72]- Debug::ProcessGameLoad
+[13:19:35:72]- Debug::Releasing gameplay...
+[13:19:35:205]- Debug::preloading gameplay...
+[13:19:35:217]- Debug:Policy Group Initialise...
+[13:19:35:217]- Debug:Event Manager Initialise...
+[13:19:35:248]- Debug:Policy Manager Initialise...
+[13:19:35:263]- Debug:Sim Value Initialise...
+[13:19:35:266]- Debug:Situation Manager Initialise...
+[13:19:35:270]- Debug:Ministers PreLoad...
+[13:19:35:271]- Debug:GrudgeManager Initialise..
+[13:19:35:271]- Debug:Dilemma Manager ResolveConnections...
+[13:19:35:271]- Debug:Policy Manager ResolveConnections...
+[13:19:35:299]- Debug:Event Manager ResolveConnections...
+[13:19:35:304]- Debug:Sim Value ResolveConnections...
+[13:19:35:313]- Debug:Situations ResolveConnections...
+[13:19:35:327]- Debug:Simulation pre-load completed
+[13:19:35:327]- Debug::LoadingGameData
+[13:19:35:327]- LoadMission
+[13:19:35:329]- LoadHashes
+[13:19:35:329]- LoadParties
+[13:19:35:329]- LoadVoters
+[13:19:36:375]- LoadPolicies
+[13:19:36:389]- LoadSituations
+[13:19:36:391]- LoadDilemmas
+[13:19:36:439]- LoadSimValues
+[13:19:36:441]- LoadVoterTypes
+[13:19:36:490]- LoadGrudges
+[13:19:36:492]- LoadEvents
+[13:19:36:492]- LoadFinances
+[13:19:36:492]- LoadMinisters
+[13:19:36:494]- LoadElection
+[13:19:36:498]- LoadPolls
+[13:19:36:498]- LoadPressureGroups
+[13:19:36:498]- LoadSimulation
+[13:19:36:499]- LoadGlobalEconomy
+[13:19:36:499]- LoadGameplay
+[13:19:36:499]- LoadEffects
+[13:19:36:574]- LoadIssues
+[13:19:36:574]- LoadChangelog
+[13:19:36:574]- LoadCompassProgress
+[13:19:36:574]- LoadStats
+[13:19:36:578]- LoadManifestos
+[13:19:36:578]- LoadFundraising
+[13:19:36:578]- LoadPerceptions
+[13:19:36:578]- Finishing Load
+[13:19:36:875]- Debug::Autoload complete
+[13:19:36:875]- Thread finish detected by loading screen
+[13:19:36:875]- Setting loading screen ready
+[13:19:36:875]- Debug::MultithreadNextTurn complete
+[13:19:36:875]- Thread finish detected by loading screen
+[13:19:36:875]- Setting loading screen ready
+[13:20:9:885]- 
+
+**CALCULATING SIM FINANCE
+[13:20:59:408]- 
+
+**CALCULATING SIM FINANCE
+[13:21:10:329]- 
+
+**CALCULATING SIM FINANCE
+[13:21:14:527]- Debug::MultithreadNextTurn Start
+[13:21:14:528]- Debug::Loading Screen Initialised
+[13:21:14:528]- Debug::IssueManager initialising
+[13:21:14:528]- Debug::Ministers next turn...
+[13:21:14:528]- Debug::eventmanager next turn...
+[13:21:14:528]- Debug::Pressure Groups next turn...
+[13:21:14:528]- Debug::policy manager next turn...
+[13:21:14:528]- Debug::global economy next turn...
+[13:21:14:528]- Debug::situations manager next turn...
+[13:21:14:528]- Debug::finance manager next turn...
+[13:21:14:528]- Debug::neural processing begins...
+[13:21:14:629]- Debug::neural processing complete
+[13:21:14:630]- Debug::dilemma next turn...
+[13:21:14:630]- Debug::party manager next turn...
+[13:21:14:630]- Debug::voter manager next turn...
+[13:21:15:317]- Debug::polls manager next turn...
+[13:21:15:317]- Debug::grudge manager next turn...
+[13:21:15:319]- Debug::finance manager next turn...
+[13:21:15:319]- 
+
+**CALCULATING SIM FINANCE
+[13:21:15:319]- Debug::simulation processed
+[13:21:15:319]- Debug::Political capital processed
+[13:21:15:319]- Debug::Elections processed
+[13:21:15:319]- Debug::Autobal processed
+[13:21:15:319]- Debug::Achievements checked
+[13:21:15:319]- Debug::Compass progress checked
+[13:21:15:320]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:21:15:487]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:21:15:502]- Debug::Autosave complete
+[13:21:15:503]- Debug::ProcessGameLoad
+[13:21:15:503]- Debug::Releasing gameplay...
+[13:21:15:634]- Debug::preloading gameplay...
+[13:21:15:646]- Debug:Policy Group Initialise...
+[13:21:15:647]- Debug:Event Manager Initialise...
+[13:21:15:678]- Debug:Policy Manager Initialise...
+[13:21:15:692]- Debug:Sim Value Initialise...
+[13:21:15:695]- Debug:Situation Manager Initialise...
+[13:21:15:701]- Debug:Ministers PreLoad...
+[13:21:15:701]- Debug:GrudgeManager Initialise..
+[13:21:15:701]- Debug:Dilemma Manager ResolveConnections...
+[13:21:15:701]- Debug:Policy Manager ResolveConnections...
+[13:21:15:728]- Debug:Event Manager ResolveConnections...
+[13:21:15:733]- Debug:Sim Value ResolveConnections...
+[13:21:15:742]- Debug:Situations ResolveConnections...
+[13:21:15:757]- Debug:Simulation pre-load completed
+[13:21:15:757]- Debug::LoadingGameData
+[13:21:15:757]- LoadMission
+[13:21:15:759]- LoadHashes
+[13:21:15:759]- LoadParties
+[13:21:15:760]- LoadVoters
+[13:21:16:803]- LoadPolicies
+[13:21:16:817]- LoadSituations
+[13:21:16:819]- LoadDilemmas
+[13:21:16:865]- LoadSimValues
+[13:21:16:866]- LoadVoterTypes
+[13:21:16:914]- LoadGrudges
+[13:21:16:915]- LoadEvents
+[13:21:16:916]- LoadFinances
+[13:21:16:916]- LoadMinisters
+[13:21:16:918]- LoadElection
+[13:21:16:922]- LoadPolls
+[13:21:16:922]- LoadPressureGroups
+[13:21:16:922]- LoadSimulation
+[13:21:16:923]- LoadGlobalEconomy
+[13:21:16:923]- LoadGameplay
+[13:21:16:923]- LoadEffects
+[13:21:16:997]- LoadIssues
+[13:21:16:997]- LoadChangelog
+[13:21:16:997]- LoadCompassProgress
+[13:21:16:997]- LoadStats
+[13:21:17:1]- LoadManifestos
+[13:21:17:1]- LoadFundraising
+[13:21:17:1]- LoadPerceptions
+[13:21:17:1]- Finishing Load
+[13:21:17:296]- Debug::Autoload complete
+[13:21:17:296]- Thread finish detected by loading screen
+[13:21:17:296]- Setting loading screen ready
+[13:21:17:296]- Debug::MultithreadNextTurn complete
+[13:21:17:296]- Thread finish detected by loading screen
+[13:21:17:296]- Setting loading screen ready
+[13:22:35:178]- 
+
+**CALCULATING SIM FINANCE
+[13:22:58:377]- Debug::MultithreadNextTurn Start
+[13:22:58:377]- Debug::Loading Screen Initialised
+[13:22:58:377]- Debug::IssueManager initialising
+[13:22:58:377]- Debug::Ministers next turn...
+[13:22:58:377]- Debug::eventmanager next turn...
+[13:22:58:377]- Debug::Pressure Groups next turn...
+[13:22:58:378]- Debug::policy manager next turn...
+[13:22:58:378]- Debug::global economy next turn...
+[13:22:58:378]- Debug::situations manager next turn...
+[13:22:58:378]- Debug::finance manager next turn...
+[13:22:58:378]- Debug::neural processing begins...
+[13:22:58:481]- Debug::neural processing complete
+[13:22:58:481]- Debug::dilemma next turn...
+[13:22:58:481]- Debug::party manager next turn...
+[13:22:58:481]- Debug::voter manager next turn...
+[13:22:59:169]- Debug::polls manager next turn...
+[13:22:59:169]- Debug::grudge manager next turn...
+[13:22:59:170]- Debug::finance manager next turn...
+[13:22:59:170]- 
+
+**CALCULATING SIM FINANCE
+[13:22:59:170]- Debug::simulation processed
+[13:22:59:170]- Debug::Political capital processed
+[13:22:59:170]- Debug::Elections processed
+[13:22:59:170]- Debug::Autobal processed
+[13:22:59:171]- Debug::Achievements checked
+[13:22:59:171]- Debug::Compass progress checked
+[13:22:59:171]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:22:59:337]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:22:59:351]- Debug::Autosave complete
+[13:22:59:352]- Debug::ProcessGameLoad
+[13:22:59:352]- Debug::Releasing gameplay...
+[13:22:59:481]- Debug::preloading gameplay...
+[13:22:59:493]- Debug:Policy Group Initialise...
+[13:22:59:493]- Debug:Event Manager Initialise...
+[13:22:59:523]- Debug:Policy Manager Initialise...
+[13:22:59:538]- Debug:Sim Value Initialise...
+[13:22:59:542]- Debug:Situation Manager Initialise...
+[13:22:59:547]- Debug:Ministers PreLoad...
+[13:22:59:547]- Debug:GrudgeManager Initialise..
+[13:22:59:547]- Debug:Dilemma Manager ResolveConnections...
+[13:22:59:547]- Debug:Policy Manager ResolveConnections...
+[13:22:59:574]- Debug:Event Manager ResolveConnections...
+[13:22:59:580]- Debug:Sim Value ResolveConnections...
+[13:22:59:589]- Debug:Situations ResolveConnections...
+[13:22:59:603]- Debug:Simulation pre-load completed
+[13:22:59:603]- Debug::LoadingGameData
+[13:22:59:603]- LoadMission
+[13:22:59:604]- LoadHashes
+[13:22:59:604]- LoadParties
+[13:22:59:605]- LoadVoters
+[13:23:0:639]- LoadPolicies
+[13:23:0:655]- LoadSituations
+[13:23:0:657]- LoadDilemmas
+[13:23:0:704]- LoadSimValues
+[13:23:0:706]- LoadVoterTypes
+[13:23:0:755]- LoadGrudges
+[13:23:0:757]- LoadEvents
+[13:23:0:757]- LoadFinances
+[13:23:0:757]- LoadMinisters
+[13:23:0:760]- LoadElection
+[13:23:0:763]- LoadPolls
+[13:23:0:763]- LoadPressureGroups
+[13:23:0:764]- LoadSimulation
+[13:23:0:764]- LoadGlobalEconomy
+[13:23:0:764]- LoadGameplay
+[13:23:0:764]- LoadEffects
+[13:23:0:838]- LoadIssues
+[13:23:0:838]- LoadChangelog
+[13:23:0:839]- LoadCompassProgress
+[13:23:0:839]- LoadStats
+[13:23:0:843]- LoadManifestos
+[13:23:0:843]- LoadFundraising
+[13:23:0:843]- LoadPerceptions
+[13:23:0:843]- Finishing Load
+[13:23:1:136]- Debug::Autoload complete
+[13:23:1:136]- Thread finish detected by loading screen
+[13:23:1:136]- Setting loading screen ready
+[13:23:1:137]- Debug::MultithreadNextTurn complete
+[13:23:1:137]- Thread finish detected by loading screen
+[13:23:1:137]- Setting loading screen ready
+[13:23:5:378]- CTD DEBUG: Setting volume via irrklang...:..\..\..\src\GUI_Sounds.cpp 270
+
+[13:23:5:378]- CTD DEBUG: ...set volume success:..\..\..\src\GUI_Sounds.cpp 272
+
+[13:24:14:896]- 
+
+**CALCULATING SIM FINANCE
+[13:24:35:569]- Debug::MultithreadNextTurn Start
+[13:24:35:569]- Debug::Loading Screen Initialised
+[13:24:35:569]- Debug::IssueManager initialising
+[13:24:35:569]- Debug::Ministers next turn...
+[13:24:35:569]- Debug::eventmanager next turn...
+[13:24:35:570]- Debug::Pressure Groups next turn...
+[13:24:35:570]- Debug::policy manager next turn...
+[13:24:35:570]- Debug::global economy next turn...
+[13:24:35:570]- Debug::situations manager next turn...
+[13:24:35:570]- Debug::finance manager next turn...
+[13:24:35:570]- Debug::neural processing begins...
+[13:24:35:673]- Debug::neural processing complete
+[13:24:35:673]- Debug::dilemma next turn...
+[13:24:35:673]- Debug::party manager next turn...
+[13:24:35:673]- Debug::voter manager next turn...
+[13:24:36:382]- Debug::polls manager next turn...
+[13:24:36:382]- Debug::grudge manager next turn...
+[13:24:36:383]- Debug::finance manager next turn...
+[13:24:36:383]- 
+
+**CALCULATING SIM FINANCE
+[13:24:36:383]- Debug::simulation processed
+[13:24:36:383]- Debug::Political capital processed
+[13:24:36:383]- Debug::Elections processed
+[13:24:36:383]- Debug::Autobal processed
+[13:24:36:383]- Debug::Achievements checked
+[13:24:36:383]- Debug::Compass progress checked
+[13:24:36:384]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:24:36:553]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:24:36:565]- Debug::Autosave complete
+[13:24:36:567]- Debug::ProcessGameLoad
+[13:24:36:567]- Debug::Releasing gameplay...
+[13:24:36:700]- Debug::preloading gameplay...
+[13:24:36:713]- Debug:Policy Group Initialise...
+[13:24:36:713]- Debug:Event Manager Initialise...
+[13:24:36:744]- Debug:Policy Manager Initialise...
+[13:24:36:759]- Debug:Sim Value Initialise...
+[13:24:36:762]- Debug:Situation Manager Initialise...
+[13:24:36:767]- Debug:Ministers PreLoad...
+[13:24:36:767]- Debug:GrudgeManager Initialise..
+[13:24:36:767]- Debug:Dilemma Manager ResolveConnections...
+[13:24:36:767]- Debug:Policy Manager ResolveConnections...
+[13:24:36:795]- Debug:Event Manager ResolveConnections...
+[13:24:36:800]- Debug:Sim Value ResolveConnections...
+[13:24:36:809]- Debug:Situations ResolveConnections...
+[13:24:36:823]- Debug:Simulation pre-load completed
+[13:24:36:823]- Debug::LoadingGameData
+[13:24:36:823]- LoadMission
+[13:24:36:825]- LoadHashes
+[13:24:36:825]- LoadParties
+[13:24:36:825]- LoadVoters
+[13:24:37:874]- LoadPolicies
+[13:24:37:888]- LoadSituations
+[13:24:37:891]- LoadDilemmas
+[13:24:37:938]- LoadSimValues
+[13:24:37:940]- LoadVoterTypes
+[13:24:37:988]- LoadGrudges
+[13:24:37:990]- LoadEvents
+[13:24:37:990]- LoadFinances
+[13:24:37:990]- LoadMinisters
+[13:24:37:992]- LoadElection
+[13:24:37:996]- LoadPolls
+[13:24:37:996]- LoadPressureGroups
+[13:24:37:996]- LoadSimulation
+[13:24:37:997]- LoadGlobalEconomy
+[13:24:37:997]- LoadGameplay
+[13:24:37:997]- LoadEffects
+[13:24:38:70]- LoadIssues
+[13:24:38:70]- LoadChangelog
+[13:24:38:71]- LoadCompassProgress
+[13:24:38:71]- LoadStats
+[13:24:38:75]- LoadManifestos
+[13:24:38:75]- LoadFundraising
+[13:24:38:75]- LoadPerceptions
+[13:24:38:75]- Finishing Load
+[13:24:38:365]- Debug::Autoload complete
+[13:24:38:365]- Thread finish detected by loading screen
+[13:24:38:365]- Setting loading screen ready
+[13:24:38:365]- Debug::MultithreadNextTurn complete
+[13:24:38:365]- Thread finish detected by loading screen
+[13:24:38:365]- Setting loading screen ready
+[13:25:22:467]- 
+
+**CALCULATING SIM FINANCE
+[13:25:42:538]- 
+
+**CALCULATING SIM FINANCE
+[13:25:49:496]- Debug::MultithreadNextTurn Start
+[13:25:49:496]- Debug::Loading Screen Initialised
+[13:25:49:496]- Debug::IssueManager initialising
+[13:25:49:496]- Debug::Ministers next turn...
+[13:25:49:496]- Debug::eventmanager next turn...
+[13:25:49:496]- Debug::Pressure Groups next turn...
+[13:25:49:497]- Debug::policy manager next turn...
+[13:25:49:497]- Debug::global economy next turn...
+[13:25:49:497]- Debug::situations manager next turn...
+[13:25:49:497]- Debug::finance manager next turn...
+[13:25:49:497]- Debug::neural processing begins...
+[13:25:49:599]- Debug::neural processing complete
+[13:25:49:599]- Debug::dilemma next turn...
+[13:25:49:599]- Debug::party manager next turn...
+[13:25:49:599]- Debug::voter manager next turn...
+[13:25:50:309]- Debug::polls manager next turn...
+[13:25:50:309]- Debug::grudge manager next turn...
+[13:25:50:309]- Debug::finance manager next turn...
+[13:25:50:309]- 
+
+**CALCULATING SIM FINANCE
+[13:25:50:309]- Debug::simulation processed
+[13:25:50:309]- Debug::Political capital processed
+[13:25:50:309]- Debug::Elections processed
+[13:25:50:310]- Debug::Autobal processed
+[13:25:50:310]- Debug::Achievements checked
+[13:25:50:310]- Debug::Compass progress checked
+[13:25:50:311]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:25:50:474]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:25:50:491]- Debug::Autosave complete
+[13:25:50:492]- Debug::ProcessGameLoad
+[13:25:50:492]- Debug::Releasing gameplay...
+[13:25:50:625]- Debug::preloading gameplay...
+[13:25:50:637]- Debug:Policy Group Initialise...
+[13:25:50:638]- Debug:Event Manager Initialise...
+[13:25:50:668]- Debug:Policy Manager Initialise...
+[13:25:50:683]- Debug:Sim Value Initialise...
+[13:25:50:686]- Debug:Situation Manager Initialise...
+[13:25:50:690]- Debug:Ministers PreLoad...
+[13:25:50:690]- Debug:GrudgeManager Initialise..
+[13:25:50:690]- Debug:Dilemma Manager ResolveConnections...
+[13:25:50:690]- Debug:Policy Manager ResolveConnections...
+[13:25:50:718]- Debug:Event Manager ResolveConnections...
+[13:25:50:723]- Debug:Sim Value ResolveConnections...
+[13:25:50:732]- Debug:Situations ResolveConnections...
+[13:25:50:747]- Debug:Simulation pre-load completed
+[13:25:50:747]- Debug::LoadingGameData
+[13:25:50:747]- LoadMission
+[13:25:50:748]- LoadHashes
+[13:25:50:748]- LoadParties
+[13:25:50:749]- LoadVoters
+[13:25:51:802]- LoadPolicies
+[13:25:51:817]- LoadSituations
+[13:25:51:820]- LoadDilemmas
+[13:25:51:865]- LoadSimValues
+[13:25:51:866]- LoadVoterTypes
+[13:25:51:913]- LoadGrudges
+[13:25:51:914]- LoadEvents
+[13:25:51:915]- LoadFinances
+[13:25:51:915]- LoadMinisters
+[13:25:51:917]- LoadElection
+[13:25:51:921]- LoadPolls
+[13:25:51:921]- LoadPressureGroups
+[13:25:51:921]- LoadSimulation
+[13:25:51:921]- LoadGlobalEconomy
+[13:25:51:921]- LoadGameplay
+[13:25:51:922]- LoadEffects
+[13:25:51:994]- LoadIssues
+[13:25:51:994]- LoadChangelog
+[13:25:51:995]- LoadCompassProgress
+[13:25:51:995]- LoadStats
+[13:25:51:998]- LoadManifestos
+[13:25:51:998]- LoadFundraising
+[13:25:51:998]- LoadPerceptions
+[13:25:51:998]- Finishing Load
+[13:25:52:287]- Debug::Autoload complete
+[13:25:52:287]- Thread finish detected by loading screen
+[13:25:52:287]- Setting loading screen ready
+[13:25:52:287]- Debug::MultithreadNextTurn complete
+[13:25:52:287]- Thread finish detected by loading screen
+[13:25:52:287]- Setting loading screen ready
+[13:26:40:592]- 
+
+**CALCULATING SIM FINANCE
+[13:27:4:377]- 
+
+**CALCULATING SIM FINANCE
+[13:27:7:922]- Debug::MultithreadNextTurn Start
+[13:27:7:922]- Debug::Loading Screen Initialised
+[13:27:7:922]- Debug::IssueManager initialising
+[13:27:7:922]- Debug::Ministers next turn...
+[13:27:7:922]- Debug::eventmanager next turn...
+[13:27:7:922]- Debug::Pressure Groups next turn...
+[13:27:7:923]- Debug::policy manager next turn...
+[13:27:7:923]- Debug::global economy next turn...
+[13:27:7:923]- Debug::situations manager next turn...
+[13:27:7:923]- Debug::finance manager next turn...
+[13:27:7:923]- Debug::neural processing begins...
+[13:27:8:24]- Debug::neural processing complete
+[13:27:8:24]- Debug::dilemma next turn...
+[13:27:8:24]- Debug::party manager next turn...
+[13:27:8:25]- Debug::voter manager next turn...
+[13:27:8:715]- Debug::polls manager next turn...
+[13:27:8:715]- Debug::grudge manager next turn...
+[13:27:8:716]- Debug::finance manager next turn...
+[13:27:8:716]- 
+
+**CALCULATING SIM FINANCE
+[13:27:8:716]- Debug::simulation processed
+[13:27:8:716]- Debug::Political capital processed
+[13:27:8:716]- Debug::Elections processed
+[13:27:8:716]- Debug::Autobal processed
+[13:27:8:717]- Debug::Achievements checked
+[13:27:8:717]- Debug::Compass progress checked
+[13:27:8:717]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:27:8:883]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:27:8:896]- Debug::Autosave complete
+[13:27:8:897]- Debug::ProcessGameLoad
+[13:27:8:898]- Debug::Releasing gameplay...
+[13:27:9:33]- Debug::preloading gameplay...
+[13:27:9:45]- Debug:Policy Group Initialise...
+[13:27:9:45]- Debug:Event Manager Initialise...
+[13:27:9:76]- Debug:Policy Manager Initialise...
+[13:27:9:90]- Debug:Sim Value Initialise...
+[13:27:9:94]- Debug:Situation Manager Initialise...
+[13:27:9:99]- Debug:Ministers PreLoad...
+[13:27:9:99]- Debug:GrudgeManager Initialise..
+[13:27:9:99]- Debug:Dilemma Manager ResolveConnections...
+[13:27:9:99]- Debug:Policy Manager ResolveConnections...
+[13:27:9:126]- Debug:Event Manager ResolveConnections...
+[13:27:9:131]- Debug:Sim Value ResolveConnections...
+[13:27:9:140]- Debug:Situations ResolveConnections...
+[13:27:9:154]- Debug:Simulation pre-load completed
+[13:27:9:154]- Debug::LoadingGameData
+[13:27:9:154]- LoadMission
+[13:27:9:156]- LoadHashes
+[13:27:9:156]- LoadParties
+[13:27:9:156]- LoadVoters
+[13:27:10:199]- LoadPolicies
+[13:27:10:213]- LoadSituations
+[13:27:10:215]- LoadDilemmas
+[13:27:10:263]- LoadSimValues
+[13:27:10:265]- LoadVoterTypes
+[13:27:10:315]- LoadGrudges
+[13:27:10:316]- LoadEvents
+[13:27:10:316]- LoadFinances
+[13:27:10:316]- LoadMinisters
+[13:27:10:319]- LoadElection
+[13:27:10:323]- LoadPolls
+[13:27:10:323]- LoadPressureGroups
+[13:27:10:323]- LoadSimulation
+[13:27:10:324]- LoadGlobalEconomy
+[13:27:10:324]- LoadGameplay
+[13:27:10:324]- LoadEffects
+[13:27:10:397]- LoadIssues
+[13:27:10:397]- LoadChangelog
+[13:27:10:398]- LoadCompassProgress
+[13:27:10:398]- LoadStats
+[13:27:10:402]- LoadManifestos
+[13:27:10:402]- LoadFundraising
+[13:27:10:402]- LoadPerceptions
+[13:27:10:402]- Finishing Load
+[13:27:10:695]- Debug::Autoload complete
+[13:27:10:695]- Thread finish detected by loading screen
+[13:27:10:695]- Setting loading screen ready
+[13:27:10:695]- Debug::MultithreadNextTurn complete
+[13:27:10:695]- Thread finish detected by loading screen
+[13:27:10:695]- Setting loading screen ready
+[13:28:27:435]- Debug::MultithreadNextTurn Start
+[13:28:27:435]- Debug::Loading Screen Initialised
+[13:28:27:435]- Debug::IssueManager initialising
+[13:28:27:435]- Debug::Ministers next turn...
+[13:28:27:435]- Debug::eventmanager next turn...
+[13:28:27:436]- Debug::Pressure Groups next turn...
+[13:28:27:436]- Debug::policy manager next turn...
+[13:28:27:436]- Debug::global economy next turn...
+[13:28:27:436]- Debug::situations manager next turn...
+[13:28:27:436]- Debug::finance manager next turn...
+[13:28:27:436]- Debug::neural processing begins...
+[13:28:27:541]- Debug::neural processing complete
+[13:28:27:541]- Debug::dilemma next turn...
+[13:28:27:541]- Debug::party manager next turn...
+[13:28:27:541]- Debug::voter manager next turn...
+[13:28:28:254]- Debug::polls manager next turn...
+[13:28:28:255]- Debug::grudge manager next turn...
+[13:28:28:255]- Debug::finance manager next turn...
+[13:28:28:255]- 
+
+**CALCULATING SIM FINANCE
+[13:28:28:255]- Debug::simulation processed
+[13:28:28:255]- Debug::Political capital processed
+[13:28:28:255]- Debug::Elections processed
+[13:28:28:256]- Debug::Autobal processed
+[13:28:28:256]- Debug::Achievements checked
+[13:28:28:256]- Debug::Compass progress checked
+[13:28:28:257]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:28:28:422]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:28:28:435]- Debug::Autosave complete
+[13:28:28:435]- Debug::ProcessGameLoad
+[13:28:28:435]- Debug::Releasing gameplay...
+[13:28:28:564]- Debug::preloading gameplay...
+[13:28:28:575]- Debug:Policy Group Initialise...
+[13:28:28:576]- Debug:Event Manager Initialise...
+[13:28:28:605]- Debug:Policy Manager Initialise...
+[13:28:28:619]- Debug:Sim Value Initialise...
+[13:28:28:623]- Debug:Situation Manager Initialise...
+[13:28:28:628]- Debug:Ministers PreLoad...
+[13:28:28:628]- Debug:GrudgeManager Initialise..
+[13:28:28:628]- Debug:Dilemma Manager ResolveConnections...
+[13:28:28:628]- Debug:Policy Manager ResolveConnections...
+[13:28:28:655]- Debug:Event Manager ResolveConnections...
+[13:28:28:660]- Debug:Sim Value ResolveConnections...
+[13:28:28:669]- Debug:Situations ResolveConnections...
+[13:28:28:684]- Debug:Simulation pre-load completed
+[13:28:28:684]- Debug::LoadingGameData
+[13:28:28:684]- LoadMission
+[13:28:28:685]- LoadHashes
+[13:28:28:685]- LoadParties
+[13:28:28:685]- LoadVoters
+[13:28:29:725]- LoadPolicies
+[13:28:29:740]- LoadSituations
+[13:28:29:742]- LoadDilemmas
+[13:28:29:788]- LoadSimValues
+[13:28:29:790]- LoadVoterTypes
+[13:28:29:838]- LoadGrudges
+[13:28:29:839]- LoadEvents
+[13:28:29:839]- LoadFinances
+[13:28:29:839]- LoadMinisters
+[13:28:29:841]- LoadElection
+[13:28:29:845]- LoadPolls
+[13:28:29:845]- LoadPressureGroups
+[13:28:29:846]- LoadSimulation
+[13:28:29:846]- LoadGlobalEconomy
+[13:28:29:846]- LoadGameplay
+[13:28:29:846]- LoadEffects
+[13:28:29:919]- LoadIssues
+[13:28:29:920]- LoadChangelog
+[13:28:29:921]- LoadCompassProgress
+[13:28:29:921]- LoadStats
+[13:28:29:924]- LoadManifestos
+[13:28:29:924]- LoadFundraising
+[13:28:29:924]- LoadPerceptions
+[13:28:29:924]- Finishing Load
+[13:28:30:221]- Debug::Autoload complete
+[13:28:30:221]- Thread finish detected by loading screen
+[13:28:30:221]- Setting loading screen ready
+[13:28:30:221]- Debug::MultithreadNextTurn complete
+[13:28:30:221]- Thread finish detected by loading screen
+[13:28:30:222]- Setting loading screen ready
+[13:28:48:860]- 
+
+**CALCULATING SIM FINANCE
+[13:29:6:690]- 
+
+**CALCULATING SIM FINANCE
+[13:29:16:678]- 
+
+**CALCULATING SIM FINANCE
+[13:30:49:853]- Debug::MultithreadNextTurn Start
+[13:30:49:853]- Debug::Loading Screen Initialised
+[13:30:49:853]- Debug::IssueManager initialising
+[13:30:49:853]- Debug::Ministers next turn...
+[13:30:49:854]- Debug::eventmanager next turn...
+[13:30:49:854]- Debug::Pressure Groups next turn...
+[13:30:49:854]- Debug::policy manager next turn...
+[13:30:49:854]- Debug::global economy next turn...
+[13:30:49:854]- Debug::situations manager next turn...
+[13:30:49:854]- Debug::finance manager next turn...
+[13:30:49:854]- Debug::neural processing begins...
+[13:30:49:955]- Debug::neural processing complete
+[13:30:49:955]- Debug::dilemma next turn...
+[13:30:49:955]- Debug::party manager next turn...
+[13:30:49:955]- Debug::voter manager next turn...
+[13:30:50:659]- Debug::polls manager next turn...
+[13:30:50:660]- Debug::grudge manager next turn...
+[13:30:50:661]- Debug::finance manager next turn...
+[13:30:50:661]- 
+
+**CALCULATING SIM FINANCE
+[13:30:50:661]- Debug::simulation processed
+[13:30:50:661]- Debug::Political capital processed
+[13:30:50:661]- Debug::Elections processed
+[13:30:50:661]- Debug::Autobal processed
+[13:30:50:662]- Debug::Achievements checked
+[13:30:50:662]- Debug::Compass progress checked
+[13:30:50:662]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:30:50:830]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:30:50:843]- Debug::Autosave complete
+[13:30:50:844]- Debug::ProcessGameLoad
+[13:30:50:844]- Debug::Releasing gameplay...
+[13:30:50:979]- Debug::preloading gameplay...
+[13:30:50:990]- Debug:Policy Group Initialise...
+[13:30:50:991]- Debug:Event Manager Initialise...
+[13:30:51:23]- Debug:Policy Manager Initialise...
+[13:30:51:37]- Debug:Sim Value Initialise...
+[13:30:51:40]- Debug:Situation Manager Initialise...
+[13:30:51:46]- Debug:Ministers PreLoad...
+[13:30:51:46]- Debug:GrudgeManager Initialise..
+[13:30:51:46]- Debug:Dilemma Manager ResolveConnections...
+[13:30:51:46]- Debug:Policy Manager ResolveConnections...
+[13:30:51:72]- Debug:Event Manager ResolveConnections...
+[13:30:51:77]- Debug:Sim Value ResolveConnections...
+[13:30:51:87]- Debug:Situations ResolveConnections...
+[13:30:51:102]- Debug:Simulation pre-load completed
+[13:30:51:103]- Debug::LoadingGameData
+[13:30:51:103]- LoadMission
+[13:30:51:104]- LoadHashes
+[13:30:51:104]- LoadParties
+[13:30:51:105]- LoadVoters
+[13:30:52:155]- LoadPolicies
+[13:30:52:169]- LoadSituations
+[13:30:52:172]- LoadDilemmas
+[13:30:52:219]- LoadSimValues
+[13:30:52:221]- LoadVoterTypes
+[13:30:52:267]- LoadGrudges
+[13:30:52:269]- LoadEvents
+[13:30:52:269]- LoadFinances
+[13:30:52:269]- LoadMinisters
+[13:30:52:272]- LoadElection
+[13:30:52:275]- LoadPolls
+[13:30:52:276]- LoadPressureGroups
+[13:30:52:276]- LoadSimulation
+[13:30:52:276]- LoadGlobalEconomy
+[13:30:52:276]- LoadGameplay
+[13:30:52:277]- LoadEffects
+[13:30:52:350]- LoadIssues
+[13:30:52:350]- LoadChangelog
+[13:30:52:351]- LoadCompassProgress
+[13:30:52:351]- LoadStats
+[13:30:52:355]- LoadManifestos
+[13:30:52:355]- LoadFundraising
+[13:30:52:355]- LoadPerceptions
+[13:30:52:355]- Finishing Load
+[13:30:52:649]- Debug::Autoload complete
+[13:30:52:649]- Thread finish detected by loading screen
+[13:30:52:649]- Setting loading screen ready
+[13:30:52:649]- Debug::MultithreadNextTurn complete
+[13:30:52:649]- Thread finish detected by loading screen
+[13:30:52:649]- Setting loading screen ready
+[13:30:55:705]- CTD DEBUG: Setting volume via irrklang...:..\..\..\src\GUI_Sounds.cpp 270
+
+[13:30:55:705]- CTD DEBUG: ...set volume success:..\..\..\src\GUI_Sounds.cpp 272
+
+[13:32:9:485]- 
+
+**CALCULATING SIM FINANCE
+[13:32:42:48]- 
+
+**CALCULATING SIM FINANCE
+[13:33:3:306]- Debug::MultithreadNextTurn Start
+[13:33:3:306]- Debug::Loading Screen Initialised
+[13:33:3:306]- Debug::IssueManager initialising
+[13:33:3:306]- Debug::Ministers next turn...
+[13:33:3:306]- Debug::eventmanager next turn...
+[13:33:3:306]- Debug::Pressure Groups next turn...
+[13:33:3:307]- Debug::policy manager next turn...
+[13:33:3:307]- Debug::global economy next turn...
+[13:33:3:307]- Debug::situations manager next turn...
+[13:33:3:307]- Debug::finance manager next turn...
+[13:33:3:307]- Debug::neural processing begins...
+[13:33:3:411]- Debug::neural processing complete
+[13:33:3:411]- Debug::dilemma next turn...
+[13:33:3:411]- Debug::party manager next turn...
+[13:33:3:411]- Debug::voter manager next turn...
+[13:33:4:117]- Debug::polls manager next turn...
+[13:33:4:117]- Debug::grudge manager next turn...
+[13:33:4:117]- Debug::finance manager next turn...
+[13:33:4:117]- 
+
+**CALCULATING SIM FINANCE
+[13:33:4:117]- Debug::simulation processed
+[13:33:4:117]- Debug::Political capital processed
+[13:33:4:117]- Debug::Elections processed
+[13:33:4:117]- Debug::Autobal processed
+[13:33:4:118]- Debug::Achievements checked
+[13:33:4:118]- Debug::Compass progress checked
+[13:33:4:118]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:33:4:285]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:33:4:300]- Debug::Autosave complete
+[13:33:4:301]- Debug::ProcessGameLoad
+[13:33:4:301]- Debug::Releasing gameplay...
+[13:33:4:438]- Debug::preloading gameplay...
+[13:33:4:450]- Debug:Policy Group Initialise...
+[13:33:4:450]- Debug:Event Manager Initialise...
+[13:33:4:481]- Debug:Policy Manager Initialise...
+[13:33:4:496]- Debug:Sim Value Initialise...
+[13:33:4:499]- Debug:Situation Manager Initialise...
+[13:33:4:504]- Debug:Ministers PreLoad...
+[13:33:4:504]- Debug:GrudgeManager Initialise..
+[13:33:4:504]- Debug:Dilemma Manager ResolveConnections...
+[13:33:4:504]- Debug:Policy Manager ResolveConnections...
+[13:33:4:531]- Debug:Event Manager ResolveConnections...
+[13:33:4:536]- Debug:Sim Value ResolveConnections...
+[13:33:4:546]- Debug:Situations ResolveConnections...
+[13:33:4:559]- Debug:Simulation pre-load completed
+[13:33:4:559]- Debug::LoadingGameData
+[13:33:4:559]- LoadMission
+[13:33:4:561]- LoadHashes
+[13:33:4:561]- LoadParties
+[13:33:4:562]- LoadVoters
+[13:33:5:607]- LoadPolicies
+[13:33:5:622]- LoadSituations
+[13:33:5:623]- LoadDilemmas
+[13:33:5:671]- LoadSimValues
+[13:33:5:673]- LoadVoterTypes
+[13:33:5:725]- LoadGrudges
+[13:33:5:726]- LoadEvents
+[13:33:5:727]- LoadFinances
+[13:33:5:727]- LoadMinisters
+[13:33:5:729]- LoadElection
+[13:33:5:734]- LoadPolls
+[13:33:5:734]- LoadPressureGroups
+[13:33:5:735]- LoadSimulation
+[13:33:5:735]- LoadGlobalEconomy
+[13:33:5:735]- LoadGameplay
+[13:33:5:735]- LoadEffects
+[13:33:5:808]- LoadIssues
+[13:33:5:808]- LoadChangelog
+[13:33:5:809]- LoadCompassProgress
+[13:33:5:809]- LoadStats
+[13:33:5:813]- LoadManifestos
+[13:33:5:813]- LoadFundraising
+[13:33:5:813]- LoadPerceptions
+[13:33:5:813]- Finishing Load
+[13:33:6:108]- Debug::Autoload complete
+[13:33:6:108]- Thread finish detected by loading screen
+[13:33:6:108]- Setting loading screen ready
+[13:33:6:108]- Debug::MultithreadNextTurn complete
+[13:33:6:108]- Thread finish detected by loading screen
+[13:33:6:108]- Setting loading screen ready
+[13:33:27:57]- Debug::MultithreadNextTurn Start
+[13:33:27:57]- Debug::Loading Screen Initialised
+[13:33:27:57]- Debug::IssueManager initialising
+[13:33:27:57]- Debug::Ministers next turn...
+[13:33:27:57]- Debug::eventmanager next turn...
+[13:33:27:58]- Debug::Pressure Groups next turn...
+[13:33:27:58]- Debug::policy manager next turn...
+[13:33:27:58]- Debug::global economy next turn...
+[13:33:27:58]- Debug::situations manager next turn...
+[13:33:27:58]- Debug::finance manager next turn...
+[13:33:27:58]- Debug::neural processing begins...
+[13:33:27:160]- Debug::neural processing complete
+[13:33:27:160]- Debug::dilemma next turn...
+[13:33:27:160]- Debug::party manager next turn...
+[13:33:27:161]- Debug::voter manager next turn...
+[13:33:27:859]- Debug::polls manager next turn...
+[13:33:27:859]- Debug::grudge manager next turn...
+[13:33:27:859]- Debug::finance manager next turn...
+[13:33:27:859]- 
+
+**CALCULATING SIM FINANCE
+[13:33:27:859]- Debug::simulation processed
+[13:33:27:859]- Debug::Political capital processed
+[13:33:27:859]- Debug::Elections processed
+[13:33:27:859]- Debug::Autobal processed
+[13:33:27:859]- Debug::Achievements checked
+[13:33:27:860]- Debug::Compass progress checked
+[13:33:27:860]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:33:28:23]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:33:28:36]- Debug::Autosave complete
+[13:33:28:38]- Debug::ProcessGameLoad
+[13:33:28:38]- Debug::Releasing gameplay...
+[13:33:28:170]- Debug::preloading gameplay...
+[13:33:28:181]- Debug:Policy Group Initialise...
+[13:33:28:181]- Debug:Event Manager Initialise...
+[13:33:28:211]- Debug:Policy Manager Initialise...
+[13:33:28:224]- Debug:Sim Value Initialise...
+[13:33:28:228]- Debug:Situation Manager Initialise...
+[13:33:28:233]- Debug:Ministers PreLoad...
+[13:33:28:233]- Debug:GrudgeManager Initialise..
+[13:33:28:233]- Debug:Dilemma Manager ResolveConnections...
+[13:33:28:233]- Debug:Policy Manager ResolveConnections...
+[13:33:28:261]- Debug:Event Manager ResolveConnections...
+[13:33:28:266]- Debug:Sim Value ResolveConnections...
+[13:33:28:275]- Debug:Situations ResolveConnections...
+[13:33:28:289]- Debug:Simulation pre-load completed
+[13:33:28:289]- Debug::LoadingGameData
+[13:33:28:289]- LoadMission
+[13:33:28:291]- LoadHashes
+[13:33:28:291]- LoadParties
+[13:33:28:291]- LoadVoters
+[13:33:29:332]- LoadPolicies
+[13:33:29:346]- LoadSituations
+[13:33:29:349]- LoadDilemmas
+[13:33:29:394]- LoadSimValues
+[13:33:29:396]- LoadVoterTypes
+[13:33:29:446]- LoadGrudges
+[13:33:29:447]- LoadEvents
+[13:33:29:448]- LoadFinances
+[13:33:29:448]- LoadMinisters
+[13:33:29:451]- LoadElection
+[13:33:29:455]- LoadPolls
+[13:33:29:455]- LoadPressureGroups
+[13:33:29:455]- LoadSimulation
+[13:33:29:456]- LoadGlobalEconomy
+[13:33:29:456]- LoadGameplay
+[13:33:29:456]- LoadEffects
+[13:33:29:530]- LoadIssues
+[13:33:29:530]- LoadChangelog
+[13:33:29:532]- LoadCompassProgress
+[13:33:29:532]- LoadStats
+[13:33:29:535]- LoadManifestos
+[13:33:29:535]- LoadFundraising
+[13:33:29:535]- LoadPerceptions
+[13:33:29:536]- Finishing Load
+[13:33:29:832]- Debug::Autoload complete
+[13:33:29:832]- Thread finish detected by loading screen
+[13:33:29:832]- Setting loading screen ready
+[13:33:29:832]- Debug::MultithreadNextTurn complete
+[13:33:29:832]- Thread finish detected by loading screen
+[13:33:29:832]- Setting loading screen ready
+[13:33:52:396]- 
+
+**CALCULATING SIM FINANCE
+[13:34:41:620]- 
+
+**CALCULATING SIM FINANCE
+[13:34:48:978]- Debug::MultithreadNextTurn Start
+[13:34:48:978]- Debug::Loading Screen Initialised
+[13:34:48:978]- Debug::IssueManager initialising
+[13:34:48:978]- Debug::Ministers next turn...
+[13:34:48:979]- Debug::eventmanager next turn...
+[13:34:48:979]- Debug::Pressure Groups next turn...
+[13:34:48:979]- Debug::policy manager next turn...
+[13:34:48:979]- Debug::global economy next turn...
+[13:34:48:979]- Debug::situations manager next turn...
+[13:34:48:979]- Debug::finance manager next turn...
+[13:34:48:979]- Debug::neural processing begins...
+[13:34:49:81]- Debug::neural processing complete
+[13:34:49:81]- Debug::dilemma next turn...
+[13:34:49:81]- Debug::party manager next turn...
+[13:34:49:81]- Debug::voter manager next turn...
+[13:34:49:836]- Debug::polls manager next turn...
+[13:34:49:836]- Debug::grudge manager next turn...
+[13:34:49:836]- Debug::finance manager next turn...
+[13:34:49:836]- 
+
+**CALCULATING SIM FINANCE
+[13:34:49:836]- Debug::simulation processed
+[13:34:49:836]- Debug::Political capital processed
+[13:34:49:836]- Debug::Elections processed
+[13:34:49:836]- Debug::Autobal processed
+[13:34:49:837]- Debug::Achievements checked
+[13:34:49:837]- Debug::Compass progress checked
+[13:34:49:837]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:34:50:4]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:34:50:18]- Debug::Autosave complete
+[13:34:50:20]- Debug::ProcessGameLoad
+[13:34:50:20]- Debug::Releasing gameplay...
+[13:34:50:150]- Debug::preloading gameplay...
+[13:34:50:162]- Debug:Policy Group Initialise...
+[13:34:50:162]- Debug:Event Manager Initialise...
+[13:34:50:193]- Debug:Policy Manager Initialise...
+[13:34:50:207]- Debug:Sim Value Initialise...
+[13:34:50:211]- Debug:Situation Manager Initialise...
+[13:34:50:216]- Debug:Ministers PreLoad...
+[13:34:50:216]- Debug:GrudgeManager Initialise..
+[13:34:50:216]- Debug:Dilemma Manager ResolveConnections...
+[13:34:50:216]- Debug:Policy Manager ResolveConnections...
+[13:34:50:243]- Debug:Event Manager ResolveConnections...
+[13:34:50:248]- Debug:Sim Value ResolveConnections...
+[13:34:50:258]- Debug:Situations ResolveConnections...
+[13:34:50:271]- Debug:Simulation pre-load completed
+[13:34:50:271]- Debug::LoadingGameData
+[13:34:50:271]- LoadMission
+[13:34:50:272]- LoadHashes
+[13:34:50:273]- LoadParties
+[13:34:50:273]- LoadVoters
+[13:34:51:348]- LoadPolicies
+[13:34:51:362]- LoadSituations
+[13:34:51:364]- LoadDilemmas
+[13:34:51:410]- LoadSimValues
+[13:34:51:412]- LoadVoterTypes
+[13:34:51:461]- LoadGrudges
+[13:34:51:463]- LoadEvents
+[13:34:51:463]- LoadFinances
+[13:34:51:463]- LoadMinisters
+[13:34:51:466]- LoadElection
+[13:34:51:470]- LoadPolls
+[13:34:51:470]- LoadPressureGroups
+[13:34:51:471]- LoadSimulation
+[13:34:51:471]- LoadGlobalEconomy
+[13:34:51:471]- LoadGameplay
+[13:34:51:471]- LoadEffects
+[13:34:51:544]- LoadIssues
+[13:34:51:545]- LoadChangelog
+[13:34:51:546]- LoadCompassProgress
+[13:34:51:546]- LoadStats
+[13:34:51:550]- LoadManifestos
+[13:34:51:550]- LoadFundraising
+[13:34:51:550]- LoadPerceptions
+[13:34:51:550]- Finishing Load
+[13:34:51:846]- Debug::Autoload complete
+[13:34:51:846]- Thread finish detected by loading screen
+[13:34:51:846]- Setting loading screen ready
+[13:34:51:846]- Debug::MultithreadNextTurn complete
+[13:34:51:846]- Thread finish detected by loading screen
+[13:34:51:846]- Setting loading screen ready
+[13:34:54:854]- CTD DEBUG: Setting volume via irrklang...:..\..\..\src\GUI_Sounds.cpp 270
+
+[13:34:54:854]- CTD DEBUG: ...set volume success:..\..\..\src\GUI_Sounds.cpp 272
+
+[13:35:14:451]- 
+
+**CALCULATING SIM FINANCE
+[13:36:19:263]- Debug::MultithreadNextTurn Start
+[13:36:19:263]- Debug::Loading Screen Initialised
+[13:36:19:263]- Debug::IssueManager initialising
+[13:36:19:263]- Debug::Ministers next turn...
+[13:36:19:263]- Debug::eventmanager next turn...
+[13:36:19:263]- Debug::Pressure Groups next turn...
+[13:36:19:264]- Debug::policy manager next turn...
+[13:36:19:264]- Debug::global economy next turn...
+[13:36:19:264]- Debug::situations manager next turn...
+[13:36:19:264]- Debug::finance manager next turn...
+[13:36:19:264]- Debug::neural processing begins...
+[13:36:19:368]- Debug::neural processing complete
+[13:36:19:368]- Debug::dilemma next turn...
+[13:36:19:368]- Debug::party manager next turn...
+[13:36:19:368]- Debug::voter manager next turn...
+[13:36:20:54]- Debug::polls manager next turn...
+[13:36:20:54]- Debug::grudge manager next turn...
+[13:36:20:54]- Debug::finance manager next turn...
+[13:36:20:54]- 
+
+**CALCULATING SIM FINANCE
+[13:36:20:54]- Debug::simulation processed
+[13:36:20:55]- Debug::Political capital processed
+[13:36:20:55]- Debug::Elections processed
+[13:36:20:55]- Debug::Autobal processed
+[13:36:20:55]- Debug::Achievements checked
+[13:36:20:55]- Debug::Compass progress checked
+[13:36:20:56]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:36:20:221]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:36:20:234]- Debug::Autosave complete
+[13:36:20:235]- Debug::ProcessGameLoad
+[13:36:20:235]- Debug::Releasing gameplay...
+[13:36:20:367]- Debug::preloading gameplay...
+[13:36:20:379]- Debug:Policy Group Initialise...
+[13:36:20:380]- Debug:Event Manager Initialise...
+[13:36:20:411]- Debug:Policy Manager Initialise...
+[13:36:20:425]- Debug:Sim Value Initialise...
+[13:36:20:429]- Debug:Situation Manager Initialise...
+[13:36:20:434]- Debug:Ministers PreLoad...
+[13:36:20:434]- Debug:GrudgeManager Initialise..
+[13:36:20:434]- Debug:Dilemma Manager ResolveConnections...
+[13:36:20:434]- Debug:Policy Manager ResolveConnections...
+[13:36:20:461]- Debug:Event Manager ResolveConnections...
+[13:36:20:466]- Debug:Sim Value ResolveConnections...
+[13:36:20:476]- Debug:Situations ResolveConnections...
+[13:36:20:490]- Debug:Simulation pre-load completed
+[13:36:20:490]- Debug::LoadingGameData
+[13:36:20:490]- LoadMission
+[13:36:20:492]- LoadHashes
+[13:36:20:492]- LoadParties
+[13:36:20:493]- LoadVoters
+[13:36:21:548]- LoadPolicies
+[13:36:21:563]- LoadSituations
+[13:36:21:565]- LoadDilemmas
+[13:36:21:612]- LoadSimValues
+[13:36:21:615]- LoadVoterTypes
+[13:36:21:662]- LoadGrudges
+[13:36:21:663]- LoadEvents
+[13:36:21:664]- LoadFinances
+[13:36:21:664]- LoadMinisters
+[13:36:21:666]- LoadElection
+[13:36:21:669]- LoadPolls
+[13:36:21:669]- LoadPressureGroups
+[13:36:21:669]- LoadSimulation
+[13:36:21:670]- LoadGlobalEconomy
+[13:36:21:670]- LoadGameplay
+[13:36:21:670]- LoadEffects
+[13:36:21:742]- LoadIssues
+[13:36:21:742]- LoadChangelog
+[13:36:21:744]- LoadCompassProgress
+[13:36:21:744]- LoadStats
+[13:36:21:748]- LoadManifestos
+[13:36:21:748]- LoadFundraising
+[13:36:21:748]- LoadPerceptions
+[13:36:21:748]- Finishing Load
+[13:36:22:33]- Debug::Autoload complete
+[13:36:22:33]- Thread finish detected by loading screen
+[13:36:22:33]- Setting loading screen ready
+[13:36:22:33]- Debug::MultithreadNextTurn complete
+[13:36:22:33]- Thread finish detected by loading screen
+[13:36:22:33]- Setting loading screen ready
+[13:36:36:105]- Debug::MultithreadNextTurn Start
+[13:36:36:105]- Debug::Loading Screen Initialised
+[13:36:36:105]- Debug::IssueManager initialising
+[13:36:36:105]- Debug::Ministers next turn...
+[13:36:36:106]- Debug::eventmanager next turn...
+[13:36:36:106]- Debug::Pressure Groups next turn...
+[13:36:36:106]- Debug::policy manager next turn...
+[13:36:36:107]- Debug::global economy next turn...
+[13:36:36:107]- Debug::situations manager next turn...
+[13:36:36:107]- Debug::finance manager next turn...
+[13:36:36:107]- Debug::neural processing begins...
+[13:36:36:208]- Debug::neural processing complete
+[13:36:36:208]- Debug::dilemma next turn...
+[13:36:36:209]- Debug::party manager next turn...
+[13:36:36:209]- Debug::voter manager next turn...
+[13:36:36:901]- Debug::polls manager next turn...
+[13:36:36:901]- Debug::grudge manager next turn...
+[13:36:36:901]- Debug::finance manager next turn...
+[13:36:36:901]- 
+
+**CALCULATING SIM FINANCE
+[13:36:36:901]- Debug::simulation processed
+[13:36:36:901]- Debug::Political capital processed
+[13:36:36:901]- Debug::Elections processed
+[13:36:36:901]- Debug::Autobal processed
+[13:36:36:902]- Debug::Achievements checked
+[13:36:36:902]- Debug::Compass progress checked
+[13:36:36:903]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:36:37:66]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:36:37:79]- Debug::Autosave complete
+[13:36:37:80]- Debug::ProcessGameLoad
+[13:36:37:80]- Debug::Releasing gameplay...
+[13:36:37:216]- Debug::preloading gameplay...
+[13:36:37:227]- Debug:Policy Group Initialise...
+[13:36:37:228]- Debug:Event Manager Initialise...
+[13:36:37:258]- Debug:Policy Manager Initialise...
+[13:36:37:272]- Debug:Sim Value Initialise...
+[13:36:37:275]- Debug:Situation Manager Initialise...
+[13:36:37:281]- Debug:Ministers PreLoad...
+[13:36:37:281]- Debug:GrudgeManager Initialise..
+[13:36:37:281]- Debug:Dilemma Manager ResolveConnections...
+[13:36:37:281]- Debug:Policy Manager ResolveConnections...
+[13:36:37:308]- Debug:Event Manager ResolveConnections...
+[13:36:37:312]- Debug:Sim Value ResolveConnections...
+[13:36:37:321]- Debug:Situations ResolveConnections...
+[13:36:37:336]- Debug:Simulation pre-load completed
+[13:36:37:336]- Debug::LoadingGameData
+[13:36:37:336]- LoadMission
+[13:36:37:338]- LoadHashes
+[13:36:37:338]- LoadParties
+[13:36:37:338]- LoadVoters
+[13:36:38:394]- LoadPolicies
+[13:36:38:409]- LoadSituations
+[13:36:38:411]- LoadDilemmas
+[13:36:38:458]- LoadSimValues
+[13:36:38:460]- LoadVoterTypes
+[13:36:38:509]- LoadGrudges
+[13:36:38:511]- LoadEvents
+[13:36:38:511]- LoadFinances
+[13:36:38:511]- LoadMinisters
+[13:36:38:514]- LoadElection
+[13:36:38:518]- LoadPolls
+[13:36:38:518]- LoadPressureGroups
+[13:36:38:518]- LoadSimulation
+[13:36:38:518]- LoadGlobalEconomy
+[13:36:38:518]- LoadGameplay
+[13:36:38:519]- LoadEffects
+[13:36:38:590]- LoadIssues
+[13:36:38:591]- LoadChangelog
+[13:36:38:592]- LoadCompassProgress
+[13:36:38:592]- LoadStats
+[13:36:38:596]- LoadManifestos
+[13:36:38:596]- LoadFundraising
+[13:36:38:596]- LoadPerceptions
+[13:36:38:596]- Finishing Load
+[13:36:38:888]- Debug::Autoload complete
+[13:36:38:889]- Thread finish detected by loading screen
+[13:36:38:889]- Setting loading screen ready
+[13:36:38:889]- Debug::MultithreadNextTurn complete
+[13:36:38:889]- Thread finish detected by loading screen
+[13:36:38:889]- Setting loading screen ready
+[13:36:58:166]- 
+
+**CALCULATING SIM FINANCE
+[13:37:8:754]- 
+
+**CALCULATING SIM FINANCE
+[13:37:14:825]- Debug::MultithreadNextTurn Start
+[13:37:14:825]- Debug::Loading Screen Initialised
+[13:37:14:825]- Debug::IssueManager initialising
+[13:37:14:825]- Debug::Ministers next turn...
+[13:37:14:825]- Debug::eventmanager next turn...
+[13:37:14:826]- Debug::Pressure Groups next turn...
+[13:37:14:826]- Debug::policy manager next turn...
+[13:37:14:826]- Debug::global economy next turn...
+[13:37:14:826]- Debug::situations manager next turn...
+[13:37:14:826]- Debug::finance manager next turn...
+[13:37:14:826]- Debug::neural processing begins...
+[13:37:14:930]- Debug::neural processing complete
+[13:37:14:931]- Debug::dilemma next turn...
+[13:37:14:931]- Debug::party manager next turn...
+[13:37:14:931]- Debug::voter manager next turn...
+[13:37:15:626]- Debug::polls manager next turn...
+[13:37:15:626]- Debug::grudge manager next turn...
+[13:37:15:626]- Debug::finance manager next turn...
+[13:37:15:626]- 
+
+**CALCULATING SIM FINANCE
+[13:37:15:626]- Debug::simulation processed
+[13:37:15:627]- Debug::Political capital processed
+[13:37:15:627]- Debug::Elections processed
+[13:37:15:627]- Debug::Autobal processed
+[13:37:15:627]- Debug::Achievements checked
+[13:37:15:627]- Debug::Compass progress checked
+[13:37:15:628]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:37:15:794]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:37:15:806]- Debug::Autosave complete
+[13:37:15:808]- Debug::ProcessGameLoad
+[13:37:15:808]- Debug::Releasing gameplay...
+[13:37:15:943]- Debug::preloading gameplay...
+[13:37:15:955]- Debug:Policy Group Initialise...
+[13:37:15:955]- Debug:Event Manager Initialise...
+[13:37:15:987]- Debug:Policy Manager Initialise...
+[13:37:16:1]- Debug:Sim Value Initialise...
+[13:37:16:5]- Debug:Situation Manager Initialise...
+[13:37:16:10]- Debug:Ministers PreLoad...
+[13:37:16:10]- Debug:GrudgeManager Initialise..
+[13:37:16:10]- Debug:Dilemma Manager ResolveConnections...
+[13:37:16:10]- Debug:Policy Manager ResolveConnections...
+[13:37:16:37]- Debug:Event Manager ResolveConnections...
+[13:37:16:42]- Debug:Sim Value ResolveConnections...
+[13:37:16:51]- Debug:Situations ResolveConnections...
+[13:37:16:66]- Debug:Simulation pre-load completed
+[13:37:16:66]- Debug::LoadingGameData
+[13:37:16:66]- LoadMission
+[13:37:16:66]- LoadHashes
+[13:37:16:67]- LoadParties
+[13:37:16:67]- LoadVoters
+[13:37:17:116]- LoadPolicies
+[13:37:17:130]- LoadSituations
+[13:37:17:133]- LoadDilemmas
+[13:37:17:178]- LoadSimValues
+[13:37:17:181]- LoadVoterTypes
+[13:37:17:228]- LoadGrudges
+[13:37:17:229]- LoadEvents
+[13:37:17:230]- LoadFinances
+[13:37:17:230]- LoadMinisters
+[13:37:17:232]- LoadElection
+[13:37:17:236]- LoadPolls
+[13:37:17:236]- LoadPressureGroups
+[13:37:17:237]- LoadSimulation
+[13:37:17:237]- LoadGlobalEconomy
+[13:37:17:237]- LoadGameplay
+[13:37:17:237]- LoadEffects
+[13:37:17:309]- LoadIssues
+[13:37:17:309]- LoadChangelog
+[13:37:17:311]- LoadCompassProgress
+[13:37:17:311]- LoadStats
+[13:37:17:315]- LoadManifestos
+[13:37:17:315]- LoadFundraising
+[13:37:17:315]- LoadPerceptions
+[13:37:17:315]- Finishing Load
+[13:37:17:600]- Debug::Autoload complete
+[13:37:17:600]- Thread finish detected by loading screen
+[13:37:17:600]- Setting loading screen ready
+[13:37:17:600]- Debug::MultithreadNextTurn complete
+[13:37:17:600]- Thread finish detected by loading screen
+[13:37:17:600]- Setting loading screen ready
+[13:37:50:636]- Debug::MultithreadNextTurn Start
+[13:37:50:636]- Debug::Loading Screen Initialised
+[13:37:50:636]- Debug::IssueManager initialising
+[13:37:50:636]- Debug::Ministers next turn...
+[13:37:50:636]- Debug::eventmanager next turn...
+[13:37:50:636]- Debug::Pressure Groups next turn...
+[13:37:50:637]- Debug::policy manager next turn...
+[13:37:50:637]- Debug::global economy next turn...
+[13:37:50:637]- Debug::situations manager next turn...
+[13:37:50:637]- Debug::finance manager next turn...
+[13:37:50:637]- Debug::neural processing begins...
+[13:37:50:741]- Debug::neural processing complete
+[13:37:50:741]- Debug::dilemma next turn...
+[13:37:50:741]- Debug::party manager next turn...
+[13:37:50:742]- Debug::voter manager next turn...
+[13:37:51:438]- Debug::polls manager next turn...
+[13:37:51:438]- Debug::grudge manager next turn...
+[13:37:51:439]- Debug::finance manager next turn...
+[13:37:51:439]- 
+
+**CALCULATING SIM FINANCE
+[13:37:51:439]- Debug::simulation processed
+[13:37:51:439]- Debug::Political capital processed
+[13:37:51:439]- Debug::Elections processed
+[13:37:51:439]- Debug::Autobal processed
+[13:37:51:439]- Debug::Achievements checked
+[13:37:51:440]- Debug::Compass progress checked
+[13:37:51:440]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:37:51:606]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:37:51:618]- Debug::Autosave complete
+[13:37:51:620]- Debug::ProcessGameLoad
+[13:37:51:620]- Debug::Releasing gameplay...
+[13:37:51:753]- Debug::preloading gameplay...
+[13:37:51:763]- Debug:Policy Group Initialise...
+[13:37:51:764]- Debug:Event Manager Initialise...
+[13:37:51:795]- Debug:Policy Manager Initialise...
+[13:37:51:808]- Debug:Sim Value Initialise...
+[13:37:51:812]- Debug:Situation Manager Initialise...
+[13:37:51:817]- Debug:Ministers PreLoad...
+[13:37:51:817]- Debug:GrudgeManager Initialise..
+[13:37:51:817]- Debug:Dilemma Manager ResolveConnections...
+[13:37:51:817]- Debug:Policy Manager ResolveConnections...
+[13:37:51:843]- Debug:Event Manager ResolveConnections...
+[13:37:51:849]- Debug:Sim Value ResolveConnections...
+[13:37:51:857]- Debug:Situations ResolveConnections...
+[13:37:51:872]- Debug:Simulation pre-load completed
+[13:37:51:872]- Debug::LoadingGameData
+[13:37:51:872]- LoadMission
+[13:37:51:873]- LoadHashes
+[13:37:51:873]- LoadParties
+[13:37:51:874]- LoadVoters
+[13:37:52:901]- LoadPolicies
+[13:37:52:916]- LoadSituations
+[13:37:52:919]- LoadDilemmas
+[13:37:52:966]- LoadSimValues
+[13:37:52:968]- LoadVoterTypes
+[13:37:53:18]- LoadGrudges
+[13:37:53:19]- LoadEvents
+[13:37:53:19]- LoadFinances
+[13:37:53:20]- LoadMinisters
+[13:37:53:22]- LoadElection
+[13:37:53:26]- LoadPolls
+[13:37:53:26]- LoadPressureGroups
+[13:37:53:26]- LoadSimulation
+[13:37:53:27]- LoadGlobalEconomy
+[13:37:53:27]- LoadGameplay
+[13:37:53:27]- LoadEffects
+[13:37:53:100]- LoadIssues
+[13:37:53:100]- LoadChangelog
+[13:37:53:101]- LoadCompassProgress
+[13:37:53:101]- LoadStats
+[13:37:53:104]- LoadManifestos
+[13:37:53:104]- LoadFundraising
+[13:37:53:105]- LoadPerceptions
+[13:37:53:105]- Finishing Load
+[13:37:53:391]- Debug::Autoload complete
+[13:37:53:391]- Thread finish detected by loading screen
+[13:37:53:391]- Setting loading screen ready
+[13:37:53:391]- Debug::MultithreadNextTurn complete
+[13:37:53:391]- Thread finish detected by loading screen
+[13:37:53:391]- Setting loading screen ready
+[13:38:3:761]- OUTCOME_REELECTED detected
+[13:39:8:700]- CTD DEBUG: Setting volume via irrklang...:..\..\..\src\GUI_Sounds.cpp 270
+
+[13:39:8:700]- CTD DEBUG: ...set volume success:..\..\..\src\GUI_Sounds.cpp 272
+
+[13:40:41:388]- 
+
+**CALCULATING SIM FINANCE
+[13:40:52:878]- 
+
+**CALCULATING SIM FINANCE
+[13:41:3:330]- Debug::MultithreadNextTurn Start
+[13:41:3:330]- Debug::Loading Screen Initialised
+[13:41:3:330]- Debug::IssueManager initialising
+[13:41:3:330]- Debug::Ministers next turn...
+[13:41:3:330]- Debug::eventmanager next turn...
+[13:41:3:331]- Debug::Pressure Groups next turn...
+[13:41:3:332]- Debug::policy manager next turn...
+[13:41:3:332]- Debug::global economy next turn...
+[13:41:3:332]- Debug::situations manager next turn...
+[13:41:3:332]- Debug::finance manager next turn...
+[13:41:3:332]- Debug::neural processing begins...
+[13:41:3:432]- Debug::neural processing complete
+[13:41:3:432]- Debug::dilemma next turn...
+[13:41:3:432]- Debug::party manager next turn...
+[13:41:3:432]- Debug::voter manager next turn...
+[13:41:4:120]- Debug::polls manager next turn...
+[13:41:4:120]- Debug::grudge manager next turn...
+[13:41:4:120]- Debug::finance manager next turn...
+[13:41:4:120]- 
+
+**CALCULATING SIM FINANCE
+[13:41:4:120]- Debug::simulation processed
+[13:41:4:120]- Debug::Political capital processed
+[13:41:4:120]- Debug::Elections processed
+[13:41:4:120]- Debug::Autobal processed
+[13:41:4:121]- Debug::Achievements checked
+[13:41:4:121]- Debug::Compass progress checked
+[13:41:4:122]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:41:4:287]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:41:4:299]- Debug::Autosave complete
+[13:41:4:301]- Debug::ProcessGameLoad
+[13:41:4:301]- Debug::Releasing gameplay...
+[13:41:4:432]- Debug::preloading gameplay...
+[13:41:4:444]- Debug:Policy Group Initialise...
+[13:41:4:445]- Debug:Event Manager Initialise...
+[13:41:4:476]- Debug:Policy Manager Initialise...
+[13:41:4:492]- Debug:Sim Value Initialise...
+[13:41:4:495]- Debug:Situation Manager Initialise...
+[13:41:4:499]- Debug:Ministers PreLoad...
+[13:41:4:499]- Debug:GrudgeManager Initialise..
+[13:41:4:499]- Debug:Dilemma Manager ResolveConnections...
+[13:41:4:499]- Debug:Policy Manager ResolveConnections...
+[13:41:4:527]- Debug:Event Manager ResolveConnections...
+[13:41:4:532]- Debug:Sim Value ResolveConnections...
+[13:41:4:541]- Debug:Situations ResolveConnections...
+[13:41:4:556]- Debug:Simulation pre-load completed
+[13:41:4:556]- Debug::LoadingGameData
+[13:41:4:556]- LoadMission
+[13:41:4:557]- LoadHashes
+[13:41:4:558]- LoadParties
+[13:41:4:558]- LoadVoters
+[13:41:5:600]- LoadPolicies
+[13:41:5:614]- LoadSituations
+[13:41:5:616]- LoadDilemmas
+[13:41:5:664]- LoadSimValues
+[13:41:5:666]- LoadVoterTypes
+[13:41:5:716]- LoadGrudges
+[13:41:5:718]- LoadEvents
+[13:41:5:719]- LoadFinances
+[13:41:5:719]- LoadMinisters
+[13:41:5:722]- LoadElection
+[13:41:5:726]- LoadPolls
+[13:41:5:726]- LoadPressureGroups
+[13:41:5:726]- LoadSimulation
+[13:41:5:727]- LoadGlobalEconomy
+[13:41:5:727]- LoadGameplay
+[13:41:5:727]- LoadEffects
+[13:41:5:799]- LoadIssues
+[13:41:5:799]- LoadChangelog
+[13:41:5:801]- LoadCompassProgress
+[13:41:5:801]- LoadStats
+[13:41:5:805]- LoadManifestos
+[13:41:5:805]- LoadFundraising
+[13:41:5:805]- LoadPerceptions
+[13:41:5:805]- Finishing Load
+[13:41:6:91]- Debug::Autoload complete
+[13:41:6:91]- Thread finish detected by loading screen
+[13:41:6:91]- Setting loading screen ready
+[13:41:6:91]- Debug::MultithreadNextTurn complete
+[13:41:6:91]- Thread finish detected by loading screen
+[13:41:6:91]- Setting loading screen ready
+[13:41:9:105]- CTD DEBUG: Setting volume via irrklang...:..\..\..\src\GUI_Sounds.cpp 270
+
+[13:41:9:105]- CTD DEBUG: ...set volume success:..\..\..\src\GUI_Sounds.cpp 272
+
+[13:42:11:721]- Debug::MultithreadNextTurn Start
+[13:42:11:721]- Debug::Loading Screen Initialised
+[13:42:11:721]- Debug::IssueManager initialising
+[13:42:11:721]- Debug::Ministers next turn...
+[13:42:11:721]- Debug::eventmanager next turn...
+[13:42:11:721]- Debug::Pressure Groups next turn...
+[13:42:11:722]- Debug::policy manager next turn...
+[13:42:11:722]- Debug::global economy next turn...
+[13:42:11:722]- Debug::situations manager next turn...
+[13:42:11:722]- Debug::finance manager next turn...
+[13:42:11:722]- Debug::neural processing begins...
+[13:42:11:825]- Debug::neural processing complete
+[13:42:11:825]- Debug::dilemma next turn...
+[13:42:11:825]- Debug::party manager next turn...
+[13:42:11:825]- Debug::voter manager next turn...
+[13:42:12:515]- Debug::polls manager next turn...
+[13:42:12:515]- Debug::grudge manager next turn...
+[13:42:12:516]- Debug::finance manager next turn...
+[13:42:12:516]- 
+
+**CALCULATING SIM FINANCE
+[13:42:12:516]- Debug::simulation processed
+[13:42:12:516]- Debug::Political capital processed
+[13:42:12:516]- Debug::Elections processed
+[13:42:12:516]- Debug::Autobal processed
+[13:42:12:517]- Debug::Achievements checked
+[13:42:12:517]- Debug::Compass progress checked
+[13:42:12:517]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:42:12:681]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:42:12:694]- Debug::Autosave complete
+[13:42:12:696]- Debug::ProcessGameLoad
+[13:42:12:696]- Debug::Releasing gameplay...
+[13:42:12:831]- Debug::preloading gameplay...
+[13:42:12:844]- Debug:Policy Group Initialise...
+[13:42:12:844]- Debug:Event Manager Initialise...
+[13:42:12:874]- Debug:Policy Manager Initialise...
+[13:42:12:887]- Debug:Sim Value Initialise...
+[13:42:12:891]- Debug:Situation Manager Initialise...
+[13:42:12:896]- Debug:Ministers PreLoad...
+[13:42:12:896]- Debug:GrudgeManager Initialise..
+[13:42:12:896]- Debug:Dilemma Manager ResolveConnections...
+[13:42:12:896]- Debug:Policy Manager ResolveConnections...
+[13:42:12:923]- Debug:Event Manager ResolveConnections...
+[13:42:12:928]- Debug:Sim Value ResolveConnections...
+[13:42:12:937]- Debug:Situations ResolveConnections...
+[13:42:12:951]- Debug:Simulation pre-load completed
+[13:42:12:951]- Debug::LoadingGameData
+[13:42:12:952]- LoadMission
+[13:42:12:953]- LoadHashes
+[13:42:12:953]- LoadParties
+[13:42:12:953]- LoadVoters
+[13:42:13:992]- LoadPolicies
+[13:42:14:7]- LoadSituations
+[13:42:14:9]- LoadDilemmas
+[13:42:14:57]- LoadSimValues
+[13:42:14:60]- LoadVoterTypes
+[13:42:14:110]- LoadGrudges
+[13:42:14:112]- LoadEvents
+[13:42:14:113]- LoadFinances
+[13:42:14:113]- LoadMinisters
+[13:42:14:116]- LoadElection
+[13:42:14:119]- LoadPolls
+[13:42:14:120]- LoadPressureGroups
+[13:42:14:120]- LoadSimulation
+[13:42:14:120]- LoadGlobalEconomy
+[13:42:14:120]- LoadGameplay
+[13:42:14:120]- LoadEffects
+[13:42:14:194]- LoadIssues
+[13:42:14:194]- LoadChangelog
+[13:42:14:197]- LoadCompassProgress
+[13:42:14:197]- LoadStats
+[13:42:14:200]- LoadManifestos
+[13:42:14:201]- LoadFundraising
+[13:42:14:201]- LoadPerceptions
+[13:42:14:201]- Finishing Load
+[13:42:14:491]- Debug::Autoload complete
+[13:42:14:491]- Thread finish detected by loading screen
+[13:42:14:491]- Setting loading screen ready
+[13:42:14:491]- Debug::MultithreadNextTurn complete
+[13:42:14:491]- Thread finish detected by loading screen
+[13:42:14:491]- Setting loading screen ready
+[13:42:17:513]- CTD DEBUG: Setting volume via irrklang...:..\..\..\src\GUI_Sounds.cpp 270
+
+[13:42:17:513]- CTD DEBUG: ...set volume success:..\..\..\src\GUI_Sounds.cpp 272
+
+[13:43:24:393]- Debug::MultithreadNextTurn Start
+[13:43:24:394]- Debug::Loading Screen Initialised
+[13:43:24:394]- Debug::IssueManager initialising
+[13:43:24:394]- Debug::Ministers next turn...
+[13:43:24:395]- Debug::eventmanager next turn...
+[13:43:24:395]- Debug::Pressure Groups next turn...
+[13:43:24:395]- Debug::policy manager next turn...
+[13:43:24:395]- Debug::global economy next turn...
+[13:43:24:395]- Debug::situations manager next turn...
+[13:43:24:395]- Debug::finance manager next turn...
+[13:43:24:395]- Debug::neural processing begins...
+[13:43:24:501]- Debug::neural processing complete
+[13:43:24:501]- Debug::dilemma next turn...
+[13:43:24:501]- Debug::party manager next turn...
+[13:43:24:501]- Debug::voter manager next turn...
+[13:43:25:206]- Debug::polls manager next turn...
+[13:43:25:206]- Debug::grudge manager next turn...
+[13:43:25:207]- Debug::finance manager next turn...
+[13:43:25:207]- 
+
+**CALCULATING SIM FINANCE
+[13:43:25:207]- Debug::simulation processed
+[13:43:25:207]- Debug::Political capital processed
+[13:43:25:207]- Debug::Elections processed
+[13:43:25:207]- Debug::Autobal processed
+[13:43:25:207]- Debug::Achievements checked
+[13:43:25:207]- Debug::Compass progress checked
+[13:43:25:208]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:43:25:374]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:43:25:388]- Debug::Autosave complete
+[13:43:25:390]- Debug::ProcessGameLoad
+[13:43:25:390]- Debug::Releasing gameplay...
+[13:43:25:523]- Debug::preloading gameplay...
+[13:43:25:533]- Debug:Policy Group Initialise...
+[13:43:25:534]- Debug:Event Manager Initialise...
+[13:43:25:565]- Debug:Policy Manager Initialise...
+[13:43:25:579]- Debug:Sim Value Initialise...
+[13:43:25:583]- Debug:Situation Manager Initialise...
+[13:43:25:588]- Debug:Ministers PreLoad...
+[13:43:25:588]- Debug:GrudgeManager Initialise..
+[13:43:25:588]- Debug:Dilemma Manager ResolveConnections...
+[13:43:25:588]- Debug:Policy Manager ResolveConnections...
+[13:43:25:615]- Debug:Event Manager ResolveConnections...
+[13:43:25:620]- Debug:Sim Value ResolveConnections...
+[13:43:25:629]- Debug:Situations ResolveConnections...
+[13:43:25:644]- Debug:Simulation pre-load completed
+[13:43:25:644]- Debug::LoadingGameData
+[13:43:25:644]- LoadMission
+[13:43:25:645]- LoadHashes
+[13:43:25:646]- LoadParties
+[13:43:25:646]- LoadVoters
+[13:43:26:694]- LoadPolicies
+[13:43:26:709]- LoadSituations
+[13:43:26:712]- LoadDilemmas
+[13:43:26:757]- LoadSimValues
+[13:43:26:759]- LoadVoterTypes
+[13:43:26:810]- LoadGrudges
+[13:43:26:811]- LoadEvents
+[13:43:26:811]- LoadFinances
+[13:43:26:811]- LoadMinisters
+[13:43:26:814]- LoadElection
+[13:43:26:818]- LoadPolls
+[13:43:26:818]- LoadPressureGroups
+[13:43:26:818]- LoadSimulation
+[13:43:26:819]- LoadGlobalEconomy
+[13:43:26:819]- LoadGameplay
+[13:43:26:819]- LoadEffects
+[13:43:26:891]- LoadIssues
+[13:43:26:891]- LoadChangelog
+[13:43:26:893]- LoadCompassProgress
+[13:43:26:893]- LoadStats
+[13:43:26:897]- LoadManifestos
+[13:43:26:897]- LoadFundraising
+[13:43:26:897]- LoadPerceptions
+[13:43:26:897]- Finishing Load
+[13:43:27:189]- Debug::Autoload complete
+[13:43:27:190]- Thread finish detected by loading screen
+[13:43:27:190]- Setting loading screen ready
+[13:43:27:190]- Debug::MultithreadNextTurn complete
+[13:43:27:190]- Thread finish detected by loading screen
+[13:43:27:190]- Setting loading screen ready
+[13:44:5:370]- 
+
+**CALCULATING SIM FINANCE
+[13:44:24:3]- Debug::MultithreadNextTurn Start
+[13:44:24:3]- Debug::Loading Screen Initialised
+[13:44:24:3]- Debug::IssueManager initialising
+[13:44:24:3]- Debug::Ministers next turn...
+[13:44:24:4]- Debug::eventmanager next turn...
+[13:44:24:4]- Debug::Pressure Groups next turn...
+[13:44:24:5]- Debug::policy manager next turn...
+[13:44:24:5]- Debug::global economy next turn...
+[13:44:24:5]- Debug::situations manager next turn...
+[13:44:24:5]- Debug::finance manager next turn...
+[13:44:24:5]- Debug::neural processing begins...
+[13:44:24:107]- Debug::neural processing complete
+[13:44:24:107]- Debug::dilemma next turn...
+[13:44:24:108]- Debug::party manager next turn...
+[13:44:24:108]- Debug::voter manager next turn...
+[13:44:24:796]- Debug::polls manager next turn...
+[13:44:24:797]- Debug::grudge manager next turn...
+[13:44:24:797]- Debug::finance manager next turn...
+[13:44:24:797]- 
+
+**CALCULATING SIM FINANCE
+[13:44:24:797]- Debug::simulation processed
+[13:44:24:798]- Debug::Political capital processed
+[13:44:24:798]- Debug::Elections processed
+[13:44:24:798]- Debug::Autobal processed
+[13:44:24:798]- Debug::Achievements checked
+[13:44:24:798]- Debug::Compass progress checked
+[13:44:24:799]- Save file buffer set:..\..\..\src\SIM_SaveGame.cpp 107
+
+[13:44:24:966]- Save file writing complete:..\..\..\src\SIM_SaveGame.cpp 140
+
+[13:44:24:979]- Debug::Autosave complete
+[13:44:24:981]- Debug::ProcessGameLoad
+[13:44:24:981]- Debug::Releasing gameplay...
+[13:44:25:113]- Debug::preloading gameplay...
+[13:44:25:124]- Debug:Policy Group Initialise...
+[13:44:25:125]- Debug:Event Manager Initialise...
+[13:44:25:156]- Debug:Policy Manager Initialise...
+[13:44:25:170]- Debug:Sim Value Initialise...
+[13:44:25:173]- Debug:Situation Manager Initialise...
+[13:44:25:179]- Debug:Ministers PreLoad...
+[13:44:25:179]- Debug:GrudgeManager Initialise..
+[13:44:25:179]- Debug:Dilemma Manager ResolveConnections...
+[13:44:25:179]- Debug:Policy Manager ResolveConnections...
+[13:44:25:205]- Debug:Event Manager ResolveConnections...
+[13:44:25:210]- Debug:Sim Value ResolveConnections...
+[13:44:25:219]- Debug:Situations ResolveConnections...
+[13:44:25:234]- Debug:Simulation pre-load completed
+[13:44:25:234]- Debug::LoadingGameData
+[13:44:25:234]- LoadMission
+[13:44:25:236]- LoadHashes
+[13:44:25:236]- LoadParties
+[13:44:25:236]- LoadVoters
+[13:44:26:271]- LoadPolicies
+[13:44:26:286]- LoadSituations
+[13:44:26:288]- LoadDilemmas
+[13:44:26:335]- LoadSimValues
+[13:44:26:337]- LoadVoterTypes
+[13:44:26:386]- LoadGrudges
+[13:44:26:389]- LoadEvents
+[13:44:26:389]- LoadFinances
+[13:44:26:389]- LoadMinisters
+[13:44:26:392]- LoadElection
+[13:44:26:397]- LoadPolls
+[13:44:26:397]- LoadPressureGroups
+[13:44:26:397]- LoadSimulation
+[13:44:26:398]- LoadGlobalEconomy
+[13:44:26:398]- LoadGameplay
+[13:44:26:398]- LoadEffects
+[13:44:26:470]- LoadIssues
+[13:44:26:471]- LoadChangelog
+[13:44:26:473]- LoadCompassProgress
+[13:44:26:473]- LoadStats
+[13:44:26:475]- LoadManifestos
+[13:44:26:475]- LoadFundraising
+[13:44:26:475]- LoadPerceptions
+[13:44:26:475]- Finishing Load
+[13:44:26:758]- Debug::Autoload complete
+[13:44:26:758]- Thread finish detected by loading screen
+[13:44:26:758]- Setting loading screen ready
+[13:44:26:758]- Debug::MultithreadNextTurn complete
+[13:44:26:759]- Thread finish detected by loading screen
+[13:44:26:759]- Setting loading screen ready
+[13:44:44:373]- releasing D3D engine
+[13:44:44:401]- D3D released
+[13:44:44:446]- releasing D3D engine
+[13:44:44:446]- D3D released

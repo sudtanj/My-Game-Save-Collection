@@ -1,0 +1,889 @@
+Initialising 3D Engine in fullscreen mode
+Driver : nvldumd.dll
+Description : NVIDIA GeForce GTX 650
+DeviceName : \\.\DISPLAY1
+Checking For Shader Support
+NumSimultaneousRTs:4
+hal_caps.PixelShaderVersion >= D3DPS_VERSION(2, 0)
+About to Create 3D Device with width: 1366 and height : 768
+Attempting hardware Vertex Processing
+Finished initialising 3D Engine
+Initialising Render target of 512 X 256 rt_minister_compositor
+rt_minister_compositor
+Creating shader from file:[data/shaders/dissolve.fx]
+Creating shader from file:[data/shaders/locked_achievement.fx]
+Creating shader from file:[data/shaders/ministercacher.fx]
+Creating shader from file:[data/shaders/unselected_soundbite.fx]
+window_background.dds
+19px_highlight.dds
+19px_grey.dds
+ui_general_textbutton.dds
+Initialising Render target of 2048 X 1024 rt_transition
+rt_transition
+Initialising Render target of 2048 X 1024 rt_iconcache
+rt_iconcache
+spark_red.dds
+spark2.dds
+spark.dds
+Dynamic texture initialisation: 2048 X 1024 vt_cairo0
+vt_cairo0
+Positech-Logo2013_1024.jpg
+circular_wipe.dds
+mainmenu_atlas.dds
+mainmenu_spacer.dds
+dlc_socialengineering.dds
+dlc_extremism.dds
+dlc_clones.dds
+dlc_electioneering.dds
+ui_mainmenu_backdrop.jpg
+ui_atlas1.dds
+ui_scrollbar.dds
+ui_scrollbar_slider.dds
+ui_scroll_left.dds
+ui_scroll_left_h.dds
+australia_details.jpg
+canada_details.jpg
+france_details.jpg
+germany_details.jpg
+uk_details.jpg
+usa_details.jpg
+ui_policy_slider.dds
+gui_square.dds
+gui_checkbox_fill.dds
+cityscape.jpg
+loading_gear.dds
+f_hairback_5.dds
+f_jacket_10.dds
+f_skin_10.dds
+f_shirt_10.dds
+f_tie_10.dds
+f_face_6.dds
+f_whites_6.dds
+f_eyes_6.dds
+f_hair_5.dds
+Initialising Render target of 256 X 256 117866.dds
+117866.dds
+f_hairback_1.dds
+f_jacket_2.dds
+f_skin_2.dds
+f_shirt_2.dds
+f_face_2.dds
+f_whites_2.dds
+f_eyes_2.dds
+f_hair_1.dds
+Initialising Render target of 256 X 256 423551.dds
+423551.dds
+f_hairback_2.dds
+f_jacket_8.dds
+f_skin_8.dds
+f_shirt_8.dds
+f_tie_8.dds
+f_face_1.dds
+f_whites_1.dds
+f_eyes_1.dds
+f_hair_2.dds
+Initialising Render target of 256 X 256 102716.dds
+102716.dds
+m_jacket_15.dds
+m_skin_15.dds
+m_shirt_15.dds
+m_tie_15.dds
+m_face_19.dds
+m_whites_19.dds
+m_eyes_19.dds
+m_hair_1.dds
+Initialising Render target of 256 X 256 557106.dds
+557106.dds
+m_jacket_17.dds
+m_skin_17.dds
+m_shirt_17.dds
+m_tie_17.dds
+m_face_10.dds
+m_whites_10.dds
+m_eyes_10.dds
+m_hair_8.dds
+m_glasses_7.dds
+Initialising Render target of 256 X 256 931831.dds
+931831.dds
+m_face_12.dds
+m_whites_12.dds
+m_eyes_12.dds
+m_hair_10.dds
+Initialising Render target of 256 X 256 669837.dds
+669837.dds
+f_hairback_6.dds
+f_jacket_1.dds
+f_skin_1.dds
+f_shirt_1.dds
+f_tie_1.dds
+f_face_4.dds
+f_whites_4.dds
+f_eyes_4.dds
+f_hair_6.dds
+f_glasses_3.dds
+Initialising Render target of 256 X 256 722262.dds
+722262.dds
+f_hairback_7.dds
+f_jacket_3.dds
+f_skin_3.dds
+f_shirt_3.dds
+f_face_8.dds
+f_whites_8.dds
+f_eyes_8.dds
+f_hair_7.dds
+f_glasses_2.dds
+Initialising Render target of 256 X 256 104042.dds
+104042.dds
+m_jacket_9.dds
+m_skin_9.dds
+m_shirt_9.dds
+m_tie_9.dds
+m_hair_5.dds
+Initialising Render target of 256 X 256 037486.dds
+037486.dds
+f_hairback_4.dds
+f_hair_4.dds
+Initialising Render target of 256 X 256 020924.dds
+020924.dds
+m_jacket_3.dds
+m_skin_3.dds
+m_shirt_3.dds
+m_tie_3.dds
+m_face_3.dds
+m_whites_3.dds
+m_eyes_3.dds
+m_hair_15.dds
+Initialising Render target of 256 X 256 220812.dds
+220812.dds
+f_jacket_6.dds
+f_skin_6.dds
+f_shirt_6.dds
+Initialising Render target of 256 X 256 408506.dds
+408506.dds
+m_jacket_20.dds
+m_skin_20.dds
+m_shirt_20.dds
+m_tie_20.dds
+m_face_2.dds
+m_whites_2.dds
+m_eyes_2.dds
+m_glasses_5.dds
+Initialising Render target of 256 X 256 093556.dds
+093556.dds
+m_jacket_10.dds
+m_skin_10.dds
+m_shirt_10.dds
+m_tie_10.dds
+m_face_15.dds
+m_whites_15.dds
+m_eyes_15.dds
+m_hair_2.dds
+Initialising Render target of 256 X 256 223145.dds
+223145.dds
+f_jacket_9.dds
+f_skin_9.dds
+f_shirt_9.dds
+f_glasses_5.dds
+Initialising Render target of 256 X 256 801568.dds
+801568.dds
+m_face_8.dds
+m_whites_8.dds
+m_eyes_8.dds
+Initialising Render target of 256 X 256 716700.dds
+716700.dds
+m_jacket_12.dds
+m_skin_12.dds
+m_shirt_12.dds
+m_tie_12.dds
+m_glasses_4.dds
+Initialising Render target of 256 X 256 643737.dds
+643737.dds
+f_hairback_8.dds
+f_face_10.dds
+f_whites_10.dds
+f_eyes_10.dds
+f_hair_8.dds
+Initialising Render target of 256 X 256 117549.dds
+117549.dds
+m_jacket_1.dds
+m_skin_1.dds
+m_shirt_1.dds
+m_tie_1.dds
+m_face_9.dds
+m_whites_9.dds
+m_eyes_9.dds
+m_glasses_1.dds
+Initialising Render target of 256 X 256 656293.dds
+656293.dds
+m_face_5.dds
+m_whites_5.dds
+m_eyes_5.dds
+m_hair_13.dds
+Initialising Render target of 256 X 256 882325.dds
+882325.dds
+ui_topstrip_bg.dds
+ui_topstrip_rightmost.dds
+ui_topstrip_spacer.bmp
+ui_icon_base.dds
+circ_highlight.dds
+gui_arrow.dds
+tile_foreignpolicy.bmp
+icons_bordercontrols.dds
+icons_militaryspending.dds
+icons_foreignaid.dds
+icons_immigration.dds
+icons_racialtension.dds
+icons_foreignrelations.dds
+icons_internationaltrade.dds
+tile_welfare.bmp
+sit_icons_homelessness.dds
+icons_unemployedbenefit.dds
+icons_statepensions.dds
+icons_childbenefit.dds
+icons_disabilitybenefit.dds
+icons_povertyrate.dds
+icons_equality.dds
+icons_privatehousing.dds
+icons_privatepensions.dds
+icons_tobaccotax.dds
+icons_alcohollaw.dds
+icons_legaldrugconsumption.dds
+tile_economy.bmp
+sit_icons_uncompetitiveeconomy.dds
+icons_labourlaws.dds
+icons_pollutioncontrols.dds
+icons_cleanenergysubsidies.dds
+icons_recycling.dds
+icons_technologygrants.dds
+icons_agriculturesubsidies.dds
+icons_organicsubsidy.dds
+icons_maternityleave.dds
+icons_bansundayshopping.dds
+icons_workingweek.dds
+icons_Technology.dds
+icons_workerproductivity.dds
+icons_unemployment.dds
+icons_co2.dds
+icons_energyefficiency.dds
+icons_lowincome.dds
+icons_middleincome.dds
+icons_highincome.dds
+icons_gdp.dds
+icons_tourism.dds
+icons_wages.dds
+icons_currency.dds
+tile_tax.bmp
+icons_corporationtax.dds
+icons_salestax.dds
+icons_petroltax.dds
+icons_propertytax.dds
+icons_inheritancetax.dds
+icons_alcoholtax.dds
+icons_incometax.dds
+icons_airlinetax.dds
+icons_microgenerationgrants.dds
+tile_publicservices.bmp
+sit_icons_doctorsstrike.dds
+sit_icons_obesity.dds
+icons_creationism.dds
+icons_sciencefunding.dds
+icons_abortionlaw.dds
+icons_statehealthservice.dds
+icons_stateschools.dds
+icons_technologycolleges.dds
+icons_universitygrants.dds
+icons_health.dds
+icons_education.dds
+icons_environment.dds
+icons_privatehealth.dds
+icons_privateschools.dds
+tile_lawandorder.bmp
+sit_icons_alcoholism.dds
+sit_icons_innercityriots.dds
+sit_icons_streetgangs.dds
+sit_icons_internetcrime.dds
+sit_icons_vigilantemobs.dds
+sit_icons_ghettos.dds
+icons_handgunlaws.dds
+icons_intelligenceservices.dds
+icons_narcotics.dds
+icons_policeforce.dds
+icons_prisons.dds
+icons_racediscriminationact.dds
+icons_jurytrial.dds
+icons_legalaid.dds
+icons_idcards.dds
+icons_legaliseprostitution.dds
+icons_communitypolicing.dds
+icons_crimerate.dds
+icons_violentcrimerate.dds
+tile_transport.bmp
+icons_roadbuilding.dds
+icons_railsubsidies.dds
+icons_caremmissionslimits.dds
+icons_carusage.dds
+icons_railusage.dds
+icons_bususage.dds
+icons_airtravel.dds
+icons_oildemand.dds
+icons_oilsupply.dds
+icons_oilprice.dds
+icons_trafficcongestion.dds
+flag_germany.jpg
+ui_effect_bar_bg.dds
+ui_effect_bar.dds
+effect_icon_income.dds
+effect_icon_membership.dds
+graph.dds
+slider_bar.dds
+divider.bmp
+ui_large_progbar_bg.dds
+ui_large_progbar.dds
+ui_policy_apply_button.dds
+ui_policy_apply_button_h.dds
+ui_policy_cancel_button.dds
+ui_policy_cancel_button_h.dds
+ui_policy_revert_button.dds
+ui_policy_revert_button_h.dds
+icons_citizenshiptests.dds
+icons_importtarrifs.dds
+icons_nationalservice.dds
+icons_carbontax.dds
+icons_cartax.dds
+icons_graduatetax.dds
+icons_hybridcarsinitiative.dds
+icons_flattax.dds
+icons_capitalgainstax.dds
+icons_internettax.dds
+icons_luxurygoodstax.dds
+icons_marriedtaxallowance.dds
+icons_mortgagetaxrelief.dds
+icons_plasticbagtax.dds
+icons_mansiontax.dds
+icons_junkfoodtax.dds
+icons_healthfoodsubsidies.dds
+icons_healthtaxcredits.dds
+icons_schooltaxcredits.dds
+icons_enterpriseinvestmentscheme.dds
+icons_recreationaldrugstax.dds
+icons_armedpolice.dds
+icons_cctvcameras.dds
+icons_curfews.dds
+icons_deathpenalty.dds
+icons_detentionwithouttrial.dds
+icons_gambling.dds
+icons_gatedcommunities.dds
+icons_internetcensorship.dds
+icons_phonetapping.dds
+icons_prisonertagging.dds
+icons_racialprofiling.dds
+icons_speedcameras.dds
+icons_privateprisons.dds
+icons_tasers.dds
+icons_policedrones.dds
+icons_consumerrights.dds
+icons_ruraldevelopmentgrants.dds
+icons_smallbusinessgrants.dds
+icons_spaceprogram.dds
+icons_taxshelters.dds
+icons_worksafetylaw.dds
+icons_oildrillingsubsidy.dds
+icons_foreigninvestortaxbreaks.dds
+icons_roboticsresearch.dds
+icons_adulteducationsubsidies.dds
+icons_faithschoolsubsidies.dds
+icons_freeeyetests.dds
+icons_freeschoolmeals.dds
+icons_organdonation.dds
+icons_publiclibraries.dds
+icons_schoolprayers.dds
+icons_stemcells.dds
+icons_youthclubsubsidies.dds
+icons_schoolvouchers.dds
+icons_artssubsidies.dds
+icons_healthcarevouchers.dds
+icons_foodstandards.dds
+Dynamic texture initialisation: 2048 X 1024 vt_cairo1
+vt_cairo1
+newturn_event.jpg
+newturn_economy.jpg
+newturn_budget.jpg
+newturn_polls.jpg
+newturn_cabinet.jpg
+event_stockmarket.jpg
+money_pie.dds
+chartkey.dds
+icons_childcareprovision.dds
+icons_statehousing.dds
+icons_welfarefrauddept.dds
+icons_winterfuelsubsidy.dds
+icons_rentcontrols.dds
+icons_foodstamps.dds
+newturn_security.jpg
+event_airplane.jpg
+effect_icon_event.dds
+newturn_dilemma.jpg
+newturn_vote.jpg
+icons_biofuelsubsidies.dds
+icons_buslanes.dds
+icons_bussubsidies.dds
+icons_cleanfuelsubsidy.dds
+icons_freebuspasses.dds
+icons_monorail.dds
+icons_sateliteroadpricing.dds
+icons_schoolbuses.dds
+icons_telecommutinginitiative.dds
+icons_tollroads.dds
+icons_fuelefficiency.dds
+sit_icons_technologicaladvantage.dds
+sit_icons_highproductivity.dds
+sit_icons_organisedcrime.dds
+event_skyscrapers.jpg
+sit_icons_asthmaepidemic.dds
+sit_icons_gridlock.dds
+event_operation.jpg
+election_results_bar.bmp
+arrow_white.dds
+arrow_both.dds
+ui_popup_event.dds
+sit_icons_hospitalovercrowding.dds
+minister_unknown.jpg
+f_face_9.dds
+f_whites_9.dds
+f_eyes_9.dds
+Initialising Render target of 256 X 256 781264.dds
+781264.dds
+m_jacket_4.dds
+m_skin_4.dds
+m_shirt_4.dds
+m_tie_4.dds
+m_face_11.dds
+m_whites_11.dds
+m_eyes_11.dds
+m_hair_4.dds
+Initialising Render target of 256 X 256 640707.dds
+640707.dds
+Deleting texture: vt_cairo1
+Deleting texture: vt_cairo0
+Deleting texture: rt_minister_compositor
+Deleting texture: window_background.dds
+Deleting texture: 19px_highlight.dds
+Deleting texture: 19px_grey.dds
+Deleting texture: ui_general_textbutton.dds
+Deleting texture: rt_transition
+Deleting texture: rt_iconcache
+Deleting texture: spark_red.dds
+Deleting texture: spark2.dds
+Deleting texture: spark.dds
+Deleting texture: Positech-Logo2013_1024.jpg
+Deleting texture: circular_wipe.dds
+Deleting texture: mainmenu_atlas.dds
+Deleting texture: mainmenu_spacer.dds
+Deleting texture: dlc_socialengineering.dds
+Deleting texture: dlc_extremism.dds
+Deleting texture: dlc_clones.dds
+Deleting texture: dlc_electioneering.dds
+Deleting texture: ui_mainmenu_backdrop.jpg
+Deleting texture: ui_atlas1.dds
+Deleting texture: ui_scrollbar.dds
+Deleting texture: ui_scrollbar_slider.dds
+Deleting texture: ui_scroll_left.dds
+Deleting texture: ui_scroll_left_h.dds
+Deleting texture: australia_details.jpg
+Deleting texture: canada_details.jpg
+Deleting texture: france_details.jpg
+Deleting texture: germany_details.jpg
+Deleting texture: uk_details.jpg
+Deleting texture: usa_details.jpg
+Deleting texture: ui_policy_slider.dds
+Deleting texture: gui_square.dds
+Deleting texture: gui_checkbox_fill.dds
+Deleting texture: cityscape.jpg
+Deleting texture: loading_gear.dds
+Deleting texture: f_hairback_5.dds
+Deleting texture: f_jacket_10.dds
+Deleting texture: f_skin_10.dds
+Deleting texture: f_shirt_10.dds
+Deleting texture: f_tie_10.dds
+Deleting texture: f_face_6.dds
+Deleting texture: f_whites_6.dds
+Deleting texture: f_eyes_6.dds
+Deleting texture: f_hair_5.dds
+Deleting texture: 117866.dds
+Deleting texture: f_hairback_1.dds
+Deleting texture: f_jacket_2.dds
+Deleting texture: f_skin_2.dds
+Deleting texture: f_shirt_2.dds
+Deleting texture: f_face_2.dds
+Deleting texture: f_whites_2.dds
+Deleting texture: f_eyes_2.dds
+Deleting texture: f_hair_1.dds
+Deleting texture: 423551.dds
+Deleting texture: f_hairback_2.dds
+Deleting texture: f_jacket_8.dds
+Deleting texture: f_skin_8.dds
+Deleting texture: f_shirt_8.dds
+Deleting texture: f_tie_8.dds
+Deleting texture: f_face_1.dds
+Deleting texture: f_whites_1.dds
+Deleting texture: f_eyes_1.dds
+Deleting texture: f_hair_2.dds
+Deleting texture: 102716.dds
+Deleting texture: m_jacket_15.dds
+Deleting texture: m_skin_15.dds
+Deleting texture: m_shirt_15.dds
+Deleting texture: m_tie_15.dds
+Deleting texture: m_face_19.dds
+Deleting texture: m_whites_19.dds
+Deleting texture: m_eyes_19.dds
+Deleting texture: m_hair_1.dds
+Deleting texture: 557106.dds
+Deleting texture: m_jacket_17.dds
+Deleting texture: m_skin_17.dds
+Deleting texture: m_shirt_17.dds
+Deleting texture: m_tie_17.dds
+Deleting texture: m_face_10.dds
+Deleting texture: m_whites_10.dds
+Deleting texture: m_eyes_10.dds
+Deleting texture: m_hair_8.dds
+Deleting texture: m_glasses_7.dds
+Deleting texture: 931831.dds
+Deleting texture: m_face_12.dds
+Deleting texture: m_whites_12.dds
+Deleting texture: m_eyes_12.dds
+Deleting texture: m_hair_10.dds
+Deleting texture: 669837.dds
+Deleting texture: f_hairback_6.dds
+Deleting texture: f_jacket_1.dds
+Deleting texture: f_skin_1.dds
+Deleting texture: f_shirt_1.dds
+Deleting texture: f_tie_1.dds
+Deleting texture: f_face_4.dds
+Deleting texture: f_whites_4.dds
+Deleting texture: f_eyes_4.dds
+Deleting texture: f_hair_6.dds
+Deleting texture: f_glasses_3.dds
+Deleting texture: 722262.dds
+Deleting texture: f_hairback_7.dds
+Deleting texture: f_jacket_3.dds
+Deleting texture: f_skin_3.dds
+Deleting texture: f_shirt_3.dds
+Deleting texture: f_face_8.dds
+Deleting texture: f_whites_8.dds
+Deleting texture: f_eyes_8.dds
+Deleting texture: f_hair_7.dds
+Deleting texture: f_glasses_2.dds
+Deleting texture: 104042.dds
+Deleting texture: m_jacket_9.dds
+Deleting texture: m_skin_9.dds
+Deleting texture: m_shirt_9.dds
+Deleting texture: m_tie_9.dds
+Deleting texture: m_hair_5.dds
+Deleting texture: 037486.dds
+Deleting texture: f_hairback_4.dds
+Deleting texture: f_hair_4.dds
+Deleting texture: 020924.dds
+Deleting texture: m_jacket_3.dds
+Deleting texture: m_skin_3.dds
+Deleting texture: m_shirt_3.dds
+Deleting texture: m_tie_3.dds
+Deleting texture: m_face_3.dds
+Deleting texture: m_whites_3.dds
+Deleting texture: m_eyes_3.dds
+Deleting texture: m_hair_15.dds
+Deleting texture: 220812.dds
+Deleting texture: f_jacket_6.dds
+Deleting texture: f_skin_6.dds
+Deleting texture: f_shirt_6.dds
+Deleting texture: 408506.dds
+Deleting texture: m_jacket_20.dds
+Deleting texture: m_skin_20.dds
+Deleting texture: m_shirt_20.dds
+Deleting texture: m_tie_20.dds
+Deleting texture: m_face_2.dds
+Deleting texture: m_whites_2.dds
+Deleting texture: m_eyes_2.dds
+Deleting texture: m_glasses_5.dds
+Deleting texture: 093556.dds
+Deleting texture: m_jacket_10.dds
+Deleting texture: m_skin_10.dds
+Deleting texture: m_shirt_10.dds
+Deleting texture: m_tie_10.dds
+Deleting texture: m_face_15.dds
+Deleting texture: m_whites_15.dds
+Deleting texture: m_eyes_15.dds
+Deleting texture: m_hair_2.dds
+Deleting texture: 223145.dds
+Deleting texture: f_jacket_9.dds
+Deleting texture: f_skin_9.dds
+Deleting texture: f_shirt_9.dds
+Deleting texture: f_glasses_5.dds
+Deleting texture: 801568.dds
+Deleting texture: m_face_8.dds
+Deleting texture: m_whites_8.dds
+Deleting texture: m_eyes_8.dds
+Deleting texture: 716700.dds
+Deleting texture: m_jacket_12.dds
+Deleting texture: m_skin_12.dds
+Deleting texture: m_shirt_12.dds
+Deleting texture: m_tie_12.dds
+Deleting texture: m_glasses_4.dds
+Deleting texture: 643737.dds
+Deleting texture: f_hairback_8.dds
+Deleting texture: f_face_10.dds
+Deleting texture: f_whites_10.dds
+Deleting texture: f_eyes_10.dds
+Deleting texture: f_hair_8.dds
+Deleting texture: 117549.dds
+Deleting texture: m_jacket_1.dds
+Deleting texture: m_skin_1.dds
+Deleting texture: m_shirt_1.dds
+Deleting texture: m_tie_1.dds
+Deleting texture: m_face_9.dds
+Deleting texture: m_whites_9.dds
+Deleting texture: m_eyes_9.dds
+Deleting texture: m_glasses_1.dds
+Deleting texture: 656293.dds
+Deleting texture: m_face_5.dds
+Deleting texture: m_whites_5.dds
+Deleting texture: m_eyes_5.dds
+Deleting texture: m_hair_13.dds
+Deleting texture: 882325.dds
+Deleting texture: ui_topstrip_bg.dds
+Deleting texture: ui_topstrip_rightmost.dds
+Deleting texture: ui_topstrip_spacer.bmp
+Deleting texture: ui_icon_base.dds
+Deleting texture: circ_highlight.dds
+Deleting texture: gui_arrow.dds
+Deleting texture: tile_foreignpolicy.bmp
+Deleting texture: icons_bordercontrols.dds
+Deleting texture: icons_militaryspending.dds
+Deleting texture: icons_foreignaid.dds
+Deleting texture: icons_immigration.dds
+Deleting texture: icons_racialtension.dds
+Deleting texture: icons_foreignrelations.dds
+Deleting texture: icons_internationaltrade.dds
+Deleting texture: tile_welfare.bmp
+Deleting texture: sit_icons_homelessness.dds
+Deleting texture: icons_unemployedbenefit.dds
+Deleting texture: icons_statepensions.dds
+Deleting texture: icons_childbenefit.dds
+Deleting texture: icons_disabilitybenefit.dds
+Deleting texture: icons_povertyrate.dds
+Deleting texture: icons_equality.dds
+Deleting texture: icons_privatehousing.dds
+Deleting texture: icons_privatepensions.dds
+Deleting texture: icons_tobaccotax.dds
+Deleting texture: icons_alcohollaw.dds
+Deleting texture: icons_legaldrugconsumption.dds
+Deleting texture: tile_economy.bmp
+Deleting texture: sit_icons_uncompetitiveeconomy.dds
+Deleting texture: icons_labourlaws.dds
+Deleting texture: icons_pollutioncontrols.dds
+Deleting texture: icons_cleanenergysubsidies.dds
+Deleting texture: icons_recycling.dds
+Deleting texture: icons_technologygrants.dds
+Deleting texture: icons_agriculturesubsidies.dds
+Deleting texture: icons_organicsubsidy.dds
+Deleting texture: icons_maternityleave.dds
+Deleting texture: icons_bansundayshopping.dds
+Deleting texture: icons_workingweek.dds
+Deleting texture: icons_Technology.dds
+Deleting texture: icons_workerproductivity.dds
+Deleting texture: icons_unemployment.dds
+Deleting texture: icons_co2.dds
+Deleting texture: icons_energyefficiency.dds
+Deleting texture: icons_lowincome.dds
+Deleting texture: icons_middleincome.dds
+Deleting texture: icons_highincome.dds
+Deleting texture: icons_gdp.dds
+Deleting texture: icons_tourism.dds
+Deleting texture: icons_wages.dds
+Deleting texture: icons_currency.dds
+Deleting texture: tile_tax.bmp
+Deleting texture: icons_corporationtax.dds
+Deleting texture: icons_salestax.dds
+Deleting texture: icons_petroltax.dds
+Deleting texture: icons_propertytax.dds
+Deleting texture: icons_inheritancetax.dds
+Deleting texture: icons_alcoholtax.dds
+Deleting texture: icons_incometax.dds
+Deleting texture: icons_airlinetax.dds
+Deleting texture: icons_microgenerationgrants.dds
+Deleting texture: tile_publicservices.bmp
+Deleting texture: sit_icons_doctorsstrike.dds
+Deleting texture: sit_icons_obesity.dds
+Deleting texture: icons_creationism.dds
+Deleting texture: icons_sciencefunding.dds
+Deleting texture: icons_abortionlaw.dds
+Deleting texture: icons_statehealthservice.dds
+Deleting texture: icons_stateschools.dds
+Deleting texture: icons_technologycolleges.dds
+Deleting texture: icons_universitygrants.dds
+Deleting texture: icons_health.dds
+Deleting texture: icons_education.dds
+Deleting texture: icons_environment.dds
+Deleting texture: icons_privatehealth.dds
+Deleting texture: icons_privateschools.dds
+Deleting texture: tile_lawandorder.bmp
+Deleting texture: sit_icons_alcoholism.dds
+Deleting texture: sit_icons_innercityriots.dds
+Deleting texture: sit_icons_streetgangs.dds
+Deleting texture: sit_icons_internetcrime.dds
+Deleting texture: sit_icons_vigilantemobs.dds
+Deleting texture: sit_icons_ghettos.dds
+Deleting texture: icons_handgunlaws.dds
+Deleting texture: icons_intelligenceservices.dds
+Deleting texture: icons_narcotics.dds
+Deleting texture: icons_policeforce.dds
+Deleting texture: icons_prisons.dds
+Deleting texture: icons_racediscriminationact.dds
+Deleting texture: icons_jurytrial.dds
+Deleting texture: icons_legalaid.dds
+Deleting texture: icons_idcards.dds
+Deleting texture: icons_legaliseprostitution.dds
+Deleting texture: icons_communitypolicing.dds
+Deleting texture: icons_crimerate.dds
+Deleting texture: icons_violentcrimerate.dds
+Deleting texture: tile_transport.bmp
+Deleting texture: icons_roadbuilding.dds
+Deleting texture: icons_railsubsidies.dds
+Deleting texture: icons_caremmissionslimits.dds
+Deleting texture: icons_carusage.dds
+Deleting texture: icons_railusage.dds
+Deleting texture: icons_bususage.dds
+Deleting texture: icons_airtravel.dds
+Deleting texture: icons_oildemand.dds
+Deleting texture: icons_oilsupply.dds
+Deleting texture: icons_oilprice.dds
+Deleting texture: icons_trafficcongestion.dds
+Deleting texture: flag_germany.jpg
+Deleting texture: ui_effect_bar_bg.dds
+Deleting texture: ui_effect_bar.dds
+Deleting texture: effect_icon_income.dds
+Deleting texture: effect_icon_membership.dds
+Deleting texture: graph.dds
+Deleting texture: slider_bar.dds
+Deleting texture: divider.bmp
+Deleting texture: ui_large_progbar_bg.dds
+Deleting texture: ui_large_progbar.dds
+Deleting texture: ui_policy_apply_button.dds
+Deleting texture: ui_policy_apply_button_h.dds
+Deleting texture: ui_policy_cancel_button.dds
+Deleting texture: ui_policy_cancel_button_h.dds
+Deleting texture: ui_policy_revert_button.dds
+Deleting texture: ui_policy_revert_button_h.dds
+Deleting texture: icons_citizenshiptests.dds
+Deleting texture: icons_importtarrifs.dds
+Deleting texture: icons_nationalservice.dds
+Deleting texture: icons_carbontax.dds
+Deleting texture: icons_cartax.dds
+Deleting texture: icons_graduatetax.dds
+Deleting texture: icons_hybridcarsinitiative.dds
+Deleting texture: icons_flattax.dds
+Deleting texture: icons_capitalgainstax.dds
+Deleting texture: icons_internettax.dds
+Deleting texture: icons_luxurygoodstax.dds
+Deleting texture: icons_marriedtaxallowance.dds
+Deleting texture: icons_mortgagetaxrelief.dds
+Deleting texture: icons_plasticbagtax.dds
+Deleting texture: icons_mansiontax.dds
+Deleting texture: icons_junkfoodtax.dds
+Deleting texture: icons_healthfoodsubsidies.dds
+Deleting texture: icons_healthtaxcredits.dds
+Deleting texture: icons_schooltaxcredits.dds
+Deleting texture: icons_enterpriseinvestmentscheme.dds
+Deleting texture: icons_recreationaldrugstax.dds
+Deleting texture: icons_armedpolice.dds
+Deleting texture: icons_cctvcameras.dds
+Deleting texture: icons_curfews.dds
+Deleting texture: icons_deathpenalty.dds
+Deleting texture: icons_detentionwithouttrial.dds
+Deleting texture: icons_gambling.dds
+Deleting texture: icons_gatedcommunities.dds
+Deleting texture: icons_internetcensorship.dds
+Deleting texture: icons_phonetapping.dds
+Deleting texture: icons_prisonertagging.dds
+Deleting texture: icons_racialprofiling.dds
+Deleting texture: icons_speedcameras.dds
+Deleting texture: icons_privateprisons.dds
+Deleting texture: icons_tasers.dds
+Deleting texture: icons_policedrones.dds
+Deleting texture: icons_consumerrights.dds
+Deleting texture: icons_ruraldevelopmentgrants.dds
+Deleting texture: icons_smallbusinessgrants.dds
+Deleting texture: icons_spaceprogram.dds
+Deleting texture: icons_taxshelters.dds
+Deleting texture: icons_worksafetylaw.dds
+Deleting texture: icons_oildrillingsubsidy.dds
+Deleting texture: icons_foreigninvestortaxbreaks.dds
+Deleting texture: icons_roboticsresearch.dds
+Deleting texture: icons_adulteducationsubsidies.dds
+Deleting texture: icons_faithschoolsubsidies.dds
+Deleting texture: icons_freeeyetests.dds
+Deleting texture: icons_freeschoolmeals.dds
+Deleting texture: icons_organdonation.dds
+Deleting texture: icons_publiclibraries.dds
+Deleting texture: icons_schoolprayers.dds
+Deleting texture: icons_stemcells.dds
+Deleting texture: icons_youthclubsubsidies.dds
+Deleting texture: icons_schoolvouchers.dds
+Deleting texture: icons_artssubsidies.dds
+Deleting texture: icons_healthcarevouchers.dds
+Deleting texture: icons_foodstandards.dds
+Deleting texture: newturn_event.jpg
+Deleting texture: newturn_economy.jpg
+Deleting texture: newturn_budget.jpg
+Deleting texture: newturn_polls.jpg
+Deleting texture: newturn_cabinet.jpg
+Deleting texture: event_stockmarket.jpg
+Deleting texture: money_pie.dds
+Deleting texture: chartkey.dds
+Deleting texture: icons_childcareprovision.dds
+Deleting texture: icons_statehousing.dds
+Deleting texture: icons_welfarefrauddept.dds
+Deleting texture: icons_winterfuelsubsidy.dds
+Deleting texture: icons_rentcontrols.dds
+Deleting texture: icons_foodstamps.dds
+Deleting texture: newturn_security.jpg
+Deleting texture: event_airplane.jpg
+Deleting texture: effect_icon_event.dds
+Deleting texture: newturn_dilemma.jpg
+Deleting texture: newturn_vote.jpg
+Deleting texture: icons_biofuelsubsidies.dds
+Deleting texture: icons_buslanes.dds
+Deleting texture: icons_bussubsidies.dds
+Deleting texture: icons_cleanfuelsubsidy.dds
+Deleting texture: icons_freebuspasses.dds
+Deleting texture: icons_monorail.dds
+Deleting texture: icons_sateliteroadpricing.dds
+Deleting texture: icons_schoolbuses.dds
+Deleting texture: icons_telecommutinginitiative.dds
+Deleting texture: icons_tollroads.dds
+Deleting texture: icons_fuelefficiency.dds
+Deleting texture: sit_icons_technologicaladvantage.dds
+Deleting texture: sit_icons_highproductivity.dds
+Deleting texture: sit_icons_organisedcrime.dds
+Deleting texture: event_skyscrapers.jpg
+Deleting texture: sit_icons_asthmaepidemic.dds
+Deleting texture: sit_icons_gridlock.dds
+Deleting texture: event_operation.jpg
+Deleting texture: election_results_bar.bmp
+Deleting texture: arrow_white.dds
+Deleting texture: arrow_both.dds
+Deleting texture: ui_popup_event.dds
+Deleting texture: sit_icons_hospitalovercrowding.dds
+Deleting texture: minister_unknown.jpg
+Deleting texture: f_face_9.dds
+Deleting texture: f_whites_9.dds
+Deleting texture: f_eyes_9.dds
+Deleting texture: 781264.dds
+Deleting texture: m_jacket_4.dds
+Deleting texture: m_skin_4.dds
+Deleting texture: m_shirt_4.dds
+Deleting texture: m_tie_4.dds
+Deleting texture: m_face_11.dds
+Deleting texture: m_whites_11.dds
+Deleting texture: m_eyes_11.dds
+Deleting texture: m_hair_4.dds
+Deleting texture: 640707.dds
